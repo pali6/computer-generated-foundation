@@ -1,0 +1,39 @@
+Item #: SCP-90
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-90 is to be kept within a standard containment vault at Site-███. In the event that an employee of SCP-90's factory is killed by an instance of SCP-90-A-2 (i.e. engineers), Foundation agents are to be notified.
+
+Any possible copies of SCP-90-A-2 instances are to be kept on-site until at least one instance of SCP-90-A-2 manifests. Second instances are to be kept in standard containment canister in a standard storage container until personnel are able to determine the nature of SCP-90-A-2.
+
+Description: SCP-90-A is a sensory cognitohazard capable of influencing the body in a way that historically implies a body repair or uglier body repairing. As a result, SCP-90-A-2 instances have been confirmed to have no anomalous properties and to be harmless to non-anomalous humans.
+
+Previously, instances of SCP-90-A-2 became more appealing. It began to show extreme variations in the behavior of instances of SCP-90-A-2. More and more instances of SCP-90-A-2 (i.e. engineers) began turning on more and more sophisticated mechanisms to repair damaged bodies, which are compared to an average human. This leads to a spontaneous increase of repair.
+
+By the start of ████, SCP-90-A-2 instances were holding a 1-3x multiplier of repair work. The increase in repair work resulted in an increase in maintenance costs.
+
+While the overall scaling of repair was significantly more costly than an average human, the number of repairs per employee increased. As the number of instances increased, the ratio of SCP-90-A-2 instances to the average human repair cost increased slowly, to the point where they could potentially cost № during the entire rest of the year.
+
+All previous figures (based upon ███, ██, and ██ repair jobs) have been subject to change due to the occurrence of an instance of SCP-90-A-2, but the current figure is ██. The increasing number of instances of SCP-90-A-2 also increased maintenance costs steadily, but the rate of increases had increased steadily to the point where the cost per hour of repair increased exponentially with each additional instance.
+
+Although the number of instances of SCP-90-A-2 decreased steadily for the majority of SCP-90-A's manufacturing line, while the number of repair workers increased exponentially. The number of instances of SCP-90-A-2 and SCP-90-A-1 increased exponentially, with an increase of ██ to ██ instances per day.
+
+The increased costs put an additional strain on Foundation resources, and, as such, the cost per year of SCP-90-A operation increased exponentially as the number of instances of SCP-90-A-2 increased. As a consequence, the amount of maintenance personnel required was increased by ██ to ██.
+
+The original conclusion of the paper on SCP-90-A was that the cost of SCP-90-A-2 was increasing. However, the new figure that most closely resembles the original was adjusted back to the amount seen below, and was even more expensive.
+
+It is also notable that the original cost of using water to repair an average human body was currently at [REDACTED].
+
+It is also noteworthy that the number of instances of SCP-90-A-2 instances is roughly equivalent to either an average human's lifespan or a year of lifespan in a typical human.
+
+SCP-90-A-2 instances are made using organic materials and a system of automatic machinery. The precise mechanism by which they work is currently unknown but SCP-90-A-2 instances have been found to be able to save an average human's life with a single finger swipe.
+
+SCP-90-A-2 instances are able to speak through any means of communication. SCP-90-A-2 instances have been seen to use radio transmitters for contact with the outside environment.
+
+In the past, the remaining body parts of a human have been removed for repair. However, the current method is the most efficient and cost-effective way of restoring damaged parts.
+
+SCP-90-A-2 instances are capable of surviving normal water conditions. However, it has been noted that they require heavy amounts of non-filtration water to maintain their strength under the water.
+
+ SCP-894 | SCP-988 | SCP-988 
+
+automaton cognitohazard euclid _image medical mind-affecting scp

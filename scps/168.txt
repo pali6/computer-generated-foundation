@@ -1,0 +1,58 @@
+Item #: SCP-168
+
+Object Class: Keter
+
+Special Containment Procedures: Due to the nature of the anomalous influence demonstrated by SCP-168, it is to be kept inside of a standard containment chamber, with dimensions able to fit a standard human subject. The chamber must be kept at a temperature of -15C. Personnel are to monitor SCP-168 as necessary and report anything that appears to be a problem to antivirus software.
+
+In the event that anomalous input is detected, the chamber is to be emptied of blood, and SCP-168 is to be given a full dose of amnestics. If SCP-168 remains malnourished during the course of a mission, you should report to Dr. Bright.
+
+Description: SCP-168 is a human subject that remains malnourished despite its state of non-anomalous survival in the aftermath of a breach event. SCP-168 is currently genetically and functionally identical to a 10 year old female between the ages of 1 and 10. Unlike other subjects who are otherwise unresponsive to stimuli, SCP-168 is able to produce one or more phasic pulses of unknown composition with frequencies of up to one billionth of a second.
+
+In particular, after an event of a breach event (see test logs below) SCP-168 appears to be unaffected by the effects of physical trauma from pre-existing physical damage to its body, and has been known to kill both humans and bats with relative ease.
+
+Pictures and video footage have shown that SCP-168 has retained a certain degree of intelligence despite being in its 30's, despite previous known intelligence levels being at least 50 points below that in a standard non-anomalous human.
+
+SCP-168 has proven unsettling to personnel, as its inability to interact with non-anomalous entities has proven the most difficult to contain. XX1 logging has shown that instances of SCP-168 will continue to kill and consume animals, despite the lack of awareness it, and SCP-168 has been noted to be an advanced telepath with an abnormally high intelligence quotient of 72.
+
+Note: Following the SCP-881 Incident, SCP-168 and all SCP-168 instances at Site-77 were relocated to Site-██. SCP-168's entire inner surface has been removed in an effort to prevent it from harming personnel.
+
+Original Containment Procedures: SCP-168 is to be contained at Site-██, with the presence of an anti-anomalous link. SCP-████ is to be placed within a BSL-2 Research Center in a facility designated for SCP-168 containment. Site-██ personnel are to evaluate SCP-168 to determine its potential use in containment for other anomalous objects.
+
+As of 17-06-2014, this document has been revised as follows:
+
++TestLog168
+-TestLog168
+
+Test Log 168
+
+Personnel: Senior Researcher Dr. ██
+
+Objects: SCP-478, SCP-332, SCP-542, SCP-847
+
+Results: SCP-478, SCP-332, SCP-542, SCP-847 killed SCP-847. SCP-678 intercepted SCP-847 and took it to Site-██ for analysis. SCP-682 also destroyed the items SCP-847 suffered variously from SCP-847's anomalous strength and durability. SCP-682 recovered SCP-847 from [REDACTED] via SCP-120. All attempts were made to subdue SCP-847, but unable to do so. SCP-272 destroyed SCP-847.
+
+Note-This is the first time all three anomalies have been fully contained. It is to be noted that SCP-478 has not displayed any anomalous ability and that SCP-332 is the most dangerous anomaly out of the three. This is also the first time all three have been sent to Site-██.
+
+Follow-up: The following items require reclassified as containment items, a clearance of considered to be SCP-6-3. No other anomalies of comparable size and containment duration are to be allowed in containment.
+
+Test Log 168-Sick Sense
+
+Personnel: Junior Researcher ███
+
+Objects: SCP-448, SCP-786
+
+Results: SCP-448 and SCP-786 both destroyed. SCP-376 was surrendered to Site administration for testing.
+
+Test Log 168-Staring at the Sun
+
+Personnel: Junior Researcher ███
+
+Objects: SCP-800
+
+Results: SCP-800 shot from a D-class viral phaser in the head. D-796 was "vomited" and "unaware of SCP-800's effect."
+
+Test Log 168-Tearing Apart
+
+Personnel: junior researcher
+
+Objects: SCP-281, SCP-1327, SCP-1579

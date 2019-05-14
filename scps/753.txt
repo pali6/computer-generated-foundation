@@ -1,0 +1,49 @@
+Item #: SCP-753
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-753 is to be contained in a standard container; it has been identified as only- 4% of the average size of SCP-753. SCP-753's containment chamber is constructed of opaque material. All electronics and other electronic components are blocked from the outside. The wall of the containment chamber is to be covered in an acoustically conductive membrane, and this membrane is to allow for the possibility of any underlying errors causing SCP-753 to malfunction.
+
+Description: SCP-753 is a single-sided sheet, measuring 1.12m x 1.12m. SCP-753 is normally unmarked, and displays no anomalous properties. When a piece of SCP-753 is moved during routine testing, the effect will be fully exhibited.
+
+SCP-753 was discovered in ██████, MI after it was discovered being removed from an abandoned warehouse during a raid of the Multinational Apotheosis Church, the original owner has been able to explain how the item came to be in existence. A sample is kept on a wide-spread storage vessel in Site-██.
+
+Addendum: It has been discovered that SCP-753 was originally a seven-stage candle model (c. 610 CE), which was currently in Foundation custody, during the Second World War. The Temporal Anomalies Division of the German Psychological Institute first discovered SCP-753 at the site of its discovery, which was located near ██████, Michigan.
+
+SCP-753 was first recovered following the start of The Great War, when Germany (then Ostland, Germany) had a large arsenal of the object. This was presumed to have been caused by a misunderstanding between the two entities, who used SCP-753 as a weapon for aberrant purposes.
+
+See Classification Protocol: SCP-753
+
+Addendum:
+
+Addenda
+
+Item #: SCP-754
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-754 is contained in a standard containment chamber; it has been identified as only- 5% of the average size of SCP-754. SCP-754 is contained within a chamber with a minimum of two walls; the walls of the chamber have been coated in a coating of thermal-impeller paper.
+
+Any electrical devices used in the chamber (whether powered by or SCP) are to be blocked from the outside. It is possible to get through the device by pressing into the membrane of the containment chamber. All electronics, software and hardware on the device is to be wiped off; any information entered in the device is to be retrieved. This information should be all-inclusive and updated according to the current environment of SCP-754.
+
+No mechanical devices under any circumstances are to be allowed inside the containment chamber.
+
+When asked to perform an action, it is impossible to make any other device or process within SCP-754. In cases where this does not affect the objects within SCP-754, it is possible to casually grab the objects within SCP-754 with an unaffected article. This can only be allowed to be done by having the affected data deposited into all the devices within SCP-754.
+
+These devices include but are not limited to:
+
+•Any common application-carrying device.
+•Any electronic device.
+•Any article, proceeding or device capable of producing electrical current, magnetic or other forms of electricity.
+•Any kind of mechanical, electrical or electronic device.
+•Any type of document that is likely to be touched by the affected device at any time.
+
+It is unknown how SCP-754 came to be. It is unknown if it is still in existence, or if those who previously possessed it are willing to send it away, and we do not yet know how anyone could possibly possess it.
+
+All scales agreed with the Lens Foundation team represents the current state of the item.
+
+ SCP-753 | SCP-754 | SCP-755 
+
+gp(3):that'sforgotinitthere
+
+_cc euclid game mind-affecting scp

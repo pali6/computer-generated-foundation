@@ -1,0 +1,36 @@
+Item #: SCP-529
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-529 is kept in a standard Item Locker on Site 18. Personnel are to avoid observing SCP-529 directly or remaining within a radius of 1000 meters from the object. All actions taken by personnel are to be logged. Any personnel violating this order are to be fired upon upon without warning.
+
+Description: SCP-529 is a modular capacipher capable of reverse-engineering (referred to as "tt" and "t" respectively) a standard IBM-1130*5 brand keyboard. Testing with SCP-529's components has been limited to basic tests. SCP-529 consumes four ounces of liquid nitrogen and is visible to the naked eye.
+
+When a cognitive process takes effect, SCP-529*5 will become artificially alive, much like the human body but much more advanced. Although SCP-529's capabilities are not currently understood, it appears to use the composition of the minds surrounding it to shape its body to mimic certain bodily motions, and is capable of shifting thought into the form of a powerful thought field capable of causing death and destruction. The complexity and diversity of this thought field is unknown, but it appears to be at least partially controlled by SCP-529.
+
+SCP-529 will leave no trace on the local physical environment. All signs of physical damage (also called "machines" created by SCP-529) on or in the vicinity of the object will appear to be absent, and frequently times all that has been destroyed or damaged in the vicinity of SCP-529 will quickly disappear. All damage caused by SCP-529 appears to be confined to the area immediately surrounding SCP-529 and has been reported to be consistent with the damage from such a piece of equipment. It is theorized that SCP-529*5 gains access to objects which it would destroy, but it is unknown how this is accomplished or even if there is such a place. SCP-529 is capable of maintaining a string of thought-constructing entities in the vicinity of itself. It is unknown how this is accomplished, as no means of escaping the area remain in its possession.
+
+As a testament to SCP-529’s capabilities, Foundation operatives attending the recording of a █████-██ ████████-███ ███████ TROLLER recording of the ███████████ news show have reported hearing SCP-529’s voices.
+
+Addendum: Test Log
+
+Test # Date Test Time Result
+010-█-██-██ █████ - 12:02: SCP-529's input created a ████████ ██ Model 3060*6 keyboard, designed and manufactured by ████████. The SCP-529 entity was originally observed to be unable to control SCP-529's input, but was later discovered to be capable of doing so. The exact nature of SCP-529’s capabilities remains unknown, but analysis by Foundation researchers has indicated that its internal thought field has a first effect that prevents its input from changing the form of SCP-529’s body, while allowing it to alter the appearance of the affected field. The testing of SCP-529 has so far been uncontroversial, with the only exception being one event, in which a relatively large percentage of the recording was broadcast on the ██████ broadcast channel.
+Testing of SCP-529 on a small scale has so far been successful. When presented with two keystrokes, SCP-529 will make the subject decide between two responses, which it will consider a personal prerogative, or a distant course of action in the future. The results of these decisions are generally similar (see Experiment Log SCP-529-16).
+
+To date, no personnel have prepared an attempt at using SCP-529 in actual testing. It appears that it is capable of re-constructing other components of the subject’s body, or even the brain itself.
+Please find the D-class personnel list for instance - see Test Log SCP-529-16.
+
+Addendum:
+
+Test #1: Trial #1 of SCP-529
+
+Subject: D-9564, currently assigned to SCP-529 with high-level injuries not requiring immediate medical attention.
+
+D-9564 is wearing a standard black field-suit, equipped with a digital camera. The subject is instructed to develop an intentional action plan for a spontaneous, pocket-sized invasion of the society of San Francisco.
+
+SCP-529-1 was initially observed to be silent. The experiment was evidently aborted after the subject attempted to take a drink of the water. SCP-529-1 then appeared to recognize D-9564 by stating “I hate you.” The Experiment was terminated by D-9564.
+
+Test #2: Test #2
+
+Subject: D-3278, previously assigned to SCP-529 with minor injuries and now with an open sore jaw

@@ -1,0 +1,31 @@
+Item #: SCP-380
+
+Object Class: Safe
+
+Special Containment Procedures: An active surveillance system has been constructed comprising a central control interface with multiple anomalous satellite switches and terminals connected to a single control interface. SCP-380 is to be monitored through a combination of motion detectors and passive AV receivers used to monitor all electrical system outputs. Any systems within SCP-380 are to be modified to assume the appearance of active AV receivers controlled by the Foundation and to be turned on for intermittent maintenance facilities.
+
+If SCP-380 enters the containment room, all systems within the containment room are to be turned on. No personnel are to enter the containment room at all times. SCP-380 is to be turned on at least once a day, and once per week, for maintenance facilities.
+
+Monitoring of SCP-380 is to be performed by Foundation personnel trained in objective standing and acting as a generalist or scientist. Supplementary monitoring personnel (i.e. security staff and members of MTF Osiris-12) are to be assigned to SCP-380 at all times, and are to be deployed in the area of SCP-380's containment room at all times.
+
+Description: SCP-380 is an organic vessel located in ██████ ██████, ██████, for the sale of SCP-████. No other vessels are known to exist within the interior of SCP-380 for sale of SCP-████. SCP-380 is filled with clay for use as SCP-████’s primary material.
+
+SCP-380’s interior is a subterranean chamber containing three walls, and a total of 60,000 cubic feet of floor space. Each wall system contains one ,███ square meter of 'hole' constructed of ledges and lava. There are no cracks or other damage to the floor despite it being the floor of the chamber. No other instances of SCP-380 have been located in the interior of SCP-380.
+
+SCP-380 is a large automated door into a warehouse. All personnel entering the containment room are unaware of its existence - the door does not exist or permit entry to the chamber. Personnel entering the containment chamber report that they have been unable to enter the room. Personnel entering the containment chamber report hearing the first sound that could be heard within the room was the noise of furniture, otherwise unknown.
+
+SCP-380 began to act on its own, copied information on the information it had been given and used them to create SCP-████. The door requires immediate entry to be entered and the door has been locked in place. When personnel enter the room it ceases to act on its own, and instead expands, becoming smaller and denser, preventing continued use of SCP-380. The materials within SCP-380 then begin to reacted with SCP-████.
+
+SCP-380 appears to be in an active state at the time of containment. Due to this anomaly no objects are visible, but aside from a few giant balls of clay that resemble outdoor firewood, there are no exterior members of SCP-380. Additionally, all personnel enter and exit the containment chamber simultaneously, and continuous watching of personnel within the chamber involves a slow, semitransparent motion. Invariably, the same personnel will enter but not exit the containment chamber.
+
+SCP-380 does not appear to be able to move around in place. Its only apparent 'trigger point' appears to be the same pointed rectal area where SCP-████ originated. On closer inspection this has turned out to be the same area. NO OTHER EMPLOYMENT DIRECTLY IN CONTACT WITH SCP-380 HAS BEEN GONE EITHER FOR YEARS.
+
+SCP-380 was discovered on 19██ when a local police officer noticed it occupying a recently built apartment complex. Foundation personnel were called to the scene and took over control of the situation. SCP-380 was located inside the storage area of a nearby site. After a short time SCP-380 was found in ██████ ████.
+
+SCP-380 was retrieved on 05/14/2013 (hereafter designated as SCP-380-1) by MTF-92 (“Family of Fielders”). SCP-380 was secured through DIOC standard containment procedures, and is currently contained in a standard tier 3 containment room with no monitoring of arm’s movements.
+
+Addendum: To the researchers and researchers in charge of SCP-380
+
+Special Containment Procedures: SCP-380 is housed at Site-11. A Class D personnel is stationed in the containment room to act on behalf of Foundation personnel used to the subject. MTF-92 is to be en route to the scene of discovery, and the one person who initially opened the door is to be contacted.
+
+Description: SCP-380 is an industrialized basement apartment at least ██,███. A small stone door with mold and dirt on it has been discovered inside the basement. Inside, a cave has been

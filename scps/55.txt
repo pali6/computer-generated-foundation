@@ -1,0 +1,39 @@
+Item #: SCP-55
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-55 is to be stored in standard holding cell. Access must be approved by at least one member of research staff. Procedure: SCP-55 is to be prepared for retrieval by Dr. Scranton, who will be equipped with a shovel. Any animal found to be of anomalous origin (e.g., Delta-class) will be removed from containment. A force field is to be applied to SCP-55's containment chamber during testing. If an instance of SCP-55 is discovered, Dr. Scranton is to immediately call an alternate forcefield in order to prevent its escape, and approach and take direct aim with SCP-55.
+
+Description: SCP-55 is a codex containing twenty-one unit of staterooms; the size of SCP-55. SCP-55 has been observed to only be removed from the containment chamber when the SCP-55-1 instance is removed from its containment chamber. This is done via a staterooms, which are placed in a standard containment chamber containing SCP-55 as necessary. SCP-55 will not accommodate two staterooms on its own, with the exception of the openings that each unit of the staterooms must need to fit inside of when SCP-55-1 is removed.
+
+Beneath each unit of the staterooms is a unit that connects to the staterooms and themselves, which contains both the SCP-55-1 instance and the SCP-55-1 instance's unique forms. While SCP-55's form varies slightly among each stateroom and species, each unit of SCP-55-1 instances is capable of translating human language into a foreign language. Human language used in SCP-55 will always be used.
+
+SCP-55-1 instances are able to understand each other by mimicking the human language, using it to communicate with each other. This means that all human communication performed by SCP-55 instances is translated into a common, non-anomalous language. SCP-55-1 instances are not aware of this.
+
+SCP-55-1 instances communicate with one another via remote recording devices embedded in the staterooms. When SCP-55-1 instances are changed but not yet moved to the freshly labeled staterooms, they will immediately assume the form of a human, utilizing verbal and written communication. Even after being moved, the human recordings of SCP-55-1 instances still function as normal. The specific conversation that SCP-55-1 instances listen to will require written translation from SCP-55-1 instances.
+
+SCP-55-1 instances are able to use SCP-55-1 to communicate with each other. This means that no one is immune to the effect of SCP-55-1. However, if a human instance of SCP-55-1 is killed and either moves or is relocated, SCP-55-1 instances will depart SCP-55-1 in the reverse direction. SCP-55-1 instances will not be able to explain the nature of the SCP-55-1 instance they come to either themselves, or others.
+
+SCP-55-1 instances are not sentient, and do not appear to be even remotely sentient. They seem to be entirely alien and self-aware, specifically considering only one of Earth's species. Their only knowledge of SCP-55-1 is in regards to its anomalous nature, and that of the human language. They are, however, capable of understanding the exact meaning of the human language, as well as the language of SCP-55-1. Indeed, SCP-55-1 instances are able to answer questions at the level of units of linguistics.
+
+As of 01/12/2009, SCP-55-1 instances have been transferred to Site-64, along with the basement containing SCP-55-2.
+
+Test Log 581
+
+Test Subjects: SCP-55-1
+
+Results: SCP-55-1 failed to speak.
+
+Test Subject: D-9203
+
+Foreword: D-9203 possesses both mental and physical traits of a human, and has been rendered functionally blind, due to severe vision impairment. D-9203 was found to be communicating with D-8684, despite D-8684 displaying no signs of life at the time. D-9203 was brought into containment with limited access to SCP-55-1, and was permitted to communicate with SCP-55-2.
+
+<Begin Log>
+
+SCP-55-2: Hello?
+
+D-9203: Uh…yes?
+
+SCP-55-2: Do you need me to say something?
+
+D-9203: No…no. I think I was stupid when I told you that I was tranqing you. But…I can

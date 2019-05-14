@@ -1,0 +1,50 @@
+Item #: SCP-764
+
+Object Class: Keter
+
+Special Containment Procedures: In the vast majority of cases, any and all plastics containing SCP-764 have received Class II amnestics and are stored in the chemical storage area of Site-19.
+
+Description: The process by which an object enters SCP-764's effects is dependent on the extraordinary energy that was initially absorbed into the object. The ambient energy continues to be passed through the object until it meets the "bucket" of energy, during which it will become SCP-764-1.
+
+SCP-764-1 is a large, round, solid object with a diameter of 5 meters and a mass of 8.1 kilograms.
+
+SCP-764-1 has an extraordinary ability to destroy any and all forms of mass, including gold, coal, concrete, steel, and wood. When affected, it will take a type of mass that currently has a mass greater than or equal to its mass, when no humans are present. SCP-764-1 will destroy any material that is more than 0.6 times the mass of SCP-764-1.
+
+SCP-764-1 has two defining physical characteristics. The first is its ability to destroy any and all mass that is more than 0.6 times the mass of SCP-764-1. SCP-764-1 will not destroy any mass that is greater than 0.6 times the mass of SCP-764-1. The effect will also apply at an intensity of 0.2 cents per kg in any electric charge.
+
+The second characteristic is the fact that SCP-764-1 has no "batteries" that need to sustain it. The only components needed to drive its current energy sources are SCP-764-1 itself and its "bucket", which is itself and a set of breaking protrusions. SCP-764-1 has no special mutation or "magical" properties that could be used in its battle against other objects.
+
+It has been determined that SCP-764-1 is related to other objects that are 0.6 times the mass of SCP-764-1, including SCP-1014-1, SCP-796-1, and SCP-834-1.
+
+Recovery Log: SCP-764 was located on 05/02/1972, in an abandoned warehouse in [REDACTED]. It was found in a storage bag with other objects, and was contained. Scans of the object's contents resulted in the following discoveries.
+
+•SCP-764 is currently with the following mass:
+
+•SCP-764 is stored in dry storage at Site-19.
+•SCP-764 is in the shape of a blue apple with a beak.
+•SCP-764 is in the shape of an empty miniature golf cart.
+•SCP-764 has four legs with a pair of wings and is 2 meters in length.
+•SCP-764 has a pugnacious yet threatening grin.
+•SCP-764 has wings and can fly.
+•SCP-764 has a beak.
+•SCP-764 has wings and can fly.
+•SCP-764 has a beak.
+•SCP-764 has a beak.
+•SCP-764 has a beak.
+•SCP-764 has red eyes with three holes.
+•SCP-764 has red eyes with three holes.
+
+Should other objects experience similar exploits, they should be maintained and considered vulnerable to similar exploitation attempts.
+
+All SCP-764-1 found with absolutely no less than 1.1 grams of material within one hour has been reported to have been destroyed.
+
+Addendum 764-01: SCP-764 was twice contained before, but the discovery process in both cases recontained the object. It is recommended that a carefully considered military approach be used to destroy SCP-764 when in its active state, or at least in any other containment cell in the Foundation.
+
+Addendum 764-02: Two groups, "Anti-Spiritual Experience" and "Aptitude Testing", are currently testing SCP-764 to see whether it is capable of physical resistance. They describe it as a "soul-eating knife" with which it can destroy matter.
+
+To anyone who will read this, I'd like to state my appreciation for your current in-person transit to the █████ Exhibit Hall. I'd also like to note that you are, for whatever reason, not allowed to view the exhibits.
+
+Remember, the only reason an exhibition is allowed to exist at the center of SCP-764's object class is if the exhibit design actually has the ability to change its configuration.
+
+Footnotes
+1. This is because the object was put in

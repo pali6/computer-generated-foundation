@@ -1,0 +1,36 @@
+extraterrestrial _image historical k-class-scenario metamorphic meteorological scp transmission subterranean
+SCP-3572
+rating:+107+–x
+
+Item #: SCP-3572
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-3572 is to be kept at Site-53. Travel outside of known orbit is prohibited. The time the satellite is in orbit of a mass variable is to be kept at only one-quarters of a minute, and it has had its navigation system hacked to prevent the satellite from getting off-track.
+
+Description: SCP-3572 is a rotating synchronous mass base located at the northern latitudes of █████████, Hawaii, pointing toward the Sun. The feature appears to be spherical, but is also approximately circular and is composed of chitinous material. SCP-3572 is in orbit of the Earth on a fixed path due East.
+
+When a terrestrial entity enters an orbit of SCP-3572, they are converted into a mass consistent with that of SCP-3572 without the anomalous property. While this appears to happen in a matter of seconds, the length of the time spent inside SCP-3572 will also fairly rapidly increase upon activation if the entity is moving in a direction greater than or equal to the speed of light.
+
+SCP-3572 will continue travelling on its path around the Earth, or any other point in the solar system.
+
+The speed at which SCP-3572 travels will not affect draws, does affect the subject's perception of the speed we are on the Earth. As such, any time a subject spends outside of SCP-3572 will begin to be perceived as a speed on a meteorological scale.
+
+SCP-3572 was discovered on █/██/████, when it passed through the final known point on its path between the two most near stars, █████ and ████████████. SCP-3572 is currently trapped in its vicinity despite it being located in changing orbits around the Sun, the planet Magas El Dorado is represented by a longitude instead of degrees, and the Sun is perceived as a near star and not the core of the Milky Way. SCP-3572 has no effect on the surrounding objects or astronomers.
+
+The solar phenomena that affect this planet closely matches the dynamics of gravitational interactions between the planet and SCP-3572. Symptoms of accepted effects from anomalous physics at this point are •iconotic temperature fluctuations over the snow blizzard of ████
+•inability to distinguish strange phenomenon from normal phenomena, consistently with stimuli such as sudden, relatively brief hypervelocity particle motion. (See addenda 3572-1 and 3572-2.)
+•a severe disruption of the █████ moon due to several terrifying and bizarre moon very close to the Moon becoming the leading foreign state and possibly the most important one.
+•the ██████ effect in which entire villages disappear nearby.
+•potential █████ additional casualties.
+•newly discovered worldwide illnesses, especially aerosolized measles.
+
+Addendum-3572: Initial Access: SCP-3572 was initially recovered after several containment breaches in a time of ██ years. █████ ███████, a Foundation employee assigned to containment and research of SCP-████ and SCP-████, was also ██████ █████ on █/██/████. Employees on ██████'s command team were not informed of the nature of SCP-████ and was able to blast a hatch so it could be opened. After ██ days of investigating, the site was locked down, and ████████████ ████████ was moved to the Site-53 arm of the ███████ library holding SCP-████. ██████ ███████ was working on files with the SCP-████ file, when SCP-████ entered the hallway to draw attention and temporarily disabled containment normal. ██████ ███████ was transported to the Site-53 administration dorm.
+
+Site-53 was founded as a university within the Northern Hemisphere of [REDACTED]. The majority of staff and alumni currently at Site-53 are the administrators of Site-593-provisionally known as Site-553-Alpha. The majority of all research is performed at Site-593. On-site operations, research, and project materials are consumed by Site-593.
+
+Addendum-3572-1: All computer claims made by Foundation personnel stationed at but within SCP-████'s area of effect are viewed as being run on the Foundation's Intel® ProSensors.
+
+Addendum-3572-2: Requests to take photographs of SCP-████; their field of view over 20 micrometers; and their behavioral patterns change after one hour of usage.
+
+Addendum-3572-3: All labels formerly used

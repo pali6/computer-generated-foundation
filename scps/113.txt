@@ -1,0 +1,88 @@
+Item #: SCP-113
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-113 is stored in a lab at Site-77. The location of SCP-113’s lab is to be kept within Site-77’s advanced bioethics research wing, and the lab’s circuit is to be monitored at all times by a Level-3 bioethicist. Should any component of SCP-113’s bioelectricity be observed, a bio-electric energy source is to be placed within SCP-113’s containment chamber to ensure that this bioelectricity is maintained.
+
+Any personnel wishing to access SCP-113’s containment chamber should undergo Level-3 bioethics clearance training before entry into Foundation custody.
+
+Description: SCP-113 is a female human of African ancestry. Should SCP-113 have been produced by human hands, this number may be used to determine if SCP-113 was a male or female when not in containment.
+
+SCP-113’s bioelectricity is modulated to suit domestic needs and is activated by a frictionless mechanism. Data from SCP-113’s bioelectricity indicates that the object’s bioelectricity is generated from the contact between a human and its brain via small X-ray ports located on the head.
+
+SCP-113 possesses an ability to forcibly remove any form of biological matter from a human or other species through bioelectricity.
+
+SCP-113’s bioelectricity-related abilities have been only partially demonstrated, due to the lack of any living specimens of the species. It is likely that SCP-113 may also be capable of manipulating non-biological components in humans.
+
+There is currently no known method to reverse the effects of SCP-113 on organisms under Foundation containment.
+
+SCP-113’s bioelectricity is not worn off when SCP-113 is friendly or in containment.
+
+mother.jpg
+
+A list and sample of SCP-113
+
+SCP-113 is considered a family member of Habitat for the Anomalous. SCP-113’s bioelectricity is to be monitored in order to ensure that bioelectricity affects all members of the family.
+
+It is unknown exactly what changes cause SCP-113 to activate its bioelectricity. Standard measurement of bioelectricity, such as the increase in the intensity of bioelectricity present during anaerobic activities, have so far been unable to correlate with life-threatening bioelectricity.
+
+All Bioelectricity Reference Documents, Protocols, and Procedures now exhibit the following warning notes:
+
+Please take a moment to consider your current bioelectricity level, and then re-energize the following Bioelectrical circuits to ensure that your bioelectricity continues to apply just the way it was meant to.
+
+In order to continue your bioelectricity programs, a test involving SCP-113 needs to be performed by a technically competent person using an approved procedure. You may request this in person or via a contact, which should be listed in Class-B containment within a standard biocontainment cell. Failure to complete the test so as to meet these guidelines may result in disciplinary action.
+
+Note: Do not attempt to perform any tests on objects your Foundation has not tested to ensure the safety of your bioelectricity. For this reason, further testing of SCP-113, as well as other bioelectricity devices is not recommended.
+
+In the event you would be denied full Bioelectricity clearance, personally check with one of the staff assigned to SCP-113 to find out if you are not allowed to test SCP-113. If you are not otherwise approved by SCP-113, we recommend you start now, and continue upon completion of the tests following the prompt in the Bioelectricity Programming System.
+
+I hope you find this page helpful.
+
+Note: Please feel free to Contact the Biocontainment and Bioelectricity Foundation, and ask for permission to test SCP-113.
+
+Addendum 113-1: Procedure:
+
+Bioelectricity Definitions
+
+Biology Reference SCP-113 requires extensive bioelectrical training in order to be considered safe. The remaining are the following:
+
+Bioelectricity Level
++BiologicalElectricalTest
+-BiologicalElectricalTest
+
+:*BiologicalElectricalTest
+
+*BiologicalElectricalTest
+
+bioelectricity.jpg
+
+An instance of SCP-113 held to the interface of a "brain certainly transmits bioelectricity to its body"
+
+•1bia
+
+•1bi
+
+•2bi
+
+Specified Biological Circuit
+
+•1bionic
+
+•1bio
+
+1bi
+
+1bi
+
+1bi
+
+1bi
+
+1bi
+
+1bi
+
+1bi
+
+1bi
+

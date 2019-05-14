@@ -1,0 +1,58 @@
+Item #: SCP-759
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-759 is to be kept in a standard containment locker when not being tested. Testing is to be carried out within Level 3 Containment until further notice.
+
+Description: SCP-759 is a black mop-top with a leather and wool jacket. SCP-759 also has a black rectangular glass bottle and a black wallet.
+
+When placed over a standard mop, SCP-759 will create an extremely strong fireball^1. SCP-759 will then use the fire to collect figurines of various animals known to form the Foundation's pet collection.
+
+When placed over a mop, the fireball will form into the shape of a figure, or "turtle", which SCP-759 will then place over the top of the mop. SCP-759 will then seek out any available subject, and place them over its barrel upon completion of the process. The area of effect will decrease steadily, to where the fireball will be no larger than two moles wide. After complete completion, the fireball will disappear completely. No subject in this process has been observed to have experienced normal fire and observed flames.
+
+After completing the process, the subject, if left alone, will process the fire and will be able to see three 1.5m tall figures, or "people". 5 minutes after beginning the process, the figure will represent a human. It will remain in this figure's spot until it is consumed; as such, the "people" will remain in their original spot, and will not approach other subjects.
+
+If a subject comes into contact with the fire, it will initiate a process. As the process progresses, more figures will be introduced and will begin to form objects of varying complexity. They will continue to feel the effects of the fire as they may have done so previously. Once no more figures are created, it will cease fire.
+
+Addendum:
+
++AccessDocument:ProcessandResults
+-AccessGranted
+
+Process
+Results
+Process Log
+Effect of Fire on Objects
+Items of Interest
+SCP-459 - "A random crate of toilet paper, no packaging or other evidence of use [RAW]
+SCP-362 - A bowling pin of unknown composition
+SCP-451 - A yellow egg, no further anomalous properties observed
+SCP-423 - A small toy, no further anomalous properties observed
+SCP-308 - A coin featuring a cartoon shark, no anomalous properties observed
+SCP-297 - A pigtail bobbing in the wind, no anomalous properties observed
+SCP-308 - A small toy, no further anomalous properties observed
+SCP-547 - A small clear plastic bag of peanut butter, no further anomalous properties observed
+SCP-547 - A small clear plastic bag of peanuts [VITA]
+SCP-498 - A watercolor painting of a severed branch, no anomalous properties observed
+SCP-612 - A red balloon wrapped in a paper towel, no further anomalous properties observed
+SCP-587 - A chewing gum can of unknown make, no further anomalous properties observed
+SCP-608 - A non-anomalous paper clip, no further anomalies observed
+SCP-622 - A pre-packaged white Christmas present, no further anomalies observed
+SCP-624 - A pre-packaged bananas, no further anomalies observed
+SCP-536 - A transparent plastic bag of Berries, no anomalous properties observed
+SCP-604 - An SCP-3455-1 instance, no anomalous properties observed
+SCP-721 - A set of only-in-box Jedi robes, no further anomalous properties observed
+SCP-448 - The outline of a walking stick, no further anomalous properties observed
+SCP-811 - A large cylinder of light, no further anomalous properties observed
+SCP-876 - A cardboard box of unknown make and model, no further anomalous properties observed
+SCP-895 - A vacuum cleaner, no further anomalous properties observed
+SCP-1044 - A large bag of human test subjects, no further anomalous properties observed
+SCP-855 - A small unwrapped piece of white bread, no further anomalous properties observed
+SCP-1110 - A small, unmarked brown bag of cereal, no further anomalous properties observed
+SCP-1553 - A toy ship, no further anomalous properties observed
+SCP-874 - A door with a keypad, no further anomalous properties observed
+SCP-890 - The outside of a house, no further anomalous properties observed
+SCP-1059 - A small electric kettle, no further anomalous properties observed
+SCP-1106 - A small bowl of no-name soup, no further anomalous properties observed
+SCP-1130 - A glittering tiara, no further anomalous properties observed
+SCP-1210 - A finger, no additional anomalous properties

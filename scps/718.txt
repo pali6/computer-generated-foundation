@@ -1,0 +1,67 @@
+Item #: SCP-718
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-718 is to be kept in a standard containment cell, separated by a pair of closed front-facing mirrors to prevent your viewing of the respiratory and circulatory systems. The following instructions are to be followed during the course of each two-hour period. At the end of the prescribed time, either the left or right side of SCP-718 must be closed and aside from the rest of the device, viewing personnel are to be kept at a distance of no less than 2 meters from the device.
+
+If any clothing or equipment produced by SCP-718's production is used by any human being, the viewing personnel should seek immediate medical attention. While SCP-718 does not cause distress to any living being, contact of any kind is to be avoided.
+
+It should be noted that while the effects of SCP-718 are unpleasant, any clothing or equipment used by SCP-718's production is to be changed immediately.
+
+Description: SCP-718 is a set of four internal cartwheels.
+
+SCP-718 was produced by ██████ █████████, a welding shop in █████████, WBR. The shop was discovered in the early 1960s following a tragedy that was reflected in the business' walls and ceilings on several occasions. The existence of SCP-718 in the owner's home was recognised immediately, and SCP-718 and its ingredients were brought to the attention of the local community.
+
+As people in the area are familiar with the owner's history, SCP-718 has been designated as "The Vortex of Creation," and is in keeping as a memorial to the deceased of those who died from these great tragedies.
+
+SCP-718 was discovered when locals were reporting strange phenomena and discovering the factory. After some investigating, █████████ was located, while the appeal was taking place, and treated for SCP-718. After that, SCP-718 was sold to Foundation agents, and an extra-dimensional process was established to create additional carts.
+
+The SCP-718 found to be a door to a cluster of higher-end caravans which consumed the homes and lives of ██████ █████████'s employees. Its effect became obvious in 1968, when a group of men and women wearing the same clothes, identical hair and eye-sequences, voluntarily entered SCP-718 and resumed their work from the door behind SCP-718. Within two weeks, the door had been closed and the homes and businesses within the radius of the factory were destroyed by the influx of SCP-718's production.
+
+SCP-718 was found by agents in █████████, WBR in 1973, and was bought by an individual in 1996.
+
+Addendum: The quantity of SCP-718 produced may be increased by altering its manufacturing processes. It was found using the same process-ends-where-it-applies process-enters as the surrounding facilities. In order to prevent SCP-718 from being used by other workers, faster processes are to be used.
+
+Note: When not in use, SCP-718 is to be kept closed except for a few tests.
+
++Incident[1974/01/24]
+-Close
+
+Security escorted SCP-718 alone to its current home.
+
++TestLog-GB-1
+-Close
+
+Name of Test:
+
+Test Time:
+
+Result:
+
+Test Author:
+
+Input: SCP-718
+
+Setting: Fine
+
+Output: A clear plastic vial containing a solid substance; this is then accomplished via pressure not directly applied to the mechanism.
+
+Note: SCP-718 was not attached to any objects.
+
+Test Notes:
+
+* SCP-718 was subject to a prototype process, a standard process commonly used during the industrial revolution. Once the process was complete, the object began to lose its shape.
+
+* SCP-718 appeared to be non-anomalous when inserted into a closed closed air-conditioning, sealing the door and causing it to be open during testing.
+
+Footnotes
+1. ISO 8626-1's created at the same time as SCP-742.
+2. It is believed that there may be other methods of containment of SCP-718.
+3. All loaded magazines produced prior to 1989 are currently obsolete.
+4. The name of the chain was "Wilkie's Chemical & Synthetic Animals and Chemical Technologies".
+5. Various names such as Knoll's Machine & Tool Co. and "Cannons & Barrels Mortar", but is found on the manufacturer records not as a manufacturer.
+6. The chain has been estimated to date back to 1740.
+
+ SCP-737 | SCP-718 | SCP-739 
+
+automaton euclid mechanical scp

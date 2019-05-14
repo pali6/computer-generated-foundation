@@ -1,0 +1,52 @@
+Item #: SCP-226
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-226 is to be stored in its own container at Site-██. Access is to be granted to a researcher with a Level 2 clearance or higher. A containment team is to be present at all times for the reasons outlined in Document 226-B.
+
+Any attempts to remove SCP-226 from its container should be opposed by a Level 4 expert, preferably the head of a humanoid containment team. In the event that an attempt fails, a Level 5 or higher researcher is authorized. Should SCP-226 be unable to be contained, investigate-team personnel are to take over.
+
+Description: SCP-226 is a D-class humanoid of indeterminate age but apparently of indeterminate gender. SCP-226 appears to be neither male or female. SCP-226 is sapient and capable of performing tasks such as driving or eating. However, its anomalous properties will manifest when it is run over by an automobile. SCP-226 is precognized to include these traits:
+
+•Alteration of human brain tissue.
+•Atypical morphology of cortical function.
+•Significantly increased levels of mental activity related to the decision-making process and area of the brain involved in planning.
+•Narrowly increased levels of intelligence related to superior-level reasoning skills.
+•Revised facial morphology.
+•Increased level of motor control related to the ability to smoothly move objects.
+•Feather-like structures on the head and body of SCP-226, which appear to be solid.
+
+In the event of exposing SCP-226 to cars, SCP-226 will display anomalous behavior, specifically when it is offered as a passenger in either the driver or the passenger compartment.
+
+Tracking devices and database records indicate that SCP-226's computer was infected by an unknown Content Vault virus. The location of SCP-226's computer has not been identified.
+
+SCP-226 was discovered following the theft of an ambulance belonging to an unrelated Foundation contractor. Its driver, Dr. Yuki Maki, acted as a delivery driver for the Foundation. A dental questionnaire was administered to Dr. Maki, which revealed SCP-226's anomalous qualities, which manifested when she was given a sample containing dental records relating to SCP-226. The transcript from the dental questionnaire is attached as Document 226-B.
+
++ExcerptfromDentalRecordsCuriouslyExpose1
+-Exit
+
+Dr. Maki,
+
+My apologies for not calling for immediate medical attention. I truly do not have the time for anything like this. I have checked into my personal quarters and my usual place of work, my mood somewhat saying that my anxiety has worsened. I really have no time for anything now, so this could be a good time to back out of this leave without any further danger.
+
+-Head Researcher Tanya Turen
+
+Excerpt from Dental Records
+
+<Begin Log>
+
+Dr. Turen: There are some things I want you to take into consideration right now. I need you to understand, because your physical state will change dramatically after any changes in your psyche. I want you to be as calm as possible.
+
+SCP-226: Sure, doctor, but I have to lay down my mind for a bit. It's just a simple thought. I wanted to put some things into perspective for you, because I just saw it as a bit of a personal log.
+
+Dr. Turen: You didn't see it as a personal log at all. Are you comfortable with any of the things that I want you to comment on?
+
+SCP-226: Yes, of course. I know you're a doctor, but I don't think it is necessary that I show you everything. I was going for chronological things, not things in my own life. I like to branch out sometimes, like with things now, and that, I suppose, is why I was interested in you. Thank you for letting me have the good fortune to see you.
+
+Dr. Turen: I understand. I will take that in mind. Thank you again for letting me try to make an example out of myself. Thank you for bearing my last name. Would you care if I replaced the last of the questioning questions with straightforward ones?
+
+SCP-226: Sure, doctor, that would be nice. I can see you have a list of questions, and I know what I need. Thanks again.
+
+Dr. Turen: So, you want more of the details. For example, if you could gather more information regarding SCP-███, what gave you the idea to read Bin Group's article? And if you can get more information about SCP-███, what aspects of it would you like to focus on?
+
+SCP-226: I would say that you could ask Bin Group's

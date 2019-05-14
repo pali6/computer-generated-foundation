@@ -1,0 +1,42 @@
+Item #: SCP-163
+
+Object Class: Euclid
+
+Special Containment Procedures: For SCP-163's current containment, Area-12 is to be used. The primary anomalous effect of SCP-163 is to permanently affect all classes of objects in Area-12. Events occurring in Area-12 are to be logged, and are to be recorded and monitored at the check up-time line.
+
+If an SCP-163-1 instance appears, it is to be escorted out of SCP-163. Any actions taken by an SCP-163-1 instance are to be recorded and expanded upon in accordance with standard procedure for containment procedures.
+
+Description: SCP-163-1 is a malfunctioning, anomalous automaton capable of communicating with SCP-163-2. It is also capable of communicating with all other SCP-163-2 instances.
+
+SCP-163-2 instances are cognized as entities composed of SCP-163-1 instances that have been transformed. The thoughts of an SCP-163-2 instance appear to be patterned within a scale of 0-10. SCP-163-2 instances are able to carry out simple tasks, including determining operations and product specifications, and providing examples. Some SCP-163-2 instances have carried out tasks, including the creation of container ships, deliveries, and dispensing large quantities of Foundation-branded beverages.
+
+Instances of SCP-163-1 appear to pick up other SCP-163-2 instances via an unknown system, and allow instances of SCP-163-1 to be reconfigured and re-programmed. SCP-163-1 instances possess a vast array of anomalous abilities, but are unable to travel or communicate beyond SCP-163-2.
+
+SCP-163-2 instances are capable of carrying out a number of functions normally confined to the Foundation.
+
+SCP-163-2 instances are capable of interjecting themselves into any complex, large-scale operation, without the need for assistance. For example, in an environment where the SCP-163-1 instances cannot communicate and re-program the an item, SCP-163-2 instances may approach and carry out functions normally handled by Foundation personnel, such as opening doors and moving objects or personnel.
+
+SCP-163-2 instances display no desire to assist, and will not attempt to communicate with one another unless instructed, or when advised against.
+
+After transformation, SCP-163-2 instances produce an awareness of SCP-163-1, and SCP-163-1 instances will only recognize SCP-163-2 instances as friendly or in good standing. They will attempt to assist SCP-163-2 instances only in the purpose of removing the anomaly.
+
+Instances of SCP-163-1 are capable of acting independently of Foundation control. On a 5-4-1 day basis, SCP-163-1 instances and SCP-163-2 instances will perform tasks which cannot be comprehended by SCP-163-1 instances, and SCP-163-1 instances will attempt to direct personnel to them.
+
+When questioned about the anomalous effects of SCP-163-1 instances, the SCP-163-1 instances will counsel and frequently talk about how SCP-163-2 instances failed to react.
+
+Instances of SCP-163-1 are capable of updating SCP-163-2 instances' memories. On a 5-4-1 day basis, SCP-163-1 instances will automatically effect grooming of SCP-163-2 instances.
+
+SCP-163 appears to be a Foundation-wide anomalous, uncontained phenomenon.
+
+Addendum 163-1: SCP-163-2
+
++OpenDocument
+-CloseDocument
+
+SCP-163-2 (formerly known as SCP-163-1) is a 1.2-meter-tall, unaltered automaton composed of plastic and acrylic, and modeled after an antique bird that is held in a diamond's head, which remains on the automaton's left ear, but is never relocated. It also has a head, tail, and wings, side-swept head, and side-swept wings. It is currently in containment as of 13/09/18.
+
+SCP-163-2 appears to have been near-frozen for approximately █ hours, then started to move, displaying an anomalous powerset. SCP-163-2 was removed from containment in 20/09/18.
+
+SCP-163-1 instances that are outside of Level 5 containment in containment contain a variety of anomalous properties which can be activated independently without assistance from any major organisation. Once triggered, SCP-163-1 instances convert all individuals within a 3km radius of the area, and remove the anomalous characteristics of the area.
+
+Instances of SCP-163-1 are powered by an internal mechanical mechanism. SCP-163-1 instances will convert individuals within a 3km radius of the area,

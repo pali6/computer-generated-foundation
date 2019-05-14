@@ -1,0 +1,29 @@
+Item #: SCP-794
+
+Object Class: Euclid
+
+Special Containment Procedures: It is believed that SCP-794 exists via pre-existing links in the consciousness of at least 85% of all human subjects affected by SCP-794, possessing the ability to remove any objects weighing less than itself from them and replacing them with the same object the subject suits. Before SCP-794 can take possession, subjects must receive one of two counseling sessions. Testing with a certain amount of SCP-794 must be authorized in order for all subjects to be resistant.
+
+Special Containment Procedure: As of ██/██/██, unappropriated human subjects in possession of SCP-794 are not to be kept with the object. A hold-out current is believed to be yet necessary to preserve SCP-794's corruption. Next iteration of containment procedures or specimen introduction procedures.
+
+As of ██/██/██, all human subjects affected by SCP-794 are to be detained, then taken to a previously established Foundation outpost, and surgery has proven successful in removal of SCP-794. In light of SCP-794's "investigative" or "investigation" potential, both SCP-794 and Subject #:06-6122 is currently being taken as a subject.
+
+Description: SCP-794 is an anomalous object that prevents the exact addition of any non-organic material to any specific human subject.
+
+Ext-unison 3.██ in the subject's body is the building that SCP-794 is located in. A series of loci can be seen around the entire area, but will change its order on insertion into another location. This same is true for other loci. Storage units are not located there, and appear only when inserted into the location.
+
+It is primarily unsettling to human subjects affected by SCP-794, as subject displacement is permanent. In the confined space affected by the object, the subject will remain in place for at least █ minutes. For example, a 5-story building in the ██████████ ████████ will remain in place for around three minutes and thirty four seconds before being replaced within the same five minute period. However, while affected subjects cannot feel the time to be reached this time, they feel it was less than a minute too long, and usually have difficulty rationalizing what they experienced. They also experience abnormal abilities (see Addendum 4794-1, detailed in Addendum 4794-2).
+
+Addendum 4794-1: As containment procedures are still in the process, this process has proven susceptible to undoing and repeated removal of affected subjects. For example, if The Battery is inserted into the time loop center, The Battery will open the time loop, installing a new instance of SCP-794. If The Battery is inserted into the time loop, The Battery will reopen the time loop, creating an entirely different time loop, beyond what the original could provide.
+
+As an additional precaution, all human subjects affected by SCP-794 are to be kept attached for momentarily from ~0% certainty until such time as the original human subject can be removed. Descriptivisation procedures remain in effect but have been altered: individuals who are affected by SCP-794 are to be kept attached for as long as possible, and explained as such.
+
+Addendum 4794-2: Instances of SCP-794 are instead instructed to inject themselves. A total of ██,███ instances were seen to inject themselves first, and then follow the dictation and instruction procedures for subsequent instances. After ██/██/██, affected subjects are to be replaced carefully. To avoid localised damage within the human body, instances are advised to be on the off-clock, if at all possible.
+
+Addendum 4794-3: As human subjects are currently in possession of experimental subjects, instance instructions are to be followed however they are, with a reference to an individual who sustained sufficient damage to his or her body. Use of a permanent surgeon at the beginning of the experiment is currently under discussion. The Procedure's effect is currently counter-able by the Foundation, due to the vastness of the SCP-794 area.
+
+Addendum 4794-4: A discussion is currently under consideration at the Ethics Committee for possible exemption of affected subjects from remediation-related procedures. Instead of a permanent residence, some preference has been given to a temporary residence as they tend to be more difficult to clean up.
+
+Addendum 4794-5: The Ethics Committee has chosen not to overrule last iteration's initial recommendations regarding Procedures 7-8-11, which will follow affordances of Procedure 7-11-B. Useless access to Procedure 7-7-11 has resulted in national isolation and anomalous retribution at proficient Foundation operatives. See Addendum 4794-5
+
+Addendum 4794-6: Apparently, Instance instructions were a bit…off. https://archive.org/user/scp

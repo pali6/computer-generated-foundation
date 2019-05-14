@@ -1,0 +1,28 @@
+Item #: SCP-619
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-619 is contained in a standard containment chamber of a Level 3 Site-66 facility. The containment chamber is furnished with a single standard, wood-lined tumbler that is to be regularly cleaned with hot water, each day. Tumblers are to be cleaned on a weekly basis, by personnel that have at least one regular, daily interaction with SCP-619.
+
+Description: SCP-619 is a wooden cube measuring 4×6cm. A dark red, fresh and unmarked, design is imprinted upon the handle at the top of the cube. Examination of the handle has revealed that it is composed of wood although no other markings nor printed details could be found. SCP-619 has a frequency of play varying between one and three times per hour. Testing conducted in the following frequency range (3 to 5 hours):
+
+- Continuous play of SCP-619, as determined in the frequency range for the sample.
+
+- Temporal play of SCP-619.
+
+- Interruptive play of SCP-619, as determined in the frequency range for the sample.
+
+- Vocalizations recorded from SCP-619 during these frequencies.
+
++ShowExperimentLogs,Part19
+-HideExperimentLogs,Part19
+
+Footnotes
+1. This is the first report from the SCP-619 intranet.
+2. Dr. █████████ has noted the structure of this report as 'not very good' and the phenomena observed can be 'easily cleaned up' by testing procedures.
+3. These are more specifically described in the subheadings of the accompanying documentation.
+4. Documented directly below the song 'Eulogy' (the original recording) on the CD.
+
+ SCP-618 | SCP-619 | SCP-620 
+
+building euclid metamorphic sapient scp sentient

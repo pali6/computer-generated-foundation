@@ -1,0 +1,43 @@
+Item #: SCP-377
+
+Object Class: Keter
+
+Special Containment Procedures: While SCP-377 is considered non-anomalous, Foundation staff assigned to SCP-377 are to note that it is activated by current or former students, for their own safety. For safety concerns, limited data gathered from SCP-377 is to be expressed through confidential documentation.
+
+Samples of SCP-377 can be stored in storage locker O5-█.
+
+Description: SCP-377 contains six sets of text that, when read aloud, lead to the creation of complete fictionalized characters of apparent youth and criminality (SCP-377-A), ranging from humble Viceroy of the Manna Charitable Foundation and assorted Aces & Eights characters. These characters are generally considered intriguing and/or popular among students at this time. While SCP-377 remains active, it is not advised among Foundation personnel not to interact with SCP-377.
+
+SCP-377-A is frequently referred to as "The Terrific Wizard" by researchers assigned to SCP-377, and appears to be the protagonist of two different in-universe variations of the book, including an unnamed and extremely virile version of the author of the book. SCP-377-A is the former mobile office of MathWorks, a Chicago magic shop which was sold to a fellow student at the time of purchase. SCP-377-A is said to be somewhat enlightened by the events of the book and seemingly had a particularly bad experience with a boss of sorts, who proceeded to turn off all of SCP Foundation's computers and/or technical staff in the facility through unknown means. SCP-377-A has been described in-universe as having a relatively dismal time at MathWorks, and fails to mention female staff in reference to the aforementioned complaint. The barring of female staff over the course of the book in particular, despite seemingly being in the same line of work, has led some to consider SCP-377-A to be the protagonist of the book.
+
+SCP-377-A shares several similarities with its counterparts in the Manna Charitable Foundation and Five Secrets of Growth, notably the use of a remotely recontained Aline Adlerto and the use of Fats as a moderately successful product of the Foundation for some end-of-the-world scenario. Some of the secondary characters in SCP-377-A appear to have been created out of student characters created at the time of purchase.
+
+SCP-377-B is the sole semblance of a real person observed to exist and incorporate the character of the original, as well as a substantial number of rushing backstabbing characters. SCP-377-B is described as being inspired by SCP-377-A.
+
+SCP-377-C is being described by itself as having a severe case of insomnia.
+
+SCP-377-D is not to be read or described in reference to SCP-377.
+
+Personnel assigned to SCP-377 are encouraged to keep instances of SCP-377-B at a distance of at least 75 meters from SCP-377-A's installation. No large-scale discussion of the SCP-377-B instance is to take place among personnel assigned to SCP-377.
+
+SCP-377-E is a massive collection of indescribable anomalous materials, typically composed of ephemeral or otherwise anonymous pieces of paper, apparently in the shape of a toddler, which have been published in various online publications. The contents of SCP-377-E instances appear to be constructed of the "images" of SCP-377-B, but not the stories they portray at the time of acquisition.
+
+███/██/20██, a Verizon store in ███████ ████ was observed by Foundation agents to be operating under the guise of a telemarketing company, and has since been shut down. SCP-377-E reports on some elements of SCP-377-B's behavior.
+
+Addendum-377-01: Interview Log
+
+Interviewed: SCP-377
+Interviewer: Senior Researcher Sam Harris
+Foreword: The test was conducted on some parts of the SCP-377-A instances created by SCP-377.
+Interviewee: Senior Researcher Sam Harris
+Interviewed: SCP-377-B
+Interviewer: Senior Researcher Gabriel Ciarguera
+Foreword: The interview was conducted between Senior Researcher Sam Harris and SCP-377's creator, SCP-377-A.
+
+<Begin Log>
+
+SamHarriss: Hello, SCP-377-A. My name is Gabriel Ciarguera, and I'm here today to ask you some questions about the Foundation's site.
+
+SCP-377-A: [Subject stops creating SCP-377-B instances.] Oh, sorry! Sorry, I didn't mean to make that sound rude! I just wanted to check you out.
+
+Harris: [Subject stops

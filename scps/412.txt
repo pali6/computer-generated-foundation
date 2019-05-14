@@ -1,0 +1,41 @@
+Item #: SCP-412
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-412 is kept in a standard humanoid containment chamber in Site-82. Environmental maintenance of the chamber, according to current research, has been largely removed as a means of containing SCP-412.
+
+Any activity by SCP-412 is to be reported to the Site-82 Pre-Equisite Inventory of Objects. The frequency of mental activity of SCP-412 is to be monitored at every two hours.
+
+Description: SCP-412 is a currently unidentified man, formerly Patrick to the Foundation. Through unspecified means, he has been able to make over approximately 10,000 objects, largely in the form of instruments and props made out of suitable materials (see Document 412-B). For a track record of SCP-412, see Document 412-A.
+
+SCP-412 first came to Foundation attention on ██/██/20██, after several residents of the ███████ ████████ ███████ ████████ were reported missing in the city. Foundation agents were deployed as part of routine police security for security concerns identified. An investigation into SCP-412's location in the city, and whether it had left SCP-412's residence were conducted, and SCP-412 was located in his living room. SCP-412 was later found in his living room, with a note at the center of the room stating, in more vulgar and faded form, that the apartment had been occupied by a pregnant woman with [DATA EXPUNGED].
+
+Agent ████ K███ reported SCP-412 to Site-82 officials, where he was taken into custody and housed in Site-82's main locker room, to investigate a possible hostile action from SCP-412. Agent ████ was found dead in his cell, later ruled to have been suicide. This may have been caused by SCP-412's increasing erratic behavior.
+
+Initial contact with SCP-412 was recorded on ██/██/20██, when an employee of █████ ████ ████████ resulted in [DATA EXPUNGED], a widely-denied rumor concerning SCP-412. Agent ████ reported his information to Foundation Headquarters in Nonoguela County, following it starting to make headlines in the Post-Mortem Localities section of social media, which spread to the Foundation. Agent ████ was assigned to investigate the Lookout Mountain region of northeastern Arizona, and was later found dead inside the restroom of the Hostel ██████, in the town of ██████████, within the scope of SCP-412's containment.
+
+Agent ██’s death was not initially reported at Foundation personnel, only Agent ████. Agent ████, a former co-worker of Agent ████, was later found in his residence, apparently dead. Site-82, however, was unable to locate Agent ████ and was unable to retrieve him, eventually resulting in Agent ████’s death. Agent ██████ was assigned to investigate the location of his partner, deceased Agent ████. Agent ████ was found there, with a note at the top of his bunk containing an unknown sentence. Agent ████’s death was traced to a possible suicide, and Agent ████ was found in the Site-82 Docent.
+
+On ██/██/20██, when all staff of Site-82 had emergency medical procedures to perform, the entire Site-82 staff was determined to be suffering from an internal/anomalous disorder. Upon discovery, SCP-412 was found in Site-82’s Friends Room; Site-82‘s entry to the subject was tapped, and SCP-412 was found in the room. Agent ████ and Agent ████ were present at the encounter. Agent ████ ████ was heard to use the typesetting system on his desk to write a line of the following letter:
+
+Hello, nocturnay.
+Thoughts
+Hi there, fellow researchers.
+Sounds like I’m writing a report about a new concept.
+That’s not true, I'm writing a report about
+Cornerstones
+It’s actually pretty awesome
+Find me
+
+Recovered Materials
+Onduno-san-Matsumoto
+recovered.txt
+
+Document 412-B
+Item #: SCP-412
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-412 is kept in a standard humanoid containment chamber in Site-82. Environmental maintenance of the chamber, according to current research, has been largely removed as a means of containing SCP-412.
+
+Description: SCP-412 entered its most advanced stage, exhibiting significant emotional connection to people on all levels of the Foundation hierarchy. This connection manifests in the form of a flair for operatic performances, and a strong

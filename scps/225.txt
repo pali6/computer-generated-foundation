@@ -1,0 +1,18 @@
+Item #: SCP-225
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-225-A is contained in the remote containment unit in Storage Site-29 at the █████ ██████ Scientific Storage Center. Maintenance of SCP-225-A is to be done by two Security staff. Staff personnel are not permitted to access the containment unit. As SCP-225-A is to be contained at a temperature of approximately 0█ degrees Celsius, the containment unit is to be fitted with a continuous-flow, oxygen-rich oxygenation system. All Foundation resources, including Foundation personnel, are to be kept at a constant rate of oxygen consumption. In addition, personnel are to be given daily intensive oxygen supplementation of at least 500 milliliters.
+
+Additionally, all experimental personnel with Foundation clearance are to be granted special exceptions from containment procedures.
+
+Description: SCP-225-A is the collective designation for a group of anomalous substances. The majority of SCP-225-A is a wide variety of glass-like substances. The aim of SCP-225-A is to spread its anomalous properties through different types of glass, any spatial approximation to which this would lead to. It is presumed that SCP-225-A is sentient, and displays anomalous traits, while its primary anomalous properties are otherwise presumed to complement and not detract from the rest of the entity.
+
+As of ██/██/1994, the nature of SCP-225-A is steadily evolving. SCP-225-A's anomalous traits were detected in several types of glass in storage at the [REDACTED] facility, and as such SCP-225-A has been assigned the designation of a Keter-class object.
+
+A new instance of SCP-225-A is currently contained in the warehouse of the ████ ████████ Scientific Storage Center. This instance is designated SCP-佐-A. SCP-佐-A is intelligent, and is currently contained as a Keter-class object.
+
+As of ██/██/1994, SCP-225-A will be automatically placed an SCP-030 containment unit at the ████ ██████ Scientific Storage Center. The following code will be written in the code page of the SCP-230 containment unit:
+
+<BEGIN LOG>
+

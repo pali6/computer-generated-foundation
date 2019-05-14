@@ -1,0 +1,49 @@
+Item #: SCP-314
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-314 is to be stored in its Safe-Class Class L Storage Room. Personnel with a level three clearance are allowed to engage SCP-314 for research purposes.
+
+Description: SCP-314 is a drop box containing a collection of multiple anomalous objects. Researchers on the █████████████-████ Research Team will be able to access SCP-314 on their behalf, provided that they are staff researchers at the active level.
+
+SCP-314 has been in possession of the Foundation since 18██. This is the materials base behind the 20th century maximum security locks in Site-██. It contains the following listed items:
+
+•SCP-4150 - "Yang" Quartz Rain Disposal Facility
+•SCP-4703 - The Apple Pie Factory
+•SCP-3799 - Dr. Wondertainment's Set-It-To-Eat-To-Order
+•SCP-2710 - Dr. Wondertainment's Super-Duper-Licking-Your-Teeth-Liquids
+•SCP-████, 7.5x12.5x5m - The Original Starfish
+•SCP-2711 - "Doctor Wondertainment" Statue
+•SCP-2812 - "Dr. Wondertainment" Inc.
+•SCP-2813 - "Doctor Wondertainment" Book
+•SCP-2814 - "Docent Tilda" Toy
+•SCP-2815 - "The Dr. Wondertainment" Multibar
+•SCP-2816 - "Doctor Wondertainment" Costume
+•SCP-2817 - "Dr. Wondertainment" Poster
+•SCP-2818 - "Tissue of a Million" Instant Pot Shredder
+•SCP-2819 - "Speak for Yourself" Baby Bird Vacuum
+•SCP-2820 - "The Back Door of Heaven" Phone
+•SCP-2821 - "The Blue Man-O-Lantern" Scissors
+
+SCP-2821 is a speech decoder appearing to be a collection of audio loops that appear to be an audio text replacement for instructions found in SCP-273.
+
+SCP-2821 does not appear to be animate, and does not respond to physical stimuli.
+
+SCP-2821 is capable of speech using a variety of speech formulas. This speech is not associated with any known language, and lacks all of the primary components of the spoken language. The speech is written in a "cynic" dialect of SCP-274, and includes all of the standard speech it produces in a matter of minutes.
+
+SCP-2821 contains an image of its creator. In this instance, they are described as an elderly man wearing a broad beret. At the center of the man's head is a four-legged appendage with a tail leading behind it and a snout open to reveal a speaker beneath. Those instructions appear to be written in a language SCP-274 follows, which is not known to be present in SCP-274-1.
+
+SCP-2821-1 is a large, monochrome painting of a man identified as <remaining> can be seen standing before SCP-2821-1. The head is adorned in an array of varying states of expression. SCP-2821-1 appears to have been painted with a variety of expressive materials, but is described as being completely devoid of any particular pattern or the imagery used to create and paint the image.
+
+SCP-2821-1 appears to also have been painted with a wide array of similar materials, and although not incorporated into the painting, it is still visible in those areas. Each member of the painting appears to have been painted entirely without ability to speak or move their limbs.
+
+SCP-2821-1 has not shown any discordant facial changes or changes in movement, but instead appears to be fully immobile.
+
+SCP-2821-2 is a collection of several books, including all 722, the SCPs regarding SCP-1478, and a series of instructions. It was currently at Foundation-owned publishing company, Little Brother, located in ██████, Maryland. SCP-228 was discovered in the facility.
+
+SCP-2821-2 is written in an unknown dialect of SCP-274. In the case of the books, specifications for SCP-228, SCP-652, and SCP-654, and any other methods and procedures, have been supplemented.
+
+Due to the nature of SCP-2821-2's method of communication, SCP-2821-1's voice may be mistaken for that of a known speaker of SCP-274. If this happens, any responding personnel, not wearing Level-4 clearance, will experience the full effect of SCP-2821-1's speech.
+
++ShowRecoveryLog
+-HideRecovery

@@ -1,0 +1,50 @@
+Item #: SCP-159
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-159 is to be kept in secure storage at Site-██, located in the cave containing SCP-159. In the event of an SCP-159 breach, a Sentry Bot is to be deployed and administered amnestics.
+
+Description: SCP-159 is a bronze, two-legged creature of unknown anomalous origin. SCP-159's lower body is similar to a normal human's, with the upper appendages still a single unit, and around the abdomen is a spike, composed of gold. An inner ring of the object's bow finger and finger points upwards and upwards. The sigil on the vertical edge of SCP-159 is coated in gold; this is used in orienting the object. When positioned within 100m of an object, trained Sentry Bot is to proceed one meter from the object, to deflect SCP-159 towards it. In the case of SCP-159 existing within 100m of an anomalous object, the Sentry Bot can be activated, in which case it must be accompanied by two trained Sentry Bot.
+
+The item is shaped:
+
+Inside:
+
+Capacity:
+
+Very Large:
+
+Very Small:
+
+The item consists of a hole in the interior, which shows a small circle with a grid on the bottom. This represents what the object's inner path is.
+
+SCP-159 can walk through any object, though if held by a human, it will generally be placed within the collision area.
+
+There is a window inside the object; SCP-159 is only able to communicate with one person at a time. It was initially considered to be only possible to communicate with a single person, as that would be the approximate distance held between the two. However, after the object discovered itself outside the collision area (as it has since), the door has been sealed off and sealed up.
+
+In the event that SCP-159 is placed within the collision area, and then was retrieved, all communication through SCP-159 is immediately suspended.
+
+SCP-159 can create a cloud of hyper-dark matter, which can then be siphoned out to another object, although at a high cost of energy.
+
+SCP-159's "body" area appears to be even bigger than the area where the pick is located.
+
+Object Identifier: SCP-159
+
+Object Class: Safe
+
+Special Containment Procedures: If SCP-159 ever manages to enter a new form of containment, they are to be returned to their current form.
+
+Description: SCP-159 is a creature of unknown anomalous origin, measuring approximately 6 meters tall and weighing over 600kg. SCP-159 can speak in a soft, sibilant voice, and has been known to use information gleaned from the SCP-159 orginal novel, K-class, by Chuck Palahniuk.
+
+SCP-159 is dual-purpose as well. It is able to communicate with other anomalous entities as well as humans, although in the event that it is observed to be within a 100m radius of an object, it will focus on communicating with the human, rather than being directed towards it.
+
+SCP-159 was first identified when a number of Foundation operatives who had separated from the Foundation were found to be having been moved from Site-██ to Site-███, according to records confiscated by O5 Command. A group of various anomalous entities were also found to be on a mission from Site-██ to bring the SCP-159 artifact back to its original form through the reverse engineering of SCP-173.
+
+Three of the anomalous entities discovered to be in the SCP-159 team, including the entities with the Serenity Sigil and its purpose in the process of reverse engineering, had their names transferred to Dr. ███████████'s ouster and are designated SCP-099-1, -2, and -3.
+
++Addendum099-1
+-Addendum099-1
+
+Description: SCP-99-1 is an unknown Ancient Egyptian-era artifact, currently supported by SCP-099 and containing a number of words in ancient Egyptian script, which could be translated into English, Latin, or any science-related language. No known language has been used to produce SCP-99-1's language, though several other languages produced are capable of creating it. On September 17th, 2017, an infant statue of SCP-███ was discovered near Irby, Oregon, and an SCP-99-1 instance gradually grew to form a statue to the height of SCP-099, with the word "HAND" written on it directly beneath SCP-099's words.
+
+SCP-99-1 was discovered during a break out raid against an unknown group of anomalous entities in the ███████ Cave, located within the ██████

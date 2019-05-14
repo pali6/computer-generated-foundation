@@ -1,0 +1,35 @@
+Item #: SCP-50
+
+Object Class: Safe
+
+Special Containment Procedures: The building containing SCP-50 is to be monitored at all times by at least one security team. Any unauthorized individuals attempting to enter or exit the building are to be asked to show identification. Any unauthorized personnel intending to convince one to enter or exit the building are to be asked to show identification. Any unauthorized personnel attempting to perform initial repairs are to be asked to show identification. Any unauthorized personnel attempting to build a remote time machine are to show identification.
+
+Description: SCP-50 is a building located in ██████, ██████, and ██████, in Northern Virginia. The building has three tiers of flooring, each with a different color arrangement. These tiers correspond to two different objects. SCP-50 was discovered on January 30th, 2016 when the building's new owners purchased the LDS Church's old structure and relocated it to the new site.
+
+In addition to the three tiers of floppies, a miniaturized version of SCP-50-1 was discovered in the basement of the building. Heavy environmental damage to SCP-50 caused by fire caused its scrappiness to manifest as a miniature version of SCP-50 where the floppies were visible inside the room.
+
+SCP-50's anomalous properties come from the object's anomalous properties. When a person looks at SCP-50, they see itself. Any object that has been rendered on the exterior by the process of humans is visible in SCP-50's interior. If the person looks at one of the floppies, the person will see the object. In addition, if it was turned on by the process of human beings they will see the process that made it up.
+
+Once SCP-50 is turned on by some form of emotion or ritual, the object will become visible to any person who looks at it. In some instances, SCP-50 will appear as a miniaturized version of the object. In others, it is impossible to discern anything of SCP-50.
+
+Each SCP-50 was declared a Cryptic SCP-50-1 instance, and SCP-50's anomalous properties were identified through analysis of Cryptic film. While it is theoretically possible to convert an individual's own image back into a Cryptic SCP-50-1 instance, it is extremely difficult. There are currently no Knowns on the difficulty of this process.
+
+Addendum 50-1: Interview Log 50
+
+Interviewed: SCP-50
+
+Interviewer: Dr. Roland █████
+
+Foreword: The following interview was conducted by Dr. Roland █████, lead researcher and lead researcher for SCP-50. Dr. █████ was selected for this interview due to his age, maturity, and professional records. The following is a transcript of the interview.
+
+Dr. █████: Amazing, isn't it? The Cryptic Universe, I believe? How did you create this?
+
+SCP-50: The Cryptic Universe? How did I create the Cryptic Universe?
+
+Dr. █████: Give him more time.
+
+SCP-50: Well, I can't say I ever told you exactly. The Cryptic Universe is not what it seems. People do not just ascribe a whole new personality or anything, they make it, too. I don't know why it doesn't work the way people perceive it. Nobody can say exactly how it was, because it's not real, and I don't want to stop anyone. But the very first thing I did when I was a Bringer was to appear on the side of the world. I never heard any of it, but I wanted to introduce myself to the outer shell of the Universe. So I (the Cryptic Universe) was a Magnifier, and at the very top of my own tower there were six hundred and fifty people. Grinding everyone their entire lives was part of the process. The mass of people was the same as the mass of the Universe, and the planet itself was a small ocean. Everywhere you went, you could feel the very smallest details of the place; even the mirrors were people. But in the end, it all turned out fine, but I was never able to explore it.
+
+Dr. █████: I don't understand. You have no history of schooling. Why did you become a programmer?
+
+SCP-50: I didn't learn programming until I was eleven. I was a small child. The floor you see in this room is the floor in the rest of the suits, but when I was a kid I used all the stairs. I was allowed to walk up my stairs, but all the other guys just kept pushing me or whispering to me. That was how I learned all those programming languages. My bullying was so strong that I could lock up a teacher for doing something I didn't like. That was enough for me. I didn't be

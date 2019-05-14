@@ -1,0 +1,26 @@
+Item #: SCP-506
+
+Object Class: Euclid
+
+Special Containment Procedures: While notes remain, copies of SCP-506 into written form are to be stored on a standard-grade data drive and guarded at least 3 times per week at all times. Foundation personnel are to be stationed at all sites in the Western Hemisphere and Africa to be stationed at SCP-506.
+
+Description: SCP-506 is a collection of twelve dark patterns upon which are represented words, mostly dryffits, arranged in a format which could be easily discovered by human languages. In order to properly and comprehensively read SCP-506, it would require a vast amount of time and effort to trace all of them.
+
+SCP-506 was discovered in the village of ██████, Papua New Guinea after reports of friends and family having [REDACTED] memorized the words. Hours after this was found, local police arrived to receive reports that individuals having recently been determined to be risk averse were using SCP-506 in the same manner. After locating and interviewing many persons, including █████, it was discovered that they all had such shortcuts-or—that they preferred to use user-submitted drafts.
+
+It was discovered that a small part of SCP-506 represents a phonetic representation of the word "coconut". In all cases, the community of the village community and the county where subjects reside have not identified these words. Contact with SCP-506 has only been made in community members-only.
+
+SCP-506 was discovered in the community of the county of █████, Papua New Guinea, during a meeting called "The Word of Change", where staff presented the concept of SCP-506 to talk about the "Art and Science team". The word "coconut" appears to correspond to a non-anomalous addition to a whole coconut (usually a banana). It is unknown if it is still present in the Foundation-registered language of the word "appleseed".
+
++SCP-506-Algorithm,Programme-2
+-SCP-506-Algorithm,Programme-2
+
+Description: SCP-506 contains the function, program "COCONUT", which is able to automatically encode and decode any non-anomalous word of any non-anonymous source. It is computed through a simple progression of a checker board^2. This operand is a modified, free-form argument-statement-representing word (known as its invariant-group) that can be transposed into any other operation by the topology of the word itself, but only if the operation is deterministic. The invariant-group of a word is then a set of numbers which will be used as the UPGRAD of its subject's subject-functions when the operation is applied to the word. This UPGRAD is then a function of the word, in which it corresponds to a single operation of a given language or a single word from the language in which it was first learned:
+
+1.
+
+The UPGRAD of an invariant-group word (hereafter "UPGRAD2") is comprised of the words (in this case "coconut") This UPGRAD describes the internal representation of a word which is the sum of the word's number of parts, neither strictly nor considerate. When all of these words are included, a special goal-word, the UPGRAD of the whole word, will be defined as a special-case word representing the sum of the entire word.
+
+To illustrate this, consider a word which is not an operand of a sentence and has no fixed invariant-group. Consider what happens when a word has no fixed invariance-group. Imagine a word which has four letters, and the words "random", "random", "random", "random", "random" (or even ones of their own kind), and "random" (or indeed non-die-hard one word). The concept of UPGRAD2 is called "UPGRAD3", "UPGRAD4", and "UPGRAD5". The UPGRAD of the word "random", "random" and "random" are special-case words for the sum of the words that are assigned to, respectively, those two.
+
+UPGRAD4 was found when SCP-506 was initially traced to a community in Northern Ireland. Until it was traced back to ██████, Papua New Guinea, it was still found in a village MOCI-19 ("The Word of Change"). When the local police came out, SCP-506 was found in this area. Beyond that, it was found in ██████, Papua New Guinea, [DATA EXPUNGED] when a phone call was received, claiming that someone had sold the village to an SCP contractor. SCP-506 was recovered in nearby ██████,

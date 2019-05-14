@@ -1,0 +1,22 @@
+Item #: SCP-463
+
+Object Class: Euclid
+
+Special Containment Procedures: The location is to be secured by Foundation-backed stimulation of the anomalous properties and integration with the Foundation's own Counter-Extranormal Intelligence Operation (CESIOT) network. Mobile Task Force Eta-9 ("Lovers' End") is to be stationed at the location, to become active under the guise of ambulance. All personnel involved in capture or containment are to undergo psychological counseling and refresher courses. Any personnel exhibiting Level-3 or higher memetic hazard knowledge are to be investigated for potential memetic hazard awareness.
+
+Foundation-backed blockchains are to be used for funding and development, and are to be kept under constant surveillance.
+
+Description: SCP-463 is a community of 462 servers connected in a network of local and online servers that consistently reports the contents of a variety of movies, music videos, series, episodes, e-books, books, or other media to one or more individuals. Subjects report seeing the content listed in the next tab.
+
+All subjects have also been reported to show symptoms of Level-3 or higher memetic hazard awareness in regards to the content of the content of their location. The source for this latent awareness has yet to be identified, and the creation of a counter-Instances of SCP-463 is ongoing.
+
+Attempts to communicate with SCP-463 have met with failure, and affected subjects report the user to be neither familiar with the content of the content, nor able to distinguish between pieces of the content. This is believed to be due to the disconnect of the affected subjects from self-identity.
+
+Abandoned Movies, Book and Podcasts: A collection of ten novels written by or about the site's co-host, Jeffrey S. Lowe, as well as approximately a dozen pages of scanned press and digital content from the site. The resulting fragments of -3/463/0xEB9c.PDF have been preserved for study and possible further debugging in the future.
+
+Document #0: https://www.wikidot.com/user:531ec/scp-463-document#7b6c9c9c7b6c9c9c9c9c9c9c9c9c9c9c9c_document
+Document #1: http://www.wikidot.com/user:531ec/
+
+ SCP-462 | SCP-463 | SCP-464 
+
+law of the land memory-affecting location knowledge narrative safe scp transmission

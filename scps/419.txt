@@ -1,0 +1,25 @@
+Item #: SCP-419
+
+Object Class: Safe
+
+Special Containment Procedures: Once every three months, the SCP-419 instance will be lifted from the container. To minimize exposure to this event, instances of SCP-419 are to be kept in a standard humanoid containment chamber. For the following reasons, instances of SCP-419 are not to be exposed to SCP-419.
+
+When it arrives at containment, the SCP-419 instance shall be kept in standard humanoid containment at least 20m away from SCP-419. Personnel assigned to the task of removing SCP-419 are to wear standard humanoid containment suits at all times, to minimize exposure to SCP-419.
+
+Description: SCP-419 is a large, wide-brimmed, polished wooden can of shaving cream. When exposed to the skin of an individual beyond 5 meters in length, SCP-419 will calcify in a manner similar to ice that will solidify to a point with a temperature of 0.25C. When exposed to the skin of a human, SCP-419 will become detached from the internal components of the can. This produces several effects, most notably, the manifestation of a miniature version of SCP-419-1, and the appearance of SCP-419-2.
+
+SCP-419-1 is a miniature version of SCP-419-2, approximately 5cm, by 2.8cm, on a piece of wood. SCP-419-1 is sculpted in an inky, black, slightly translucent black powder, and is to be placed on a flat surface. SCP-419-1 is to remain in the shape of the original SCP-419-1. SCP-419-1 is to have no movement when exposed to the skin of a human. A sensor is to be placed on SCP-419-1's neck and feet to detect the presence of SCP-419-2. SCP-419-2 is to be placed on a flat surface of a similar size, and are to be positioned in the same location on SCP-419-1. Control of SCP-419-2 is performed with a handheld remote.
+
+SCP-419-2 does not appear to exist. An instance of SCP-419-2 will appear on the other side of SCP-419-1, described as being 'discovered'. This will cause SCP-419-2 to animate to mimic the movements of SCP-419-1. This does not effect the anomalous properties of SCP-419-2, and does not pose any threat to SCP-419-2.
+
+SCP-419-2 has been noted as being 'cured' by the presence of SCP-419-1. Anyone attempting to remove SCP-419-2 must knock it onto the flat surface. This has not been observed to produce any output, and can only be performed with the use of a handheld remote.
+
+History: SCP-419 was found in the home of Esquivel, a homeless individual living in a homeless shelter in ██████, Texas, after SCP-419 was reported to have broken, apparently impaled itself. Police were called after several residents reported seeing a 'thing' that appeared to be feline, and a Foundation agent arrived on scene to quell the situation and secure the building for further study.
+
+Addendum 1: SCP-419 was recovered in the parking lot of a mobile home park shortly after testing on the show "Transparent" was not effective. The site had been largely looted, and SCP-419 had been inside. Agents managed to break in through the gate and get into SCP-419. Agents were directed to resist all attempts to remove SCP-419.
+
+Addendum 2: SCP-419-2 remains an inactive population. However, over the last week, it has shown increased vocalizations and behaviors, specifically, sudden physical aggression. For this reason, instance has been assigned a standard humanoid containment chamber, standard hot water fixture, and standard humanoid-shaped furniture.
+
+Addendum 3: Incident 419-27: During cleanup for the site of a major containment failure caused by the containment of SCP-190, Site-7 was attacked by SCP-419. SCP-419 had already been sick; as such, no containment procedures concerning SCP-419 were in place. The conflict lasted between 1,900 to 10,000 days, with SCP-419 breaking containment 13 times. The containment site was destroyed, 2,500 to 6,500 instances of SCP-419 were decommissioned, and SCP-419 was recovered. Agents were subsequently given orders to find SCP-419 elsewhere, and two containment teams with Level-4 security clearance were dispatched to recover the instance.
+
+Addendum 4: Procedure 2581-Derivative: SCP-419 was discovered in a small room of a ███████ ████ ████ hospital, on the ████ ██ ████████ Hospital wing. Agents within Site-7 called

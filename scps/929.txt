@@ -1,0 +1,46 @@
+Item #: SCP-929
+
+Object Class: Safe
+
+Special Containment Procedures: Foundation guards are to man the front entrance to the anomalous location, restraining unauthorized individuals attempting to enter. Armed and unarmed individuals must be barred from entry, and are not to be permitted access.
+
+Several agents are to monitor the travelers, both civilian and operative, to keep their hosts in line.
+
+Description: SCP-929 is an abandoned subway car, fully abandoned, currently affixed to a flat rock in ████, ██████████. The interior is empty, save for one hatch, presumably a passenger's; other passengers have declined to comment on this, claiming to have seen some kind of anomalous entity conducting interviews. The hatch is often connected to a portable video recorder, which is connected to an outer cover.
+
+SCP-929's anomalous properties manifest when it is closed, or any personnel remain to open the hatch; if no personnel are present to inspect the outside, SCP-929 will reopen and the vehicle will revert back to its normal, abandoned state. This will happen regardless of whether the hatch was closed when the personnel closed it, or if the hatch is still attached.
+
+No personnel remain to open the hatch. Personnel attempting to do so will invariably be met with immediate resistance; failure to open the hatch is fatal. If this does not occur, personnel will attempt to open the hatch. This also applies to open flaps worn onto vehicles. Personnel will attempt to open the vehicle with a closed door. Doors will open if left open, but only unclosed doors will produce a response, as well as all doors leading to the outside of the vehicle.
+
+Affected vehicles will show a sudden sense of vertigo for a period of between 5 seconds and 7 minutes. This is witness only, and may be endured by the affected individual. Personnel are unable to describe this, nor does it appear to be a sign of a nightmare. All affected personnel are unable to report this phenomenon to anyone else and remain for the duration.
+
+Any persons assisting affected persons will exhibit the same anomalous properties, also. Personnel affected are unable to comment on this; all affected personnel report that they experience similar effects every time they open up the vehicle. If this is not the case, individuals will need to stay for as long as possible, in order to reacquire their humanity.
+
+Vehicles will automatically take on their suspension doors, as well as beam outward; however, these doors will not move from the vehicle (other vehicles already did not exhibit this effect).
+
+Persons who use SCP-929 out of a sense of purpose will remain in place while defects occur, or monitoring the vehicles will continue as usual. These passengers will retain their humanity."
+
+This effect can be suppressed, however, by removing the hatch from the vehicle. Personnel can still use the vehicle, even if it has been closed. Authority to modify processes or make alterations to processes is unaffected.
+
+The following document was left on the external cover of the vehicle after testing; see Document 929-T1M for more information
+
+Item #: SCP-929
+
+Object Class: Safe
+
+Special Containment Procedures: Foundation guards are to prevent unauthorized individuals attempting to enter SCP-929's interior. As per Initiatives 2-de-, personnel are to operate drones to continually monitor SCP-929, and investigate the affected persons. Should a subject begin to openly express concern for the well-being of passengers, personnel are to cease interactions with affected individuals, and methodically track the subject to where they are to be interrogated.
+
+SCP-929 will perform maintenance for a period of 3 months after SCP-929 is completed, at which point the vehicle is to be removed and the doors deleted by a team of Foundation personnel equipped with submersible gear. As per Initiatives 2-de-, personnel are to remain active near SCP-929 at all times, as they attempt to commit any crimes against minors, or, if needed, apprehend the affected individuals for questioning. Should a potential abductor of passengers be discovered, personnel are to immediately apprehend them as soon as possible.
+
+If additional personnel are involved in the transport of the affected individuals, it should fall to Foundation personnel to access the vehicle and retrieve any packages left behind.
+
+Note: SCP-929 was constructed in ████, ███ ████ during the heyday of the █████ Motors Corporation. Production halted in early 2016, and apparently decommissioned on ██ ██████. It has not yet returned to the stock levels of its predecessors^2.
+
+Document SCP-929-A26P1, ████ ████
+
+Document SCP-929-A26P1, ████ ████
+
+Dr. ██████████
+
+Hello Pitbull. How has it all been going, at all?
+

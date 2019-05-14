@@ -1,0 +1,35 @@
+Item #: SCP-72
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-72 is to be kept in dimly-lit containment chambers at Site-17, and panel access to SCP-72 is restricted to D-Class and higher personnel. SCP-72's containment chamber is to be sealed for testing purposes, and access to SCP-72 is to be only granted to D-Class who are designated as being directly linked to SCP-72's containment chamber and must be informed of its purpose before use. Any D-Class in the containment chamber must be monitored by direct observation from observation staff for the duration of the appearance of SCP-72. During Foundation testing of SCP-72, non-D-Class personnel are contracted and given Class-A amnestics and placed in a separate containment chamber. All D-Class or higher personnel are made to visit a remote area of Site-27 for a period of one week, during which they are to be instructed on the use of SCP-72's anomalous capabilities. Once a D-Class or higher personnel has been assigned to SCP-72's containment chamber, SCP-72 is to be installed with a remote station for monitoring purposes. In the event of activation of SCP-72 and due to the nature of SCP-72's anomalous abilities, access to SCP-72 is to be granted to the closest personnel and no more.
+
+Description: SCP-72 is a device capable of turning its unique anomalous properties on and off at any time. SCP-72 is capable of performing its functions through a series of circuit boards located at the corners of its containment chamber and contained in similar containers. The anomalous properties of SCP-72 cannot be distinguished from those of similar devices, and are thus not diverse or anomalous in nature. SCP-72 is capable of issuing multiple commands to its containment chamber at once, which it can use in a single operation.
+
+SCP-72 uses its anomalous abilities to send and receive messages to and from other Foundation-controlled devices, and will automatically deploy them once communication has been established. Messages sent to and from other Foundation-controlled devices are to be intercepted, analyzed and destroyed.
+
+SCP-72 requires no external source of power, and is capable of remaining active for longer than one minute and potentially longer. Command sequence of SCP-72 can be issued at any time, for the purposes of subverting Foundation containment procedures.
+
+SCP-72 uses a number of seemingly random items for its anomalous purposes, and has been observed from Foundation checkpoint. Attempts to gain access to SCP-72's collection of anomalous objects have thus far failed, despite endless cloaking efforts by staff and D-Class assigned to communicating with SCP-72. SCP-72 has been observed testing additional anomalous objects (e.g. tracking devices) as more information about its anomalous capabilities is gained. As time goes on, SCP-72 is likely to discover that these current objects will be no more anomalous than the last twice, and thus are to be destroyed.
+
+In the event of SCP-72's anomalous abilities being activated, a primitive system is to be able to identify anomalous objects in SCP-72's containment chamber and respond accordingly. The system can now identify the following items:
+
+•SCP-72-1: One wireless tracking device, which serves as the primary means of communication.
+•SCP-72-2: Three audio attachments, each of which is connected to a central server.
+•SCP-72-3: A video attachment.
+
+In addition, SCP-72-3 is known to allow for a full "Super-computer" capable of jointly monitoring all Foundation-controlled devices in a limited manner, and is shown to allow for the removal of entire SCP-72's web cache. Since the primary purpose of SCP-72-3 is to allow for termination of SCP-72-2 and SCP-72-3, SCP-72 is to be terminated using Site-81's "Keter" Processing System. Requesting permission to permanently remove SCP-72's Internet cache and this system's Global Positioning System is currently pending approval.
+
+Note: Requests for the removal of the SCP-72 Foundation database and offline content monitoring of the internet are currently pending.
+
+SCP-72 has shown a demonstrated ability to use its anomalous abilities to perform a number of other higher-level anomalous operations, including:
+
+•Translocation of all Foundation-controlled objects in SCP-72's containment chamber to locations outside of SCP-72's containment chamber.
+•Translocation of Mars without the use of Foundation resources.
+•Translocation of newly discovered objects.
+•Translocation of SCP-72-3 documents.
+•Confirmation of scheduled Site-77 internations.
+
+Excerpt from SCP-72 Rostec Document 72-1
+
+Addendum 72-1: Journal of David T. Willis

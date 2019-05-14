@@ -1,0 +1,41 @@
+Item #: SCP-139
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-139-A is to be kept in an isolated house under Foundation supervision. SCP-139-B is to be kept in a routine containment unit maintained at Site-██. SCP-139-A is to be allowed personal travel, with the understanding that SCP-139-B must not be allowed to enter the containment unit. SCP-139-B is to be allowed access to SCP-139-A via its access tunnel. SCP-139-A may never be left unattended unless this permission is granted. In the event of any breach, SCP-139-A is to be returned to Site-██ for immediate containment.
+
+Personnel assigned to SCP-139-A are to be shielded with Class-III highly-temperature-resistant amnestics. On-site medical personnel are to be kept under constant observation and monitoring. Any deviation from Foundation protocol and scheduled testing is to be reviewed by the Site Director to ensure that the behavior of SCP-139-B is not reflective of the behavior of other SCP-139-A instances in the system.
+
+Description: SCP-139-A is an American female biological clockwork clockwork clockwork which, when moved to a clock at an accurate time, exhibits an anomalous ability to mimic and speed up sound, music or electrical conversations.
+
+SCP-139-B is a school bus named "Santa's Lonely Night School Bus" which, whenever contacted, repeats the phrase "Watch out! Bus can't get out of that area!" All transmissions, including audio and video, have been picked up, however, SCP-139-A is the only known instance of SCP-139-B. When questioned, SCP-139-B claimed to be with Santa's Lonely Night School Bus on a regular basis.
+
+When SCP-139-B or SCP-139-A is moved to a clock at an accurate time, the three instances will hear a "drum roll" and the sound produced by a drum kit will repeat, with the exception that the second and third drum kits are identical, only differing in color. The sound produced by a drum kit is repeated a total of five times, not at the exact time the subject makes the sound, but at intervals of 2-3 seconds. The fourth drum kit, which SCP-139-B refers to as "the Mother of Her Children", is identical to the first, however, SCP-139-B will make different sounds while moving it.
+
+SCP-139-B and SCP-139-A described the behavior of SCP-139-B or SCP-139-A as "unusual, for a child". When transferred to SCP-139-A's containment unit, SCP-139-B will invariably change the music gradually to a beat rate from an average of 49 to 64. At this point, SCP-139-B will begin to "beat the drum" for the next 3-4 seconds, though is noted to become more and more excited. Once the subject has reached this point, SCP-139-B will lose the ability to take the drum kit off.
+
+The exact nature of SCP-139-B's ability to "beat" the drums is currently unknown. All sound produced by SCP-139-B and SCP-139-A immediately becomes identical to the music played by SCP-139-B and SCP-139-B, which can be temporarily deflated.
+
+SCP-139-B's anomalous abilities are not to be confused with SCP-139-A's anomalous abilities.
+
+Addendum: SCP-139-A is currently in Foundation containment.
+
+Addendum (14-25-2017): SCP-139-B may be instructed to stop its patterns of "beat production" to begin with today.
+
+Addendum (21-02-2017): The "crack" once used by SCP-139-A has been replaced with a powerful sonic weapon.
+
+Addendum (25-05-2017): SCP-139-A has been added to the "Solitary Site" database.
+
+Closing Statement: SCP-139-A's pattern of "beat production" repeats on the date on which SCP-139-B is scheduled to learn the next 2-3 seconds.
+
+Event Site-██ sponsored event "Bloody Saturn"
+
+Event Time: April 10th 2017
+
+Event Location: SCP-1363
+
+Event Occupant: Dr. Kondraki (author)
+
+Description: SCP-1363 is a containment cell containing an instance of SCP-1363-1. The item comes with a 3-page arrangement of images, including an Ex Cretus painting of a cupcake.
+
+Interaction with SCP-1363 takes place between two other SCP-1363-1 instances, who create a stable Foundation

@@ -1,0 +1,13 @@
+Item #: SCP-214
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-214 is to be kept in a standard Vault-19 storage case with a standard cover and lock. All doors to SCP-214's containment unit should be open by personnel and the containment unit's designation should be written on standard reverse-facing steel typewriter paper. SCP-214's containment unit is to have only one holder such that the containment unit's occupant is persistent. SCP-214 is to be kept in a room with a minimum of one other human subject in it as well as the course of standard Foundation containment procedures.
+
+Description: SCP-214 is a blue-styled pencil. All SCP-214's markings, and labeling have been replaced with a cartoon-looking design by a variety of other white-glow patterns. SCP-214's anomalous effects cannot be confirmed, as no one can read the markings. Experiments have revealed that SCP-214's anomalous properties aren't actually spread out over the entire compound in discovery; all anomalous effects show up as a single anomalous effect.
+
+SCP-214 is capable of writing on and over any surface in a human subject, regardless of any equipment or skill level. The ink used in the writing process has shown no anomalous properties on SCP-214, and the stamp on the writing surface is independent.
+
+ SCP-213 | SCP-214 | SCP-215 
+
+automaton co-authored _image mind-affecting scp

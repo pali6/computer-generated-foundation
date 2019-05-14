@@ -1,0 +1,52 @@
+Item #: SCP-239
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-239 has been contained in a standard humanoid containment cell at Site-███. The cell is to be built and furnished with standard humanoid containment cell fittings, which allow for the containment of SCP-239. Tools and equipment are to be kept in containment chamber •>EM-4406; SCP-239 is allowed to drink and play video games freely. SCP-239 will wear standard containment suits until it experiences a class-B amnestic, which should be administered upon discovery of SCP-239's anomalous properties.
+
+In the event that SCP-239 cannot be contained, it is to be transferred via safe means to Site-███. Once it undergoes the transition, it is to undergo containment procedure E-294, which is to remove SCP-239 from containment chamber SCP-239 is currently in. SCP-239's containment chamber shall be kept at a temperature of 23.58C until its movement is re-controlled. The current containment procedures do not allow for the removal of SCP-239, although it is permitted to be removed under the condition that it be transferred.
+
+Final containment procedure E-294 is to be completed gradually. However, it is recommended that it be completed by a minimum of two (2) staff members, with the permission of Level 4/239 staff members. Tasks are to be assigned to the staff listed below until completion.
+
+•Researcher Mathias
+•Doctor Raymond
+•Researcher Nanci
+
+Processing of Test 1:
+
++AnnoiteringSpecimens,Equipment,Tests
+-ShowDetails
+
+SCP-239 must be contained in the standard humanoid containment cell, with minimal use of computer software and live equipment. Test is to be conducted remotely. SCP-239 must rely solely on its own resources, and cannot utilize any mobile telephones, tablets, or iPods, or any other electronic means of communication. It is recommended that SCP-239 use existing social media communications, instead of using virtual platforms or chatbots. To avoid creating a situation in which it is immediately overwhelmed, staff members are to be staffed with existing Foundation sources.
+
++AnnoiteringEpsilonRegions
+-ShowDetails
+
+The following regions are to be monitored at a constant level of efficiency. Numerical manipulation of E-2300 is permitted only for purposes of standard containment.
+
+•First Order: South Africa, Israel, China, and South Australia.
+•Second Order: South Africa, China, and South Australia.
+•Third Order: Iran (Iraq), Israel (Algora), Iran (East Africa), and South Africa (Africa).
+•Eta: Beligonei, Denmark.
+•Eta: Blo, South Africa (Noamatol), Khartoum, Morocco.
+•Eta: Congo (Kampala), Japan.
+•Eta: Mozambique (Kampala), and Zambia (Ngauru).
+•Eta: Singapore (New Taipei), Uganda.
+•Eta: Madagascar (Ngauru), and Rwanda (Kampala).
+•Eta: Mississauga (Blackfoot) and Antwerp (Bavaria).
+•Eta: St. Lucia (Florence), Kenya (Jowtsia), Cape Verde (Karoux), and the Russian Far East (Kaluga).
+•Eta: Calcutta, India (Africa), and India (Jopley).
+•Eta: Binhul (Peru).
+•Eta: Albari (Bishar), and Afghanistan (Taliban).
+•Eta: Liaoning (Subar), and an area in Indonesia (Bishar).
+•Eta: South Africa (Mt. Robinson), and Uganda (Roothandy).
+•Eta: Mauritania (Mt. Robinson) and Ivory Coast (Ivory Coast).
+•Eta: Algona, Iceland (Fjords), and Papua New Guinea (Gazo).
+•Eta: Nigeria (Zimbabwe).
+•Eta: Vietnam (Bangui), and an area in southern France (Bangui).
+
+SCP-239 must be armed and equipped four times a day, and may not be removed or stored without the express permission of Site Director Diis.
+
+The quality of SCP-239's containment chamber is to be monitored to ensure proper containment of SCP-239. Testing to determine the optimal locations for SCP-239 to consume and the method of its telepathic processing are pending approval.
+
+_cc euclid global-occult-coalition humanoid scp

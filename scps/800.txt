@@ -1,0 +1,71 @@
+Item #: SCP-800
+
+Object Class: Euclid
+
+Special Containment Procedures: The area of effect to occur is approximately one kilometer^2 from the area of effect. A Foundation front organization, the Protect Foundation employees have developed orders that anyone attempting to enter the area of effect must pay a transaction fee and make a verbal commitment to not attempt to exit.
+
+Social services or low-cost housing centers have been established to serve as a evacuation center, and are to be staffed by community service and support staff. These locations are to be provided on all public transportation. Disappearance and recovery of individuals who are affected by SCP-800 should be considered a Top-priority priority. Civilians who are affected by SCP-800 are to be considered a Class E Mild to Moderate Hazardous Object and evacuated. Special sites, such as kitchens or the city transportation hub, are not to be provided.
+
+Description: SCP-800 is an emergent phenomenon affecting humans and animals affected by SCP-800. Summarized in this document, a human's lifespan is effective forty-six hours past the hour. The duration occurs over a period of approximately seven days related to the concentration of SCP-800. It is unknown if we are to conclude that the effect is temporary or permanent.
+
+Affected humans have displayed a marked and alarming increase in the frequency and severity of hostilities. A social media explosion is blossoming that has resulted in the governments of different countries forming subversive groups. This propaganda is disseminated through text, magazine articles, and blogs. Decapitation of a target's body is commonplace in these organizations.
+
+There are no substantial resources to counteract these effects. Human interaction between humans affected by SCP-800, animals affected by SCP-800, plants affected by SCP-800, and the environment affected by SCP-800 severely inhibits cooperation. By ensuring that human beings don't interact with affected humans, pollution, soil degradation, and animal-based toxins are bypassed.
+
+SCP-800 has been theorized to affect nonhuman animals. Testing and observation shows that exposure to SCP-800 decreases productivity, performance, and survival in affected animals. This is implied to have only a minor adverse effect on primates, and can be safely treated as an additional rarity.
+
+SCP-800 targets the human population. When spread out over several locations in the same area, this 'target' suitably modifies properties in such a way as to make humans unsuited for survival in the event of a localized catastrophe, such as a nuclear strike or an attack from SCP-800. Research to determine if the stage of human development has an effect on its effect is ongoing.
+
+Effected animals and humans are unable to effectively pass through the area of effect.
+
+SECTION LOG:
+/** ⚪ @{ @font-lock; @font-style: italic; @font-weight: bold; } .thing.image, .thing.text { :font-size: 18em !important; ; ; ,,!} 5 .thing span { { :width: 2em; ; ; ; ,;
+@media (list-of-views, {max-width: 400px}):text {
+display: block;
+} .thing.image { font-size: 9.8em;
+} .thing.text { font-size: 20em;
+} .thing.image {
+} .thing.text {
+} .thing.options {
+margin: 1em auto;
+} .thing.image {
+} .thing.text {
+} .thing.options {
+} .thing.image {
+} .thing.text {
+} .thing.options {
+} .thing.topanim {
+top: 0;
+} .thing.topanim {
+} .thing.bottomanim {
+} .thing.anim {
+left: 0;
+right: 0;
+} .thing.anim {
+animals: listanims;
+top: 0;
+right: 0;
+} .thing.anim {
+animals: listanims;
+} .thing.anim {
+animals: listanims;
+} .thing.rightanim {
+animals: listanims;
+left: 0;
+right: 0;
+} .thing.anim {
+animals: listanims;
+animations: listanims;
+} .thing.leftanim {
+animals: listanims;
+animation: listanims;
+} .thing.leftanim {
+animations: listanims;
+} .thing.rightanim {
+animations: listanims;
+}
+
+**/* DISPLAY_PROTECTIVE */
+
+* A device from within a third aspect, a suitable object on which to stand April 14th. */
+* When used, provides immediate access to the

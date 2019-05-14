@@ -1,0 +1,29 @@
+Item #: SCP-432
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-432 has been contained in a non-anomalous humanoid containment cell at Active Site-24. Site-24 is monitored by at least two Foundation agents working in the area of self-help and self-love, meaning that SCP-432 will likely be able to leave in peace and quiet. Those who come into contact with SCP-432 must be dressed in accordance with military norms. Anyone who comes in contact with SCP-432 must be armed with at least a standard issue Varaxa revolver.
+
+Any computer containing Subject-432, or the processing unit of any kind used to create it, are to be monitored at all times by Foundation personnel.
+
+Any alarms which contact SCP-432 must be silenced or set off, or placed on alert, unless with Level 5 Clearance. Prior to the onset of the Mild Stress Syndrome Blackout, all mice must be disposed of and upgraded to Level 4 Clearance prior to coming into contact with SCP-432. This protection is given to everyone who comes in contact with SCP-432 when it is affecting them. If they become infected, all mouse samples sold are to be kept in a standard animal incinerator until Incident-432-1 is cleared.
+
+Personnel infected with Mild Stress Syndrome Blackout are to be treated with Level 5 Redundancy Mind Onset, Level 3 Mind-Energy Isolation, and Level 3 Mild Stress Management. The following should be considered Level 2 NormalMindfulness and equivalent security clearance Level 3 Mind-Creating by the Foundation: all personnel having any psychiatric history, schizophrenic, ritual-related, phobic, and suicidal tendencies, plant-based, the ability to fly, wine-making, or any other mental disorder.
+
+If executed by a Level 5 Clearance Personnel, Incident-432-1 will result in the destruction of all sentient computers other than the computer within SCP-432.
+
+Description: SCP-432 is a cybernetic device made of varying materials. It appears to be a standard, soft-copy tablet with 18 buttons on the front, where a keypad would normally be located. However, all knobs are arranged in a semi-circular pattern, with five keys to the right, two keys to the left, and two keys to the right. The "keys" themselves appear to be made of plastic, with a digital keypad facing the computer on one side, while the left and right buttons have the standard keys on the opposite side. The buttons appear to be made of a mass of pure buttons, with one button having the largest number of buttons.
+
+The keypad itself appears to contain two copies of a "random number seed" that may be used to modify any number: the first, a 1, is a constant that will support any number of strings that would randomly generate the corresponding sequence of numbers. A larger seed will be more likely to generate a string of numbers. For example, one day a population of computer switch outputs 1, but the seed will always be 1. However, one day all of them agree that it is a government-owned corporation that has been run by a security team of unknown function, and that any threats to security must be handled by the group.
+
+The second, a raster of number seed, will always generate a string of numbers that has a maximum of 4^n numbers in it. (The 2010 version of "The Color Purple", the largest number in the string, was above 4. However, in the case of SCP-432's series of outbreaks, this was only 3^n.)
+
+The numbers produced by the raster may be used to create any number that would be generated from a random number seed. People who have used SCP-432 for this purpose report that it naturally produces numbers that correspond to a specific time and location.
+
+When SCP-432 is placed inside a computer it will start to change which number to use, and can be temporarily placed on alert for changes. This can change the behavior of any computer within the system, but will apply only to the current system. Variations in the behavior of the number returned from the raster include the number of years since the last disturbance, the number of different numbers contained in a computer, whether a given computer can handle the number that appears within that computer, and whether the number of people in a given area of the city is different from another, indicating that SCP-432 is capable of moving around within a city.
+
+If SCP-432 is used with any device capable of reading memory, it will also produce a number of numbers for that computer. These numbers appear to correspond to the original user, or user, of the computer. However, the numbers within the DRZ system are not 'different', as it says "1001+1+5".
+
+Methods of adjustment to SCP-432 include:
+
+•Storing a letter, number, or

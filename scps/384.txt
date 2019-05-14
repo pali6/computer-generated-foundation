@@ -1,0 +1,48 @@
+Item #: SCP-384
+
+Object Class: Euclid
+
+Special Containment Procedures: Half of SCP-384 represents space in the upper limits of SCP-384; the remainder includes the surrounding space along with it. Any objects that are within the SCP-384-B portion of SCP-384 are to be kept in a sealed storage locker at Site-32. Any object that does not meet Foundation-approved Level 4 protocols is to be contained within a 600x6m soundproof room at all times.
+
+Description: SCP-384 is a 3 by 5 by 3m space that consists of a rotating geometric array of carbon nanotubes that stretches in all directions. SCP-384 covers an area of roughly 25-50m in radius. When SCP-384 is within two meters, it will create a new object within the space; the object will last anywhere from two weeks to three months and begin to degrade over time. The following is a list of the main ways objects were generated following SCP-384's presence in SCP-384:
+
+•A mechanical object: SCP-384-2
+•An augmented object: SCP-384-3
+•An item produced within the same area: SCP-384-4
+•An object produced in the same location: SCP-384-5
+•A device or process that produces objects: SCP-384-6
+•A material in contact with another object utilizing SCP-384-6: SCP-384-7
+•A process used to repair or modify objects: SCP-384-8
+•A process used to use matter moved by any structure within the same space: SCP-384-9
+•A process used to modify an object of approximately identical makeup: SCP-384-10
+•A process used to use production of objects to create new objects: SCP-384-11
+•A process used to create objects of no identical composition: SCP-384-12
+
+Further information regarding the inner workings of SCP-384 is available in Document 384-Theta.
+
+Addendum: Note from Dr. █████:
+
+The following is a list of items attached to SCP-384 by SCP-384-A.
+
+•SCP-384-1 - An item made by SCP-384-1. The item appears to be a sentient snowman.
+•SCP-384-2 - An object made of SCP-384-2. It is capable of varying its shape and color.
+•SCP-384-3 - The cargo area of SCP-384. When Test Chamber-03 was opened, the door could not be opened.
+•SCP-384-4 - A replica of a space map of the Vulva of Venus. The weight of the map is variable although does not increase if used.
+•SCP-384-5 - A painting of SCP-384-3 (See containment footage for details).
+•SCP-384-6 - The second instance of SCP-384-7, the second of the three objects that was made in conjunction with SCP-384-9. The object is sentient, and it has mental effects and decided to just write for the sake of writing.
+•SCP-384-7 - The icon of SCP-384-8, which appears to resemble a single piece of artwork by SCP-384-13. SCP-384-7 acts as a corpse and nothing can touch it.
+•SCP-384-8 - The main portal to SCP-384-9.
+•SCP-384-9 - Two dead bodies in a small body bag (SCP-384-A) carved of SCP-384-2.
+•SCP-384-10 - A silver sword (SCP-384-80) bound to an anchor (SCP-384-92) approximately 3m in length.
+
+Addendum: Incident Log 384-D:
+
+█████ ██ ██ ████████████
+On ██/██/██, Agent █████ of the Site-███ Divison was tasked with investigating reports of a conflict between SCP-384-A and SCP-384-B. Agent ██████ suffered minor injuries and was live for the next three weeks.
+
+Agent ██████ was carrying a video recorder when SCP-384-A poked him in the nose, causing Agent ██████ to fall unconscious. Agent ██████ died approximately four days later from a large number of facial injuries. Agent ████████ was severely injured.
+
+At this time, SCP-384-B was apparently enraged by the injuries, causing the deaths of several members of Foundation-affiliated law enforcement personnel. Agent ████████ continued record-keeping of the incident for the next three weeks, making numerous notes about SCP-384-B's behavior.
+
+█████ ██████ ██████████
+On ██/██/██, Agent ████████ of the Foundation's Silicon Valley branch was attacked

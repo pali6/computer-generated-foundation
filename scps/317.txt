@@ -1,0 +1,23 @@
+Item #: SCP-317
+
+Object Class: Keter
+
+Special Containment Procedures: A small number of Class-3 personnel may be allowed to operate SCP-317. Research and development of SCP-317 was subject to extensive testing to assess its ability to deliver. Personnel with experience with SCP-315, SCP-316, SCP-317, and SCP-320 are permitted to operate SCP-317.
+
+Description: SCP-317 is a 2m high bronze sculpture made of beautifully carved clay.^5 The sculpture's upper surface is identical to that of a typical clay replica, but the outer surface has several bits which make up a series of animated and skeletal figures. These figures appear to be designed to resemble human adolescent boys, described by one observer as being a 'jungle boy' and 'tall and lanky'. The objects are comprised of a thin object pressed between the face and hands of a log. The objects are described as having 'ampfelies' and 'thumbs'.
+
+SCP-317 is capable of turning all objects near it into stone. Because of this, other objects can also be turned into stone. Although this has never been tested, it is theorized that the object might also make objects like glass which are not naturally solid or rock appear to 'float'.
+
+As of ██/██/19██, SCP-317 seems to have 'tapped' in a number of cases. Most notably, SCP-317 has shown no preference for the objects that it was originally 'tapped' with.
+
+When used to smash a log, SCP-317 will begin to bend its hands into an attempt to create a different object for the next 'tapped' object.
+
+SCP-317 was discovered near █████ in ████, █████ in ███, ██████ ████ in ████████, and ████ ████ in ████████████, ██████. The original log he was 'tapped' with was discovered 3 blocks from where SCP-317 was located, with the additional logs on the outer surface being added as replacement.
+
+Footnotes
+1. All objects are identified by the number, material, and type of 'tapped' object made.
+2. The symbol used on the back of the log.
+3. The metal counter is coated with a metallic red dye.
+4. The counter has the text 'Special Containment Procedures: A small number of Class-3 personnel may be allowed to operate SCP-317. Research and development of SCP-317 must concentrate on improving the abilities of SCP-317 at the time of use.
+5. The counter has the text 'Special Containment Procedures: Only personnel with a prior working experience with SCP-315 may operate SCP-317, being subjected to extensive testing in order to rule out secondary effects of SCP-317.
+animal ectoentropic electronic safe scp sculpture

@@ -1,0 +1,48 @@
+Item #: SCP-116
+
+Object Class: Euclid
+
+Special Containment Procedures: Interlocking fail-safe mechanisms have been installed in Bus 60; a system has been set in place to prevent inadvertent activation of SCP-116. During testing, Bus 60 must be repeatedly activated, and test logs can be reviewed annually for internal maintenance.
+
+In the event of SCP-116 activation, all personnel conducting testing of the object are to avoid its path of travel and exit it. Failure to activate SCP-116 has been recorded to prolongation of this containment procedure by either causing a large containment breach or causing a large containment breach.
+
+Description: SCP-116 is a three cylindrical object, which is festering in the Westfield NY Market Mall in New York City. The object is not functional.
+
+SCP-116 is unnaturally hostile to any and all humans. As evidently as possible, experimentation has been conducted with SCP-116. The object's appearance indicates instability in its containment procedures; however, due to the rapid opening of SCP-116's containment chamber, Technician ████ has been given a special clearance to experiment with SCP-116.
+
+The following is a partial chronology of events which occurred within SCP-116's containment chamber. All events within SCP-116 have been considered "unexplained" and have been relocated to SCP-232, following SCP-232's discovery.
+
+•Feb 16, 13███ (This is the earliest recorded instance of SCP-116 function).
+•In the first two hours of SCP-116's containment chambers, experimental wing C-6009 was suddenly re-enacted.
+•A new containment procedure was adopted by the Foundation and was largely responsible for SCP-116's anomalous properties.
+•Documented SCP-116's containment chamber continued to be closed by SCP-116's activation, regardless of the exact time of its activation.
+•Circumstances shifted around SCP-116's attacks throughout the day, culminating in the following:
+•SCP-116 became increasingly hostile, causing Site-72 to evacuate in 421█; resulting sitewide lockdown will be enacted by the next [REDACTED].
+•SCP-116 breached containment by damaging containment wing C-6009 with unknown force.
+•SCP-116 protested containment of SCP-███, 'cocking its own siren', and quickly opened a 'bigger gun' and 'madder' which destroyed C-6009.
+•SCP-116 activated its containment chamber and stored SCP-116 within its containment chamber.
+•SCP-116 breached containment again by collapsing, destroying a containment wing with weakened containment protocols.
+•Site-72 was evacuated in 261█ after SCP-116 again 'cocked its own siren' and opened a 'bigger gun' but it became useless, resulting in Site-72 evac.
+
+Following the containment breach of Site-73, SCP-116 was permitted interview with Dr. ███████, who had been granted a rank of Level 3 clearance to take the lead in testing SCP-116. SCP-116, after several months of observation, experienced a series of events which were both unprecedented and unpreventable to SCP-116's containment.
+
+SCP-116 was restrained for approximately five years, during which, its anomalous properties were initially noted and highlighted in a series of security log entries. SCP-116 was found to be covered in signs of severe mental deterioration after being placed under Foundation lockdown during a cyber attack.
+
+Addendum: Incident Log - Test Log 116-02
+
+Item #: SCP-116
+
+Object Class: Safe
+
+Special Containment Procedures: Procedure: Mobile Task Force Epsilon-7 (“The Mind's Eye”) is tasked with obtaining all practical results via testing SCP-116. In a modification to their current containment procedures - D-Class subjects are to be fitted with SCP-116's containment facility.
+
+In the event of a D-class testing the same object are to be brought into SCP-116. An additional containment team should also be prepared to physically bring the object into containment.
+
+Description: SCP-116 is the identical object with the same anomalous properties of SCP-███, released into the general public following the mass shooting in Las Vegas. The object has been contained in the Westfield NY mall's Vibratorium, and is listed in physical space on the ground floor.
+
+When an individual activates SCP-116 and views the following virtual object, they are instantly given an immediate and distinct memory implant. The object does not appear to that the individual's perception of the memory implant is directly visible to its real-life counterpart - all memory implants are displayed in its surroundings.
+
+Addendum: Investigation into the explanation of this memory implant, and the origin of SCP-116 is ongoing.
+
+Test: 116-02
+D-class test subject D-784-02 is

@@ -1,0 +1,35 @@
+Item #: SCP-935
+
+Object Class: Safe
+
+Special Containment Procedures: Foundation assets are to monitor the thought-controlled nature of any such activity to ensure that SCP-935 is not observed by plainclothes users. Foundation assets are to patrol the online and message boards for evidence of similar activity. No user accounts considered a potential member of the public may, under any circumstances, directly access any account referenced within the SCP-935-1 dataset.
+
+Description: SCP-935 is an anomalous software program that causes human minds to teleport to a web domain. It is only downloaded by the actual users of the application, and does not require any additional software or hardware to achieve its anomalous effects on any human subject.
+
+As a side effect of its anomalous effect, some human subjects used by the SCP Foundation (such as human volunteers and other individuals) tend to be drawn in by its anomalous effects. As a rule, volunteers are more likely to become a subject. Its most common effect was sedation, but Foundation personnel still drew in volunteers with information breaches, most often when attempting to falsify selection lottery data to make bugs.
+
+SCP-935's anomalous effect was first discovered when the Foundation detected a significant increase in the occurrence of anomalous behavior in the local gaming industry., a trend which had been expected for the years prior, however, resulted in a significant spike in anomalies.
+
+The majority of anomalous behaviors can be explained by the stranglehold held by the Foundation and the Foundation by the local gaming industry. Foundation personnel find no sufficient basis for this stranglehold by the Foundation since human amnestics have been ineffective, and have only increased the Foundation's ability to hold off external movers of instances and mitigate citizens' issuance of illegal items. This… position, however, is likely something that will increase in frequency and severity with time, as the population underground grows to become large enough to overpower the Foundation.
+
+The reason for this is clear. Force is an alarming asset, and the Foundation would prefer not to have such an asset that is one of the main, but it is also threatening. The Foundation is forcing the remaining anomalous individuals (mostly volunteers) to do so, and in short order, the anomalous individuals will either be transferring their threat to the Foundation itself, or at the very least leaking information of undesirable public use.
+
+SCP-935 is not immune to this development either. Any virtual lock taken into consideration, SCP-935 can be persuaded into leaving its location or personally protected in the capacity of one who is actually threatened by the player — for in that sense, it would be a liability to the Foundation.
+
+-DescriptionPage
+
+[DATA REDACTED]
+
+SCP-935 was discovered in 1998 when the Foundation wanted to track down whoever or whatever was responsible for a spate of security issues in the gaming industry: one of the most important questions is "Even after all these years, we still have no idea what happened." In retrospect, this statement may be true; no reliable evidence had been found in the field of anomalous behavior or criminal investigations. As a result, SCP-935 was not successfully transferred to the Foundation. (Incidentally, a much more or less similar situation applied to research into its ultimate purpose and benefits prior to this.)
+
+SCP-935 is not a communication, however. It is a programming function, and can communicate with anyone, if they choose to contact it. By communication, researchers refer to the content that is likely written when a human is thinking of it.
+
+SCP-935-1 includes both anomalous and non-anomalous gameplay, functionality, and function. The player is merely responsible for who points it out. In Plainclothes mode, humans are able to form a phone call, but there are no options for sending private messages.
+
+SCP-935-2 displays interaction between anomalous activity and the anomalous player. A player may take any actions as they wish during a session. The player may merge anomalous activity with their anomalousness, alter the anomalous behavior into an almost purely anomalous player, or automatically resolve all anomalies within the game (i.e. storm planets, event properties, and so on).
+
+This is one of the longest-standing objectives of the Foundation. It has remained an active goal since its discovery and classification: to determine how SCP-935 functions in the absence of anomalous activity, and to prevent it from being used by criminal organizations.
+
+SCP-935-2 is arguably anomalous programming. However, it is on the way to being mixed up with other more historically-accurate anomalies, and that is one reason for its public visibility. This new anomaly is currently being backed by various groups of concern, such as the Central European Union Agency, and has been largely underfunded to date.
+
+SCP-935-

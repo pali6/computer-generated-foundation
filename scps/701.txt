@@ -1,0 +1,49 @@
+Item #: SCP-701
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-701 has been contained in a standard anomalous items locker at Site-██. All current attempts and tests must be approved by one Level 4 Personnel for use outside of approved testing.
+
+Description: SCP-701 is a Singer Basic Instrument, manufactured between 1917 and 1921. This instrument was designed to be a simple and effective instrument for acoustic adjustments, and was essentially destroyed during World War I. The basic mechanism of the device was described in detail in the Frits & Finns Packet Manual, which was written by a 34-year-old inventor and well-known to the Foundation.
+
+The Singer Basic Instrument was originally constructed to include a more interesting component, a scale, that was never included except for testing in test chambers. After several modifications (see Document 701-A4 among examples) this component was amnesticised by the manufacturer, which allowed testing. SCP-701 was not fully developed until 1930, when Howell was contacted seeking the supply of a sample and the engineered components were delivered to- SCP-701 was completed and sold in 1952.
+
+For purposes of this document, the Singer Basic Instrument is defined as the following:
+
+• a suitable instrument that can be adjusted by the human hand to preset settings.
+• a suitable instrument that can be played at extremely high volumes from any instrument or system that is in standard operating condition.
+• a suitable instrument that can be played and lowered a guitar, organ, mandolin, flute, or other musical instrument of sufficient magnitude.
+• an instrument capable of sustained performance.
+• a suitable instrument that can be played by an actor in substantial physical capacity.
+• a suitable instrument capable of passing boundaries of mass and magnitude.
+• a suitable instrument that can be played from the top of the instrument and lowered a tripod.
+• a suitable instrument that can be played from a large scale model and lowered a single foot (for example, a monocle).
+• a suitable instrument that can play any high volume of music.
+• a suitable instrument capable of live performance.
+• a suitable instrument stolen.
+• a suitable instrument that can be altered to correspond to any instrument of the standard musical scale.
+• a suitable instrument that is not in standard operating condition and cannot be play in a standard instrument or system.
+• a suitable instrument that cannot be played with tools.
+• a suitable instrument that cannot be played from the top of the instrument and lowered a flatiron for dramatic effect.
+• a suitable instrument that cannot be played from the top of the instrument and lowered a flute as beautiful as possible.
+• a suitable instrument that cannot be played off the top of the instrument and lowered a violin for a dramatic effect.
+• a suitable instrument that cannot be used as a weapon.
+• a suitable instrument that cannot be played into any of the other effects of SCP-701.
+
+The frequency signature of the Singer Basic Instrument (chamber number) is the following:
+
+#1#2#3#4#5#6#7#8#9#10#11#12#13#14#15#16#17#18#19#20#21#22#23#24#25#26#27#28#29#30#31
+
+The speed and rate at which the Singer Basic Instrument is played is also proportional to the size of the instrument used. The first ten notes of each measure correspond to the first three strands of the original Singer Basic Instrument. The tempo and volume of the initial musical notes and chords is reduced during each fiddle or mandolin movement by the rate at which the instrument is wound and adjusted, typically as follows:
+
+#1#2#3#4#5#6#7#8#9#10#11#12#13#14#15#16#17#18#19#20#21#22#23#24#25#27#28#29#30#31
+
+This is found at the end of each measure in the following order:
+
+#1#2#3#4#5#6#7#8#11#30#32#33#34#35#36#37#38#39#40#41#42#43#44#45#46#47#48#49#50#51#52#53#54#55#56
+
+The following differences have been observed after the introduction of SCP-701 into containment:
+
+•All other effects of SCP-701, including the ability to ascend to other anomalous objects, have been observed to cease when placed in containment.
+•The rate at which the Singer Basic Instrument is played so far has been observed to decrease after each measurement, decreasing in order of performance.
+•The speed of SCP-701 has been shown to be proportional to the size

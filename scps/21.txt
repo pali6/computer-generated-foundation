@@ -1,0 +1,129 @@
+Item #: SCP-21
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-21 is to be contained at its location in Site-17, which is to be guarded by two armed guards and a background check. SCP-21 is to be locked in its containment locker, and is only to be removed for testing purposes. Personnel wishing to retrieve SCP-21 are to be trained in containment procedures, before attempting to retrieve SCP-21.
+
+Description: SCP-21 is a 4mm black PVC pipe constructed of nickel and steel. SCP-21 is attached to an internal hole in the wall of the containment room by a steel pipe, and is held together with rubber bands that pull into the hole. SCP-21 has proven to be highly reliable, and has performed as expected.
+
+When an object is placed in the containment chamber, SCP-21 will activate and reactivate within 2-seconds. Containment procedures surrounding the object must be followed, to the letter. If further testing is required, it is to be performed in the the area directly across from the anomaly.
+
+Once the object is in containment, the pipe and its casing will fail upon contact with any other object. It will re-activate upon close contact. Testing has failed to determine if SCP-21 can break all other objects, or even degrade the object.
+
+Any persons ascending to SCP-21 are to undergo three (3) hours of intense stress wear before they are allowed to exit the chamber. When the chamber is emptied, the chamber must be returned to its original location.
+
+After three (3) hours of wear, a single specimen of SCP-21 is to be placed in the chamber or a separate, independent chamber of appropriate size and size for the object to be placed in before the chamber fully re-opens.
+
+Associating an object with SCP-21 is impossible.
+
+Immediate test log
+
+Test SCP-21-73-1:
+
+<BEGIN LOG>
+
+Larger chamber is placed in a radial field approximately 10 meters from the chamber.
+
+SCP-21 is placed in the chamber. The object is placed in the center of the chamber.
+
+When an individual steps into the chamber, the object will activate.
+
+Test SCP-21-73-2:
+
+<BEGIN LOG>
+
+You begin standing in a circular/diameter field of approximately 2 meters, as normal.
+
+[15:59]
+
+SCP-21 is placed in the center of the chamber.
+
+<17:02>
+
+SCP-21 is lifted above the center of the chamber, and is held into the chamber.
+
+<18:55>
+
+SCP-21 is lifted above the chamber, and is placed in the center.
+
+<22:45>
+
+SCP-21 is placed in the chamber.
+
+<26:15>
+
+The chamber is emptied.
+
+Test SCP-21-73-3:
+
+<BEGIN LOG>
+
+You stand in a circular/diameter field of approximately 2 meters.
+
+SCP-21 is placed in the center of the chamber, and placed inside of a smaller rectangular/diameter field.
+
+The chamber is empty.
+
+<31:40>
+
+SCP-21 is removed and placed in the center of the chamber.
+
+<43:20>
+
+It is noted that there is a noose, in the shape of a human body, hanging from the ceiling of the chamber.
+
+Test SCP-21-73-4:
+
+<BEGIN LOG>
+
+You stand in a circular/diameter field of approximately 1 meter.
+
+SCP-21 is placed in the center of the chamber.
+
+The chamber is empty.
+
+<47:00>
+
+The chamber is filled.
+
+<53:37>
+
+The chamber is cleared.
+
+<55:36>
+
+The chamber is empty.
+
+Test SCP-21-73-5:
+
+<BEGIN LOG>
+
+You stand in a circular/diameter field of approximately 1 meter.
+
+SCP-21 is placed in a flat circular/diameter field with the observation deck of a Boeing 737-200.
+
+The observation deck is empty.
+
+<55:35>
+
+Cabin is empty.
+
+Test SCP-21-73-6:
+
+<BEGIN LOG>
+
+You stand in a rectangular/diameter field of approximately 2 meters.
+
+SCP-21 is placed in a flat circular/diameter field with the observation deck of a Boeing 737-300.
+
+The observation deck is empty.
+
+<55:40>
+
+The observation deck is empty.
+
+<56:37>
+
+The observation deck is empty.
+
+<56:55

@@ -1,0 +1,60 @@
+Item #: SCP-587
+
+Object Class: Keter
+
+Special Containment Procedures: Foundation assets in the vicinity of SCP-587 have adjusted their positioning to prevent the faction from entering the target area. SCP-587 was encased in a Keter-approved Tier 1 reinforced concrete bunker. The source of the SCP-587 breach was tied to the entrance of the bunker and is currently unknown. As such, only an analysis of the bunker's contents and any outside items is currently possible. The source of SCP-587's power has not been located.
+
+Currently, all the damage done to SCP-587 is in the form of explosives. All attempts by Foundation personnel to open SCP-587 have failed (see below).
+
+Description: SCP-587 is a large, nondescript bunker near a historical plant in ██████████, ██████████, Texas. The interior is a cavern under an unassuming old structure. There are no living things or animals in the bunker, and the walls have both been collapsed by explosives. The only reason for this is because of a fire in the bunker and it's been weakened in recent months.
+
+The dirt floor of the room is mostly covered in peat, and several scraggly plants and branches surround the entrance.
+
+SCP-587 was constructed in 18██ with steel rods and reinforced concrete blocks. Green paint was applied to the walls and ceiling of the room to make it resemble a wooden form. A stone pillar is at the center of the room, and every floor is covered in samples of dead plant remains. Several items of interest (see addenda) are located in the center of the room: The main door has a stenciled inscription on it.
+
+Additional Logs:
+
++AddendumSCP-587-L1
+-AddendumSCP-587-L1
+
+Item #: SCP-587
+
+Object Class: Keter
+
+Special Containment Procedures: All samples of plant remains within SCP-587 have been terminated and incinerated.
+
+Description: SCP-587 is a minor triangular structure, located in ████ only. It measures 1.5km x 1km and has a volume of approximately 4,500 cubic meters. An internal temperature of 6,550 millikars is recorded. The walls and ceilings within SCP-587 have all collapsed and are now severely weakened.
+
+While the walls of SCP-587 have collapsed (see below), the interior appears to be heavily reinforced, and has not sustained damage.
+
+The only reason for the fire that caused this is due to a column of fire that lined SCP-587, and the chamber is filled with all the remains of the plant and the dead plant material. The fire has been contained, and the pieces of plant and wood in the bunker have been replaced by new materials.
+
+The purposes of SCP-587 are unknown. Recent tests have been revealing that the distribution of plant material within SCP-587 appears to be random.
+
++AddendumSCP-587-M1
+-AddendumSCP-587-M1
+
+Item #: SCP-587
+
+Object Class: Keter
+
+Special Containment Procedures: Researchers are to attempt to relieve SCP-587's damage by removing plants in the facility. If the damage continues, one researcher in the facility should be designated as Temporary Administrator. All plants within SCP-587 are to be euthanized.
+
+Description: SCP-587 is a triangular structure, located in ████. The walls of SCP-587 have collapsed, and the interior is filled with all the food and water produced. The walls have collapsed into the approximate size of a standard mausoleum.
+
+As a result, SCP-587 is a much smaller one than it was when it was constructed. Research personnel have theorized that the fire was causing the collapse, and the fire spread as the main building was made.
+
++AddendumSCP-587-M2
+-AddendumSCP-587-M2
+
+Item #: SCP-587
+
+Object Class: Keter
+
+Special Containment Procedures: Outpost-7 on the main floor of SCP-587 has been built as per containment procedures. Additional containment is to be established in the event that any workers, personnel, or objects are brought into the main floor.
+
+Description: SCP-587 is a rectangular structure located in ████████, ██████, Texas. The walls of SCP-587 stretch out to extend 100m outside the entity, and can be seen through the main door of the structure.
+
+The following is an excerpt from the REVISION OF RECORDS FOR TRAITORS:
+
+The fire began promptly, at 7:43 AM. All the containment staff and personnel were immediately sent to the main floor. They were not allowed to look at anything beyond the main door of SCP-587. The door was locked, and all personnel inside wrote

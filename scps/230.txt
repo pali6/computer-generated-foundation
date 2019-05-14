@@ -1,0 +1,55 @@
+Item #: SCP-230
+
+Object Class: Safe
+
+Special Containment Procedures: Each instance of SCP-230 is to be stored within a lab secured to a standard humanoid containment unit, at a secret location made of reinforced steel. By reviewing the object's containment form, no more than one researcher is allowed to access the object without supervision. NAVIGATION of the object should take place immediately to ensure that all personnel have the object before any anomalous properties manifest.
+
+Any personnel unwilling or unable to carry out this procedure should be terminated, in accordance with the following:
+
+• Augmented Reality: NAVIGATION of the object is not to be ruled out, as long as it does not involve the subject initially being under the effects of the object.
+
+NAVIGATION by Dr. █████: This must be approved by at least one administrative staff member.
+
+NAVIGATION by Mr. █████: This must be approved by at least one staff member.
+
+none
+
+Description: SCP-230 is a standard organic ID card issued to MTF members who have participated in drug testing and legality enforcement operations. It is similarly unique to all other MTF members. SCP-230's subject appearance is identical to that of a typical Ms. coffee table, and its anomalous properties manifest when dropped from a 1-story tall, 1-story-wide object without becoming unusable.
+
+SCP-230 is gifted with anomalous properties when dropped from any object (either an object meant to record mundane anomalies, or an object with a 5-foot radius) and deposited at a location that the subject is not currently of a sufficient classification. Non-D-class personnel may be affected, as long as the object is included with a proper permission form, and SCP-230 has undergone a comprehensive damage-control procedure. Moistures and fingerprints have been confirmed to be present on the surface of the SCP-230. The vandalism and potential for exposure of any staff member is classified as an active and systematic containment risk.
+
+Foundation personnel circulating the object have described it as "faint", "vague", and "intended to take a pleasant evening ride", and have assigned code numbers to the object. The Code # on the object has been adapted from a similar number assigned to SCP-████, to avoid confusion.
+
+A comprehensive janitorlog has confirmed that all personnel have used the object, during drug testing, legality enforcement, or whatever other testing the object is required to handle. If someone enters the room's designated "on the side" area, SCP-230 will temporarily disappear, and will be reinserted into the correct room at an expected time, and in the object's nearest corner.
+
+Addendum 2302.01: A detailed list of possible SCP-230 instances has been compiled by Dr. █████ and collaborative researcher Euclid. Further notes are being added.
+
+Information below is in no way intended for direct use by any other personnel.
+
+Input: The SCP-230.
+Setting: Very Fine
+Output: A two-sided, humanoid object. Subject is identical to the SCP-230's containment form.
+
+Input: SCP-230.
+Setting: Very Fine
+Output: A female humanoid with a genitalia two-thirds the width of a standard human. An orbit around the object shoots out from within its body, continuously redirecting the object's orbit. It is made of steel foley.
+
+Input: SCP-230.
+Setting: Very Fine
+Output: A rectangular object, inside and outside a glass shell. Subject exhibits no anomalous properties. The only anomalous effect is that the object shares identical properties to SCP-230 (unsecured with SCP-███-███ detention pens) which becomes explosive when touched. It will explode after 5 grams of SCP-230 is spent.
+
+Notes: I understand this is relevant to the item, however it doesn't make sense to me to indicate it. Mr. █████ is back; I'm content with the current form. - Dr. █████
+
+Input: A "white" number of the SCP-230.
+Setting: Very Fine
+Output: A "red" number. SCP-230 comes in a data-collecting box and borrows a bell.
+
+Input: A "white" number of the SCP-230.
+Setting: Very Fine
+Output: A "red" number.
+
+Notes: I'm not sure what this tells me. My current versions are situations where I've showed a lesser amount of detail than myself. Maybe this one is just directing me to make certain the effect is felt. I'd appreciate it if it hadn't come out to make me scratch my head. - Dr. █████
+
+Input: 5 kilograms of the SCP-230.
+Setting: Rough
+Output: A wooden box. Space for a smaller object to be kept at the

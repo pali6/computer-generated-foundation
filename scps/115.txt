@@ -1,0 +1,66 @@
+Item #: SCP-115
+
+Object Class: Keter
+
+Special Containment Procedures: All instances of SCP-115 are to be contained at Site-██ holding cell 65, located in the primary research wing. SCP-115 instances are to be kept in a standard humanoid containment chamber, and are to be fed liquids of varying composition. SCP-115 instances are also to be kept in a fixed humanoid containment chamber (since the Foundation settled on the use of straight-edge iron in containment) and study room at Site-██, where they have been provided with electromagnetic signal emitters for aerial reconnaissance away from the containment cell. SCP-115 instances are to be maintained in a "AI-friendly" environment where they are allowed to use the wireless network to coordinate their activities and collect data.
+
+Information regarding SCP-115 instances is restricted to current research. No researcher is permitted to divulge any such information to a SCP-115 instance.
+
+Any changes in containment procedures or procedures are to be reported to the Director of SCP-115.
+
+Description: SCP-115 is a humanoid fighting machine supposedly built by the Nazi government during WWII that exhibits low speed, comfort, and maintenance, leading to the apparent death of its owner in [REDACTED]. Its anomalous properties are the result of its anomalous capabilities being exploited by the Nazis in a long-term plan to wipe out the human population of major cities.
+
+SCP-115, as well as many other high-level Nazis, were able to essentially create a replica of real world Nazi Germany. In the creation of the program, the Nazi dictator had the following goals.
+
+•SCP-115 would create a superweapon to wipe out the human population of Hitler's Germany.
+•SCP-115 would use the creation of a superweapon to wipe out the human population of other countries in the world.
+•A virus designed to damage a nearby population center would allow for the elimination of the accidental damage caused by a superweapon launched by SCP-115.
+•No person would be permitted to view SCP-115 without the authorization of the director of SCP-115.
+
+For the first two years after the Nazis took control of the world, SCP-115 had demonstrated its lethal capabilities, with the only notable failure of SCP-115 being the deployment of an XK-class super weapon by it during WWII.
+
+Addendum 1157-A: Selected records
+
+Document 1157-A: Selected records, 1943
+
+Name: Dr. █████
+
+Type: Assistant Researcher
+
+Date of Birth: 18██
+
+Gender: Female
+
+Ethnicity: White
+
+Hair: Red
+Eye Color: Clear
+Hair Color: Blue
+Eye Color: White
+
+Height: 175cm
+Weight: 45kg
+
+Duets: N/A
+
+History: The thesis of Dr. █████ was developed during the sixties on a premise of students demonstrating the capabilities of nuclear weapons in a controlled environment. The program became a reality gradually during the seventies under the auspices of an Air Force that wished to test the concept and skills of nuclear warfare. The program was successfully launched in 1962 under the guidance of Chief of Project “Thule”.
+
+Addendum 1157-B: Interview
+
+Interviewed: SCP-115
+
+Interviewer: Agent ██████████
+
+Foreword: The purpose of this procedure was to find out more about the significance of the weapons discussed in the second chapter of the dissertation. The interviews took place in a sealed room in Room 115. A number of random characters had been assigned to the interview. The rest was gathered in Organized Listening Posts 1000, or OPs.
+
+Agent ██████████: So this is the first time you have ever been involved in this project.
+
+SCP-115: Yes. I remember my first time at the project's lead, when it was called “Project Omicron” and I was assigned in the engineering department. I was tasked with handling a large number of armaments, weapons, and research personnel.
+
+Agent ██████████: Tell me about them. Is there a particular one you would like me to work with?
+
+SCP-115: Yes, I know exactly what it was. The one in my office was intended to be the precise creation of a superweapon that could wipe out nearby civilian populations. The one in my office was designed to be a minefield and the only way to get out was to use the bomb. Now, the one in my other office is a echelon. It is a direct weapon-extraction device designed to increase the power and efficiency of all other weapons on-site.
+
+Agent ██████████: … Well, what is that? Can you explain that?
+
+SCP-115: It allows for a controlled and effective selection of the correct types of weapons. It can even be used to take down lowly

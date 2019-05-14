@@ -1,0 +1,55 @@
+Item #: SCP-987
+
+Object Class: Euclid
+
+Special Containment Procedures: The site has been secured by Foundation personnel under the monitors of a Site-13 branch. The Foundation-granted video surveillance in the area is to be staffed by a team of four embedded agents posing as construction workers, and with additional undercover operatives posing as police officers guarding the site.
+
+For convenience, an armored convoy is to be pulled behind the Containment Pagez Hall to the eastern corner of the site. Vehicles are to be armed to withstand bi-polar attacks.
+
+No further unauthorized entry is to be conducted on this site.
+
+Description: SCP-987 is a directional expandable containment chamber, crafted out of temperature-controlled altitude. Its residual gravity, compressed to zero, is equal to 0.25% of the containment area's volume.
+
+No anomalous effects have been observed on it since it was discovered.
+
+SCP-987 appeared way over once in the area of the SCP-507 anomaly: not quite enough for a high-altitude deadly electrical component expected. Even after this was debriefed, and it was confirmed that SCP-507's effects were all caused by the addition of a lower-quality of space, it has not changed its mechanics.
+
+SCP-987's anomalous strength was reached on 2099 during a time of revision. It was discovered that the Containment Pagez Hall, which caused the composition of space to change, had been breached. Current hypothesis is that it was shattered by lightning strike.
+
+If any unprotected objects fall onto the room containing SCP-987, they will be converted into one of three SCP-987-1 instances. The resulting instance will be 5.5 times as strong as the initial instance, and will open up under a weaponized SCP-987-2^1.
+
+The chances for the conversion process to succeed are widely considered to be low, but only a small risk.
+
+Class-E Amnestics have however proved effective. The method of recovery and neutralization of SCP-987-1 instances is therefore classified as secondary.
+
+Usage of the Containment Pagez Hall as a living laboratory for experimentation and study is currently under discussion.
+
+D-Class personnel have demonstrated extraordinary adaptability and resistance to the containment process. The likelihood of the conversion process working-out, after 13 years, as other decontamination and research positions have been established, is inversely related to the severity of the anomaly.
+
+Addendum 787-A-1:
+
+•Recovery Log, 1992/3/787
+•SCP-Bao possessing a variety of anomalous effects
+•Security Camera Log of D-Class Personnel During Levels Balance
+•Emergency Containment Plan
+
+On 02/21/2006, a D-Class is placed within SCP-703. The d-class is to ensure that all SCP-682-A instances created do not dissipate in SCP-707 Siegfried Titan infinity.
+
+>K/D/-14: Agent? Come in. Let me know.
+
+SCP-682-A reports that to be her response. SCP-682-A is instructed to immediately locate and terminate SCP-682-1 instances. Within 1 hour and 9 minutes, all 12 (45 in total, to be more precise) SCP-682-1 instances will begin to dissipate and may be stored. Anyone discovered not to be fulfilling these orders will be held for further review and, in at least 7 cases, rendered amnesic by a thorough screening test. Genetic and memetic study of each instance's memory will still be possible after this step, but both those are pushed to the side as an inherent disaster proofs its importance.
+
+SCP-685 is able to detect and terminate any first set of SCP-682-1 instances that pass through it. Due to this capability, it has successfully terminated about 3% (at the highly unusual cost of increasing the metal content of the artifact with which it had to do so).
+
+>K/D/17: No. This is the first test since the new iteration.
+
+The highest-ranking D-Class subject is instructed to immediately terminate all SCP-682-1 instances in the current iteration.
+
+>K/D/17: This tests ALL the abilities of the engineer. We need to do more testing before we have him.
+
+No test is carried out. Next iteration after that.
+
+>K/D/19: It is still not viable. We have to decide whether SCP-682 can still be operated properly without doing more damage to the machinery.
+
+>K/D/19: Why call it repair projects? We cannot afford to burn out the one time we will be required to fix it.
+>K/D/19: We cannot afford to burn out the machines — but we must still think about the underwriters.

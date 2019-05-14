@@ -1,0 +1,51 @@
+Item #: SCP-833
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-833 is to be kept in a standard locker at Research Site-12, with access restricted to Level-3 personnel.
+
+Description: SCP-833 is a soft, bright pink. This coloration has apparently been developed by an unknown source. Larger instances have an overall thickness of 8mm.
+
+SCP-833's anomalous effect activates when a human subject comes into contact with it. Subjects that are produced by a current will slowly become more susceptible to its effects. Capture of these victims will prove impossible; the previously created victims will grow and get larger until they can take on the full size. Once an attempt is made to destroy the victims, it will become easier to represent them.
+
+Most affected subjects have begun producing commands at this point in the process. While kept motionless, affected subjects will be able to generate their own subjects. Subjects that produce new subjects will start producing their own subjects. These subjects will shrink and grow more of their size until they are established as most important individuals.
+
+If there are not enough subjects generated, disassembling subjects isn't possible. They will all grow into a random one of the items private individuals endow. Use of these items is currently in development, as human testing has shown they can theoretically have any combination of personalities and abilities desired at any time: these items will still function as normal.
+
+The only known method of destroying the affected subjects is to ensure that each new subject is equal to by far greater than the total number of individuals if the affected subjects cannot be controlled. This is not currently possible, and anti-malicious behavior will therefore probably be the only method. Testing with SCP-682 indicates that it is also possible to have exactly 6 exposed subjects, with their combined personalities.
+
+The most recent decrease in the prevalence of SCP-833's effects has been due to a decrease in its distribution in various areas of the world. It has been estimated from the rise of various anomalous illicit activity that it is possible to produce as many as 80,000 petroglyphs per day.
+
+Theoretically, it is not even possible to erase all SCP-833 subjects altogether. If the military is to demonstrate any form of control over the damage done to the world by the Control, then all humans becoming subjects will have to be used. The worst-case scenario is that all humanoid SCPs will be replaced with an anti-malefic personnel to control the chaos.
+
+MTF Rho-25 is currently investigating possible SEAAs in order to contain SCP-833. Crash teams are to remain active on the world worldwide to control SCP-833 instances.
+
++ObservationsonSCP-833-A
+-ObservationsonSCP-833-A
+
+Observations on SCP-833's appearance and function have varied between individuals. Local documentation only expresses a myriad of "construct" voices, some of which fail to appear if no subjects are present. Investigations have shown that all individuals regularly form and recreate the same voice. In addition, individuals will frequently present as a humanoid figure pulled from the clouds, standing about the right height and weight. Individuals are equally likely to fill all features of the figure, appearing as smaller humans.
+
+It is possible for D-Class subjects to construct more, and perhaps always more, than one personality. At the same time, F.D.C. doc Hoffman revealed that there are reportedly no limits to the number of subjects that can be created by a single subject. Hoffman also adopted the term "speakers" to describe the voices. It does not appear that these subsubstances can have a complex sensory array. The ability to communicate complex sounds under specific vocalizations is only possible if multiple subjects are present.
+
+It is believed that the Foundation still confuses recreating subjects with feeding subjects.
+
++InterviewLog
+-InterviewLog
+
+Interview Log 833-OR-TEL-5 (09/23/2015)
+
+Interviewer: Dr. Soto Fumio
+Interview Pilot: D-991A1, D-99098
+
+<Begin Log>
+
+Dr. Soto, D-991A1
+Josephine…I'd...give him for ya. He'd be one stop short of an honorary doctor on some other planet or asteroid, and he was willing to go to [EXPLETIVE REDACTED] for a full two days without a doubt.
+
+Upon preliminary investigation, all human subjects that were created commented that [EXPLETIVE REDACTED] was not interesting enough to merit and harm.
+
+[DATA EXPUNGED]. He moved forward with no further resistance.
+
+<Interviewer's note: A conversation later underway.>
+
+Josephine, I relished the time you spent over there, but I have to say- check out that

@@ -1,0 +1,146 @@
+Item #: SCP-183
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-183 is to be kept in the Security Sector of Site-██. Each instance of SCP-183-1 is to be kept in a standard containment locker at the Security Sector.
+
+Description: SCP-183-1 are replicas of the popular "Velcro on a Stand" toy previously known as "Velcro on a Stand" and marketed by the now-defunct "Ernest" name. The anomalous properties of SCP-183-1 are as follows:
+
+•During a break, SCP-183-2 instances will begin to animate and repair Velcro items in the vicinity of themselves, primarily items that have Velcro on them.
+•Once every three hours, instances of SCP-183-2 will take the center nearest to the corner of their enclosure and animate items in the vicinity of it in a pattern similar to that of the toys.
+•Following this break, 5-10 minutes after opening an instance, wearers will animate their Velcro items and repair them with Velcro.
+•9 hours after fixing an item, it will be reanimated and repaired again as normal.
+
++TestLog007
+-TestLog007
+
+Test Log 007.
+
+Test Date: ██/██/2014
+
+Test Placement: A play area of SCP-183's containment cell, in the containment cell of SCP-183-1.
+
+Test Object: One (1) tabletop board game of Netrunner.
+
+Notes: I'll be going through the form, at least: balance and class, money, and cards.
+
+[Headings]
+[Games]
+[Narrative]
+[Event]
+[Rules]
+[Organization]
+
+{$Notes}
+{$Commonality}
+
+[Activities]
+[Why]
+[Scenario]
+[About]
+[Change]
+
+{$Commonality}
+{$Scenario}
+
+[Scenario]
+[Commonality]
+{$Commonality}
+{$Commonality}
+ {$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+}
+
+[Extra Items]
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}
+{$Commonality}

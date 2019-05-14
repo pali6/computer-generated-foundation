@@ -1,0 +1,39 @@
+Item #: SCP-729
+
+Object Class: Safe
+
+Special Containment Procedures: The item is to be kept in a secure storage unit, under the cover of a tamper-proof magnetic lock at all times. In the event that an object is inadvertently lifted through the lock, the lock is to be activated immediately.
+
+Description: SCP-729 is a wooden door, 1.2m x 1.2m x 1.2m x 1.2m, with a hinge which operates only from the inside.
+
+SCP-729 weighs 1.6kg, and when opened is capable of being opened. The item is able to be opened by an operator capable of wielding a standard-sized pocketknife, with the exception of those who would actively use an edged object as a weapon. Attempts have been made to open SCP-729 using the same combination of tools. The weight of the door is capable of supporting a weight of up to a maximum of 1.5 kg, placing a weight limitation on the item which must be avoided before a knife can be used as a means of opening the door to the item.
+
+In the event that these conditions cannot be met, the door will undergo an exchange event. At this point, the equipment used will be sent to a stand, where the blade of the blade will be removed and replaced in its entirety with a blade of larger caliber. The blade will be given a lightening effect, to effectively combat a small amount of erosion. The blade will lead to the door to its stand, and unwinded, in the same manner as the blade would lead to the door to a door.
+
+Store data:
+SCP-729 was initially stored in Site-88. Despite the facility's configuration being anomalous, the object was circumnavigated, and an armoured floor was constructed, with a monitoring room which would monitor the door at all times.
+
+Over several months, during which time the hard wooden support was removed and the floor was constructed, a large security system was installed at the entrance of the building, both of which contained a series of autonomous prototype tech. The monitoring room is directly visible through the wooden framing, but in all other respects the building is visibly nondescript.
+
+However, following a series of mass expropriations, the facility was converted into a perception and memory-affecting tent, and the security perimeter was expanded to act as a containment perimeter for SCP-729.
+
+At the time of this writing, SCP-729 is a standard-issue item, with the exception of the lock being opened from the inside.
+
+Addendum:
+
++AccessAddendum
+-HideAddendum
+
+In order to prevent accidental activation of the computer system, the Hamilton Protocol (which allows the computer to account for objects on their book, and thus the date and time it is integrated into the computer through which the item can be opened) and the Hamilton Protocol of Correction (which allows the door to be opened, and the area of the atmosphere within which it is opened opened, to be neutralised through adjustment of space in the outside environment) are to be known and understood in order to prevent ChronosK to occur. This event will give the Hamilton Protocol of Correction three prior states, known as "restringing points", and in between these states will cause the Hamilton Protocol of Correction to result in a number of subsequent interacting states, known as "randomly occurring". Randomly occurring states will end with the Hamilton Protocol of Correction occurring, leading to the closing of the door to the item.
+
+After the Hamilton Protocol of Correction, SCP-729 will become a rapidly spreading memetic object: in its first five interacting states, SCP-729 will cause a massive reduction in the negative emotional states of the individual who accesses the item. This will be done through the creation of various memetic effects known as vivid memories, showcasing the item to the individual who has accessed it. These memories will be passed on to successive generations, with the most important memories being passed on first.
+
+The Hamilton Protocol of Correction accounts for the fact that if memories are passed down from generation to generation, then the Hamilton Protocol will always be followed. Due to the complexity of the Hamilton Protocol of Correction, the exact mechanism is not fully understood, but based on the information gathered, it is believed that SCP-729 is capable of creating a mental construct which allows the item to be opened.
+
+Similar to the Mercer Protocol of Correction, the Hamilton Protocol of Correction is not effective at altering the emotions of the user of the item.
+
+The Hamilton Protocol of Correction is carried out by means of-
+
+•the insertion of a memory or imagery associated with SCP-729 into the mind of the individual who opens the door to the item.
+•the removal of a person or entity from the mind of the individual.
+•the radicalising the mind of the individual, subsequently creating a mental construct based on the memory

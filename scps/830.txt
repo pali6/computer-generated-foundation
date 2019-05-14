@@ -1,0 +1,31 @@
+Item #: SCP-830
+
+Object Class: Keter
+
+Special Containment Procedures: No methods are currently permitted by the SCP Foundation for containing the object. Standard Foundation classification taxonomic system needs to be updated's once more. The object exists, and must be classified as such.
+
+SCP-830 is divided into two components, designated SCP-830-1 and SCP-830-2, both of which have each been developed under organic containment procedures. The object is materialized within a generalized area of effect that encompasses a threemeter radius via an anomalous method. SCP-830-1 is a matter similar in composition to paint, and can be removed from the presence of paint.
+
+Prior to insertion into SCP-830's visual field, the object would repeat a pattern of coloration, with disco colours. After approximately ten seconds, SCP-830-2 would develop properties independent of the coloration. For an extended period of time, a non-black representation of the object would remain in the middle of SCP-830's area. The object would revert to the persistent coloration of itself once more if removed from SCP-830's visual field. Refusal to reactivate SCP-830 would result in an immediate death-ow.
+
+Activation of SCP-830 involves insertion into the field of perception of an individual at a fully operational range of the object. Attempts to successfully enter or contain the object via the deposition of media have resulted in civilian casualties, and are unsuccessful. Observation can be observed from the Emergency Net kiosk, located approximately six meters away from SCP-830. Image captured by a later-disabled camera showed the automobile field of view being too blurry to be reasonably discerned from the scene.
+
+Addendum2930/13: Attempts to activate SCP-830 using a distraction such as a mirror or telescope have resulted in incidents in the past. Due to the location of the object in space, techniques were initially used to manipulate the object in vertical or vertical size. See Table 2930-1 for further information. The end-effect consists of the development of a black spherical representation in the center of the field of view, and then a white one around this sphere. It would gradually decrease until it is no longer visible. The field of view would then gradually become more and more distorted.
+
+Advanced concepts were developed leading up to the successful exploitation of this field, and have remained usable for experimentation. No current method of placing a representation in the field of view is currently understood, but as a result an active research team led by Researcher Landis has been formed to study it further.
+
+Addendum2930/22, Incident-3030_23 Apr 2016/08/16
+
++Incident-3030-23Apr2016/08/17,Incident-3030_23Apr2016/08/17
+-Incident-3030-23Apr2016/08/17
+
+D-Class Operative [Nois] was assigned to SCP-830 prior to it being activated by itself. Investigators were not notified of D-Class directly involved in the object's activation process. Movement is not permitted when attempting to reach SCP-830. Personnel who reach SCP-830 are to be considered a Level 3 threat.
+
+D-Class unit [Pa]3, two other D-Class units composing five D-Class personnel, and D-Class unit [Pa]4 successfully activated the object, and incident was averted. Recovered camera shows the operator of the vehicle resembled a recurring would-be suicide bomber. The object was not removed from its active visual field for long enough for recovery. Closer examination shows that the object resembles black and white picture, akin to the smoke screen of a bullet Rothstein. Class-A amnestics were administered. Investigation surrounding this event continues.
+
+Incident 3030-2_08Apr2016/08Apr17:EventReminderMatter
+-Incident-3030-2_08Apr2016/08Apr17:EventReminderMatter
+
+See Incident Report 3030-2
+
+reportsfromthepast

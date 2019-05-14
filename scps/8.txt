@@ -1,0 +1,125 @@
+Item #: SCP-8
+
+Object Class: Safe
+
+Special Containment Procedures: The folder containing the three files, contained in the Computer Research Laboratory of Site-72-1, are to be archived as safe in the Computer Science and Database Center of Site-72-1.
+
+Description: SCP-8 is a computer program written in 2003 by Tenable API^1, Inc.^2. This program is capable of leaving a user's computer running. When a user attempts to perform a function on an object of SCP-8, a command based off of an input is applied, which immediately cancels any function that would normally be performed on the object.
+
+The affected object is rendered as a blank black screen. When the function is performed, the computer displays the object's form, but no menu is displayed. When the input is recognised, however, a menu appears; once the user has registered the appropriate function, the computer will do exactly what the user input would have done.
+
+The menu appears when a user presses the "Add" button at the bottom of the object's window. A menu appears at the top of a memory card displayed on the left-hand side of the object. In the bottom-left corner of the memory card are a pair of three buttons on the keyboard, labeled "Open", "Add", and 'Add'. The button on the left-hand side of the keyboard will immediately appear, followed by the button on the right-hand side of the keyboard. Within the options for the option set, the user has the option of operating the object in two modes, which may be described as follows.
+
+Open Mode:
+The computer displays a blank black screen. Inputting an object into the computer will open the object with the corresponding input on the computer. There is a single button labeled 'Add', and the program will place the object into the current active state on the computer.
+
+Add Mode:
+The computer displays a blank black screen. Inputting a previously found object into the computer will activate the automatic process that the user has been instructed to set up. The computer displays a blank space in the screen. The program will then operate the object as described, filling the necessary information in the 'Add' button on the keyboard.
+
+Moving the 'Add' button on the keyboard will open a menu, and once the user has selected the option, they will be set to the desired state.
+
+Should the user press the 'Add' button on the keyboard, the computer will perform the function described in the action. If an object is not detected within the computer, the computer will display a blank screen.
+
+It has proved impossible to change the display order of the option on the computer, which is not shown when looking up the options.
+
+Add Mode 'Open'
+
+(Open)
+
+(Open)
+
+The menu bar appears on the left-hand side of the computer. In order from top to bottom, there is a button labeled 'Open Mode'. A blank space appears in the bottom-left corner of the memory card.
+
+When the option is pressed, the computer will immediately open.
+
+Add Mode 'Add'
+
+(Add)
+
+(Add)
+
+(Add)
+
+(Add)
+
+(Add)
+
+"New object: [EXIT NAME]"
+
+Add Mode 'Add'
+
+(Add)
+
+(Add)
+
+(Add)
+
+"New object: [EXIT NAME]"
+
+Add Mode 'Add'
+
+(Add)
+
+(Add)
+
+(Add)
+
+"Add [EXIT NAME] [EXIT NAME]"
+
+Add Mode 'Add'
+
+(Add)
+
+(Add)
+
+(Add)
+
+"New object: [EXIT NAME]"
+
+Add Mode 'Add'
+
+(Add)
+
+(Add)
+
+(Add)
+
+"Sub-object: [EXIT NAME]"
+
+Sub-Object: [EXIT NAME]
+
+Add Mode 'Add'
+
+(Sub-Object)
+
+(Sub-Object)
+
+(Sub-Object)
+
+(Sub-Object)
+
+(Sub-Object)
+
+(Sub-Object)
+
+(Sub-Object)
+
+(Sub-Object)
+
+(Sub-Object)
+
+(Sub-Object)
+
+(Sub-Object)
+
+(Sub-Object)
+
+(Sub-Object)
+
+(Sub-Object)
+
+The sub-object is not yet marked as 'New', and should not be added unless the 'Get' button is selected at the bottom of the screen (this is the only way of accessing the sub-object's method), but should be added at the top level of the computer if possible.
+
+Sub-Object 'New'
+
+(

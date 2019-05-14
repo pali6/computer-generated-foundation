@@ -1,0 +1,36 @@
+Item #: SCP-659
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-659 is housed in the same main chamber as all non-anomalous SCP objects. Security personnel are to be instructed to give SCP-659 access at least two (2) time per week; it may be protected from other objects by external items or by shielding between the exterior of SCP-659 and the interior of the chamber.
+
+To protect SCP-659 from other objects, SCP-659 must be contained in a light-resistant room covered in a padded cover with video tape.
+
+Description: SCP-659 appears to be a normal wooden stapler, with a hollow distal end and a steel handle.
+
+When SCP-659 is activated, it emits a low-pitched, low-pitch sound, having a frequency of 2620Hz (sample time: 1255ms) and a duration of ten (10) minutes. When the item is held tightly between one's thumb and forefinger, it begins to rotate on its own. The tip of the item moves up or down in a dirigible-like trajectory towards the nearest known immobile object. SCP-659 then drops, turning to face the nearest target. The motion of the tip is recorded on the video tape for the next ten (10) minutes. During this period, SCP-659 strikes at the object that SCP-659 impacted, and sticks out of the target at an average angle of 365 degrees. The tip of the item lightly hits the target, and only after glances can be made at the target's target SCP-659, the tip never crosses described target. It gives a loud "click" and slowly turns about, following the path of the item until it comes in contact with another object, rotated away from the target and held by SCP-659. The item then slides into the target and remains in place for the duration of the motion, never reaching an angle to drop.
+
+Whenever the item is caused to impact an immobile object, or drop in the vicinity of an immobile object, the tip of SCP-659 remains continuously. Objects dropped by the tip of SCP-659 display no unnatural properties; SCP-659 remains the same on all records, every record shows the same motion, and the data on the video tape does not show anything unusual. It has become theorized that SCP-659 is very chambered for the positioning and retention of liquids that drop rapidly from the tip, and will conclude its motion as it passes.
+
+More importantly, SCP-659 hesitates. It is usually initiated violently, moving to the nearest immovable object it can find. Once a target has been placed within 2200m of it, SCP-659 drops and moves back to the top of the target. SCP-659 lays on its back, eyes motionless, and remains motionless, unable to decelerate. At time of writing, the motion is confirmed by testing personnel as an anomalous effect; the object is dropped away from it at 1125nm, within 300cm of the target, and SCP-659 remains motionless, moving forward.
+
+The motion of SCP-659 can also be observed by audio, and the sound of shifting gears can be observed on the video tape record. It remains motionless, carrying out its purpose regardless of what is trying to happen; however, if motion is attempted, the video tape will decrease in volume, or elsewhere, volume will decrease into dust, and the distant camera will become a blur.
+
+The reason for this behavior is unknown, with some theories suggesting that, in the event of motion, SCP-659 simply vibrates to continue moving.
+
+Addendum 659-1: Teeth of weapons seemed to be able to cut into the metal of the pressure bearing. Cause of this is still under investigation.
+
+Addendum 659-2: A video clip was discovered that partially charges the SCP-659 tip and the rolling corpse of an SCP-659-1 specimen. Fundamentalists claim to be able to create weapons, and the video clip was recovered for analysis.
+
+-CreditForProof
+
+Footnotes
+1. https://twitter.com/dzone6/status/9058488748899040000
+
+The current density of SCP-659 is being measured at ~899kg/m^3.
+
+3. A number of critics allege that SCP-659-1 is the only "real" SCP-659-1 specimen in existence.
+
+ SCP-658 | SCP-659 | SCP-660 
+
+_cc digital currency tnt

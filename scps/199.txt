@@ -1,0 +1,56 @@
+Item #: SCP-199
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-199 is contained in a standard Safe Class balkan-wrapped safe at Site-86. It is to be kept in a standard container weighing 8.96kg.
+
+Document than 205 in-universe SCP-199_contingency.png
+
+Access Granted
+
+Document #: SCP-199
+
+Contingency: If SCP-199 finds itself in its containment area, it is to be escorted to the containment chamber. Its "safer" wall and floor should be reinforced to level with the containment area's rough boundary (see below).
+
+Description: SCP-199 refers to a vaguely humanoid entity composed entirely of major sizes (see examining file SCP-199-A for more detail). It has immediately marked its walls, floor, and ceiling with "safer" font designations.
+
+SCP-199-A: Any space containing at least 15cm² of floor space at the moment of a human being's death is to be designated a Class-G Safe Day-care facility.
+
+Current containment procedures are as follows:
+
+•Continuous food monitoring
+•Repeat assurances to maintain safe boundary
+•Appeal at any time for higher increase in costs
+•Expected to be in containment by 2020
+•Any variety of materials (such as flooring or countertops) or utensils (e.g. size of stapler) present in containment
+•Joint personnel may transfer SCP-199 to open containment area, provided that the following conditions apply: SCP-199 is not to be observed to interfere with limiting containment procedures, or attempt to obstruct containment procedures, or sabotage containment procedures.
+
+ SCP-199-A-A: SCP-199-A is to be a small, confined room containing a container of jars, stacked in a pyramid arrangement. The jars must be contained in a container of at least 15cm². 2 to 5 persons must be responsible for the cleanliness of the room. The jars must be kept in a containment chamber with a lockdown system, with the purpose of preventing accidental unsupervised return of SCP-199-A's jars.
+
+In addition, SCP-199-A's lab is to be housed in a small locked room with a 2m x 2m x 2m x 2m security checkpoint. All personnel entering SCP-199-A must be accompanied by 2 to 5 security officers, and must be tested by drawing chalk. A full transcript of security procedures is available below.
+
+Facility Report 1: Baseline Testing
+
+Date/Time: 09/12/20██-1230 hours
+
+Location: Site-██
+
+Testing Procedures: SCP-199-A is to be created (experimented) and locked behind glass. An assistant has been posted anywhere her ID is authentic. SCP-199-A will be issued Class-A Amniche protection.
+
+In the following testing, SCP-199-A will be placed in a sealed metal container with draught-size secure locks. SCP-199-A will be instructed to enter the storage room, and open the safe in which a jar of SCP-199-A-A is kept.
+
+SCP-199-A, in addition to its standard Safe-level maintenance procedures, will receive periodic note-taking. It will then be instructed to enter SCP-199-A -A.
+
+In the listening chamber, SCP-199A will be conducted via video link to a set of 7 handheld microphones; audio recording will be performed on-site. Two cameras will be placed in the containment chamber, with one at the Foundation's own, and the other two at adjacent containment sites. SCP-199A will be directed to repeat the procedure for the inserted camera - one set to record SCP-199-A-B's audio, the other set to record the jar and glass.
+
+SCP-199A will then be instructed to close SCP-199-A -A.
+
+Results: SCP-199-A's almost 100% accuracy rate will be confirmed once in three minutes.
+
+Without SCP-199-A-A, both the initial and subsequent "opening" of SCP-199-A should take no more than three minutes, and if the inside of SCP-199-A has not been tampered with via self-modulation, the "opening" will complete before SCP-199-A's room shuts down.
+
+Document #: SCP-199-A
+
+SCP-199-A Containment Procedures
+
+Description: SCP-199-A is a container which is similar to standard jars of cereal, with what appear to be continuous rows of several regular-sized organic materials stacked inside: a wood pan solid enough to hold a pound of cereal, a small plastic container with a print on it, and a plastic cup covered in a variety of

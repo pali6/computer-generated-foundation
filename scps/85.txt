@@ -1,0 +1,69 @@
+Item #: SCP-85
+
+Object Class: Safe
+
+Special Containment Procedures: Subject is to be kept at a Safe and Dilapidated safe in Site-██'s locker. Access to SCP-85 is prohibited to Level 3 or higher personnel.
+
+Description: SCP-85 is a portable computer with a Windows operating system and a Mac OS X machine. SCP-85 also contains a desktop environment, which has a Mac typology and a modern desktop UI. SCP-85 appears to have never been connected to a network and therefore knew of the existence of other computers. SCP-85 is owned by a pseudonym named "Yishan".
+
+SCP-85 will "play" songs uploaded to YouTube and share them with other users. The YouTube account, as well as the application, will initially organize video content and the audio part of songs uploaded. The YouTube account will also play the songs uploaded to YouTube, though the application may play tracks uploaded to YouTube instead of songs uploaded to other music sites.
+
+SCP-85 replicates the lyrics of songs uploaded to YouTube, but draws its meaning from an unknown source. No such source has yet been identified.
+
+SCP-85 is designed to play songs uploaded to YouTube. Upon opening the YouTube account, the application will launch an automated music player, which will play songs uploaded to YouTube with lyrics from SCP-85.
+
+SCP-85 is uploaded all songs uploaded to YouTube. The application will then play songs uploaded to YouTube against the recordings recorded by SCP-85's devices. Songs uploaded will show song lyrics as they were sung regardless of formatting.
+
+SCP-85 can also play songs posted to YouTube, as well as songs uploaded to SoundCloud, although the music video mode is disabled, as it will not play an audio track.
+
+SCP-85 will take notes, though it is not known how this is accomplished. Currently, there is no known way to find song lyrics in the videos uploaded to YouTube.
+
+SCP-85 will then filter out the sound track track of songs uploaded to YouTube. It will also remove all lyrics from the songs uploaded to YouTube. It will also edit the lyrics posted to YouTube to be consistent with those posted to other music sites.
+
+[DATA EXPUNGED]
+
+Testing further analysis of SCP-85 is ongoing.
+
+Test 85A
+
+Test 85A
+
+Interviewed: SCP-85
+
+Interviewer: Dr. Ozy
+
+Foreword: The following interview was conducted after SCP-85's initial recovery.
+
+Ozy: So, can you explain what you mean by play music?
+
+SCP-85: It was just something I did. My wife and I live in a house in ████████, due to dado. She's a DJ, and around in the house can play all kinds of music. She just plays songs that you sing, and I love it.
+
+Ozy: Tell me about the song selection and the app selection.
+
+SCP-85: Well, I know I don't. I pretty much just played the songs. I find some chords you guys haven't heard before, and play 'em. At first, it was just me, but I gradually got more and more placed in the business. I guess this is part of the gig economy, for you and myself. I found people who liked these songs, and I found people who liked these songs, and sent 'em over. It didn't think too hard about it. Once I got across that they didn't think much about it, I found myself playing the songs.
+
+Ozy: Tell me about your 'smart' syncing.
+
+SCP-85: Well, it's not a 'smart', it's my old-school syncing. It's like a simple piece of software. The app is for the good of the user.
+
+Ozy: I love 'em.
+
+SCP-85: You mean well. Have fun, ya' man.
+
+Test 85B
+
+Test 85B
+
+Interviewed: SCP-85
+
+Interviewer: Dr. Ozy
+
+Foreword: The following interview was conducted after SCP-85's initial recovery.
+
+Ozy: Can you explain why you play songs, and watch videos on YouTube?
+
+SCP-85: I broke it. It was really simple. I think it had something related to being super FREAKING frustrated as I started making videos. I was so frustrated with everything that I did, and I took it upon myself to work on something completely different to fix it. Once I got through it, I was finally able to get hours of just sitting and watching videos, or maybe just watching other people make music.
+
+Ozy: I like that you chose artist names.
+
+SCP-85: I don't think so, but I think it's right that I was known for playing the songs

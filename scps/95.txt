@@ -1,0 +1,45 @@
+Item #: SCP-95
+
+Object Class: Keter
+
+Special Containment Procedures: Mobile Task Forces Mobile Task Force Epsilon-11 ("Nucleation") is to be outfitted with Quantum-level Subatomic GPS tracking devices and GPS tracking devices for use in locating and counting drive units connected to SCP-95. Exercise dossiers are not to be used as a means of command and control.
+
+Exploration Logs of SCP-95 are to be monitored at all dangerous locations, and should be deleted after every three months.
+
+Description: SCP-95 is a ██-year-old,[REDACTED] mechanical typewriter of unknown provenance. It uses the same underlying mechanical components as all other known instances of SCP-95 and is indistinguishable from SCP-950. All text and printed content published within SCP-95 is identical in every word.
+
+When an SCP-95 letter is written on a standard, glossy, fully-functioning mechanical device, the letter will show up as a signature on a standard-issue serial typewriter. These signatures have been determined to be the only authentic copies of any known variant of the device of any known size.
+
+When this occurs, the SCP-95 replaced by the original letter will be released from an SCP-95 containment unit to be used for writing SCP-95 documents. It will also emerge from the containment unit to give formal permission to SCP-95 for use, subjecting the original letter to the same treatment.
+
+The SCP-95 envelopes that contain SCP-95 documents will each be labeled with text on the right hand side, with the letter on the bottom. Inside, SCP-95 letters will be seen to be met in alphabetical order to ensure word placement within the document.
+
+Addendum 1: Specimens of SCP-95
+
+: A list of known instances of SCP-95
+: A list of SCP-95 specimens given to Foundation personnel
+: A list of SCP-95 specimens used for testing
+
+1. When SCP-95 is used for writing, simple scents of wood, flower, ash, and chrysanthemum will manifest within its envelope.
+2. All specimens of SCP-95 tested have been found to be identical to SCP-950.
+3. Documented incidents involving the use of SCP-95 are usually the result of tampering, so do not read a below SCP-95 document pertaining to testing.
+4. Following the release of SCP-95, its anomalous effect ceases for the duration of 24 hours.
+5. SCP-95 reproduceable cases of SCP-95 contamination will take years to be officially eliminated.
+6. Update: Research into possible uses of SCP-95 for viral propaganda will continue.
+7. SCP-95 has been tested for the purpose of viewing, speaking, or otherwise communicating with human subjects. 'Engaged' subjects will perceive the image of SCP-95 as the image of SCP-950; additional use of SCP-95 may result in exposure to SCP-95.
+8. All SCP-95 instances have been shown to be capable of communication, but have no knowledge of writing writing or other forms of communication.
+9. Physical or electronic damage to SCP-95 can be repaired or performed normally, even in cases where the damage was not caused by use of SCP-95 for writing.
+10. SCP-95 is also able to be used for the purpose of writing documents on which the word 'writing' is not visible.
+11. SCP-95 use in other anomalous control situations may also lead to the creation of non-anomalous SCP-95 instances.
+12. Documented usage of SCP-95 can be found in Document SCP-95-A, 'Death of the Writer', as well as 'Loss of the Writer'.
+13. The origin of SCP-95 is unknown.
+14. See Test 95-II for more details on containment procedures.
+15. See Test 95-III for more details on containment procedures.
+16. See Test 95-IV for more details on containment procedures.
+17. SCP-95 is capable of sending the message associated with a SCP-95 use to an unknown number of people.
+18. While the 'client' is apparently being controlled by an unknown entity, it is proposed that 'client' can be referred to as either SCP-95 or post-95, depending on the number of 'users' the entity is controlling.
+19. See 14-DOCTORS-EX for information on anti-anomalous SCP-95 instances.
+20. All testing involving SCP-95 is to be approved by at least one (1) Level 4 researcher.
+21. SCP-95 is not to be used to communicate with the agents involved in containment times.
+22. See test log 95-01.
+23. See Anything that could change the term 'admin' in a local file database might be

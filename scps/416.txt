@@ -1,0 +1,19 @@
+Item #: SCP-416
+
+Object Class: Euclid
+
+Special Containment Procedures: Should SCP-416 be discovered, it is to be kept in the secured locker at Site-64. Personnel assigned to Authority 12 are required to wear Level 4 hazmat suits when interacting with SCP-416 outside of testing.
+
+Description: SCP-416 is a small, metallic tablet, isolated from the rest of Site-64, with a layer of plastic casing affixed to its surface. Materials inside the casing vary slightly between that of a tablet and a standard library book. As well, different materials are used to create the material of SCP-416. All materials used in the creation of the casing are harmless to humans according to Foundation records, despite extensive testing against the environment of SCP-416. To date, there has been no mineral in SCP-416 itself, though human consumption of any kind of substance will affect it.
+
+Samples of SCP-416 have not been recorded to be anomalous in any way. Considering SCP-416's potential, it is recommended that all staff assigned to Authority 12 wear Level 4 hazmat suits at all times.
+
+SCP-416 was recovered and contained by agents of the Foundation ███ █████ ██ ("The Foundation") in ███, ████. The Foundation personnel stationed in the site found SCP-416 when they encountered it locked in a locked room. ██████ █████████, the founder and former general manager of ████████ ██ ██████ ███ ██, was located in ████████, ███████. Re-educations to ██████ ██████ ██████ █████████ or ██ ████ ████████ ██████ ██████████ have corroborated their claims that SCP-416 is in the possession of SCP-█████ ██████, a Foundation personnel of some importance from the ████████ ████ ██████ ████ ████ ██████████, ███, ████, who recovered it and was removed by ████████ ██ ██████████.
+
+Addendum: Please refer to the attached document to learn more details about SCP-416 and how it was created.
+
+Addendum: Personnel employed by the Foundation will no longer be confronted with a potential containment failure of SCP-416. No other personnel will be exposed to a potential containment failure of SCP-416 in the future.
+
+ SCP-415 | SCP-416 | SCP-417 
+
+autonomous building euclid humanoid _image inscribed military mind-affecting scp

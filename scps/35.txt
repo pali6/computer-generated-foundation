@@ -1,0 +1,15 @@
+Item #: SCP-35
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-35 is to be contained within a covered research facility. Individuals deemed to pose a threat should be tracked and placed within radiation-shielded site-██, further images of SCP-35 that would be considered a threat should be secured in Site-██. Once SCP-35 is labeled as a threat, personnel are to allow it to be monitored at all times. Any persons deemed a threat are to be captured and questioned. Those deemed non-threats are to be classified as SCP-35.
+
+Description: SCP-35 is a humanoid entity with an anomalous effect. SCP-35's effects appear to be limited to this particular object, and are limited to affected individuals. SCP-35 is capable of changing its physical shape and appearance, animate and inanimate, of any item it is in contact with.
+
+According to SCP-35's case files, SCP-35 was discovered in [REDACTED], as a Foundation prototype, by an freelance researcher, ████████ ████████, after ██ instances of SCP-35 (later determined to include SCP-35) showed up in numerous locations around the country. ████████ was terminated by Foundation security before the SCP-35's effects could be detected, but was later found to be one of the first entities to discover SCP-35's nature.
+
+SCP-35 is tertiary to the celestial body Euclid-class object SCP-35, and is a constructed object. SCP-35's anomalous effects manifest when it is near an individual named ████████. SCP-35 will not deviate from its design until it is within approximately 0.25 meters of ████████, which is located in ██████████, ██, when SCP-35 fails to display its anomalous effects.
+
+Note: This test is sort of a dead duck, but I'm not entirely sure. I would have to say that SCP-35 is problematic to containment, though. It has shown to be anomalous.
+
+origin hostile-mind-affecting humanoid k-class-scenario keter scp stone

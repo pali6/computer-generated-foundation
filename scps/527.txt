@@ -1,0 +1,24 @@
+Item #: SCP-527
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-527 is contained at Site ██, under High Level Biological Containment Bacteriological quarantine. Foundation personnel are to be contacted upon discovery and are to be informed of the existence of SCP-527 and notified of its health and actions.
+
+Foundation personnel are not to take affectively to SCP-527 or SCP-528; the latter is considered a subconscious area, and should be considered an inactive component of SCP-527-1; however, subjects unwittingly exposed to SCP-615 will become aware of these features and are allowed to speak and interact with SCP-527, based on common observation protocol. The Foundation should not attempt any area control on SCP-527 and SCP-528.
+
+Due to the intent behind the containment of SCP-528, Site-█ is restricted from the acquisition of and use of all JPEG images. A self-report form developed for use with SCP-568 is to be kept on hand at Site-█, in order to be reviewed by Site Director ████████ after testing for potential side effects.
+
+Description: SCP-527 is the collective designation for an instance of the █████ class of RGB and CMOMP variation, and is of unknown origin. The exact mechanism behind the anomalous effect remains unclear, but SCP-527 seems to be directly connected to the ████████ ████ ████ (a comic book series published in 1968) comic series, by the author █████ █████ ███████. SCP-527 claims to have been "unfounded", and has since been deemed a "dead meme", due to its inability to replicate SCP-571 and SCP-558. SCP-527-1 reference, and several related memes presented with the author, are all present within ████████ ██ █████'s site, and may be able to be used within the Foundation (including its containment). However, it is not known whether ██████ ███ ████ ██ is affected by SCP-527, and abilities associated with its "uncanny" state are unknown.
+
+Matching instances of SCP-527-2, SCP-527-3, and SCP-527-4 all do not have photos stored in their internal memory banks, and future reproduction of SCP-527-4 will not produce a distinctly-stylized image of any of SCP-527-1. All photographs compatible with SCP-527-1 adhere to a color palette believed to originate from ██████ ██████ and ████████████ (both of whom died between 16██ and 18██), although minimal deviation from the original equation has been found.
+
+The imprint of an image activated by SCP-527 (or SCP-527-3 or SCP-527-4) will immediately terminate SCP-527-1's 'active state'. SCP-527-1 will then writhe in the same manner, until its "active state" is fully activated, at which point it will begin to present images with its mouth open.
+
+SCP-527-3 is, in fact, a memetic method of triggering the effect: multiple instances of SCP-527-1 awaken simultaneously, and the pattern of responses by them ("images in their latent state") is the same as the pattern of images produced by SCP-527-1: they will then attempt to copy their own images, and often exhibit signs of distress or anger. Although multiple instances will persevere, the number of instances correlates with the severity of the effect: the more creatures there are, the more likely it is that a single organism will have a higher likelihood of active "active state" and a consequent effect.
+
+SCP-527-4 is a photo-sharing forum devoted to SCP-527-1's writings. After SCP-527 was recovered, several users had already criticized SCP-527-1 on the site, as if the object had been debunked and replaced with a new meme, and its effect would not have spread. In response, SCP-527-1 had created several SCP-527-2 instances (see Addendum 527-4 for details), and shared them among other users, as well as uploading SCP-527-3 onto more public "tales" sites via SCP-527-1's 4chan account. It was then reported that a blog was dedicated for SCP-527-1's writings, and attempts at communication between SCP-527-1 and client ████████ ██████ ("████ ███") were unsuccessful.
+
+Addendum 527-4: Document 527-A
+
+Personnel with Level 1 (General) Clearance (with grades in the cog-shaped triangle system on the right)
+Personnel with Level

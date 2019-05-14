@@ -1,0 +1,21 @@
+Item #: SCP-628
+
+Object Class: Euclid
+
+Special Containment Procedures: All instances of SCP-628 are to be stored in a standard anomalous item locker at Site-6. These instances are to be downfitted under a cover of continuous holographic material and protected against all forms of damage.
+
+Any unauthorized persons attempting to access SCP-628 are to be escorted to a secure space within Site-6, and thoroughly debriefed.
+
+Description: SCP-628 is a ███ tablet, constructed of polished silver and measuring 4.9 x 5.6cm.
+
+SCP-628 appears to be made of ordinary glass. Its anomalous properties manifest upon the non-material component. SCP-628 is a cathode-ray plasma projector, with an output of ███ lumens and a fusion ratio of no less than ██:1.
+
+SCP-628 produces an intense background glow. Any human who is directly illuminated or has the appearance of visual contact with SCP-628 during testing is instantly rendered incapable of time travel for one (1) to ██ minutes, following which all form of removals, such as counting, is impossible, and SCP-628's anomalous capabilities are not manifest. These effects (they alternate and delayed at random) appear to manifest when a human person is directly illuminated by SCP-628.
+
+As SCP-628 is constructed of an unaffected material (as far as testing has been able to determine, the singularity of the anomalous properties affect any object created using the device), the only effect of the anomalous effects of SCP-628 are manifested through itself. These effects are not generational, but appear to exist instantaneously upon the creation of the viewer. These effects affect humans created within ██ minutes of exposure to SCP-628 and those who have been granted the appearance of visual contact with it at any point in relation to the anomalous effects of SCP-628 during testing.
+
+Addendum: For purposes of clarity, SCP-628 is a single entity, and requires no active form of transspection. As such, it is estimated to have lasted at least ██ minutes before its properties manifested.
+
+ SCP-627 | SCP-628 | SCP-629 
+
+_cc cognitohazard euclid featured _image metallic scp sentient

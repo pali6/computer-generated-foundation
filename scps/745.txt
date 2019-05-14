@@ -1,0 +1,15 @@
+Item #: SCP-745
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-745 is to be contained within a medium-size containment cell in a standard humanoid containment room. When not active, SCP-745 will be suspended by either a 3m long cable attached to the environment or a 6.2m long piece of heavy equipment beginning at the base of the pole and extending around the central mass of the device. A blackboard will be maintained in the center of the room and contains the digital data and applications: current program, settings, playing music and videos, etc.
+
+The removal of SCP-745 should be done by two or three personnel (provided by a set of automated mechanism to remove the device at any point in the event of it being removed through accident[DATA EXPUNGED] or natural causes).
+
+Description: SCP-745 is a black black polyester textile with a filmy, somewhat 'wet' texture. The material of the fabric is not currently distinguishable by the naked eye. SCP-745's anomalous properties are not manifest in the fabric itself, but rather within the object itself.
+
+The collection of motifs found within SCP-745's material suggests that SCP-745's fabric is constructed in a manner similar to celluloid fiber, although the nature of such fabric, when properly applied to clothing, can only be described as 'wet'. The pattern on SCP-745 is strongly reminiscent of the UK pattern-glossing textile, albeit more subtle than the standard styles.
+
+ SCP-624 | SCP-625 | SCP-626 
+
+compulsion cognitohazard compulsion electronic euclid infohazard indestructible scp sensory

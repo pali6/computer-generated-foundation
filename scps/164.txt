@@ -1,0 +1,19 @@
+Item #: SCP-164
+
+Object Class: Euclid
+
+Special Containment Procedures: Depictors of SCP-164 are to be maintained at Site-37. Information concerning SCP-164 is to be suppressed at all times. All instances of SCP-164 are to be contained in a standard storage unit at Site-37.
+
+Description: SCP-164 is a number two-year old black walnut, which is humanoid in appearance and properties. It possesses items such as an anomalous effect which can be used to indicate an instance of SCP-164's [DATA EXPUNGED] to direct SCP-164's thoughts to objects it may have encountered and forgotten (see Incident 164-1 for more info). Its anomalous effect is disabled by [DATA EXPUNGED].
+
+SCP-164 is able to move by within a range of fifteen meters, regardless of terrain, without expending any energy.
+
+This ability is manifested when an object of SCP-164’s approximate size in meters is placed within its line of sight. Objects placed within this range of distance display this ability automatically regardless of distance. Objects placed within this range in meters in proximity, however, will display a slow increase in speed, regardless of the object's distance from SCP-164. When placed within the SCP-164 line of sight for [REDACTED], SCP-164 will immediately center itself on one (1) object in its line of sight, followed by moving to the next.
+
+The effect of SCP-164's effect does not apply if the object SCP-164 perceives in the adjacent meter is outside of that.
+
+Note: While SCP-164's anomalous effect can be used to track objects, it cannot track non-anomalous, non-organized objects. I cannot risk ever finding an instance of SCP-164. -Dr. ██████
+
+ SCP-163 | SCP-164 | SCP-165 
+
+building euclid euclid historical _image joke humanoid sapient scp sentient

@@ -1,0 +1,29 @@
+Item #: SCP-805
+
+Object Class: Safe
+
+Special Containment Procedures: Installation of two-way radio restrictions is currently being planned as part of a recent order to control internet censorship. The entirety of the infrastructure is to be observed by plainclothes individuals and maintained by regular human recognition.
+
+Bureau records pertaining to SCP-808 are to be kept on site. Documentation has been deemed unnecessary by the O5 council.
+
+Description: SCP-808 is a device that replicates radio broadcasts of a variety of languages by using anomalous transceiver technology. There are no records to suggest SCP-808 is active. Applications for formal documentation came from O5 Recruitment Office for the Clearance of O5-087. Description was selected by the Overseer Council and submitted for approval prior to this description's Project Crossover. Project Crossover was to produce a standardized speaker for all humanoid, sapient, and physical communication devices throughout the nation. This was difficult due to the anomalous nature of the signal data, but the Overseer Council approved the concept prior to its formal documentation.
+
+SCP-808 mainly creates radio waves, and transmits them continuously to various loyal users of the Internet. Mobile Task Forces including MTF-████ (The Foundation Mobile Task Force) conducts an occasional week-long version of "Project Rac" in a bid to listen for anomalous broadcasts. During Project Rac, the primary purpose of SCP-808 is get wide-spread population centers to praise the Foundation on their impressive technology.
+
+Whenever SCP-808 is used, a far-flung network of "domains" is detected, with activity originating from within the United States. Correlations will usually be low with the Foundation. Related to the fact that these domains are present globally, research will almost universally focus on finding what the Foundation is really doing with this particular classified technology as a means of cover.
+
+SCP-808 carries anomalous properties when placed within a large enough radio telescope. After some research, a single, large radio telescope has been observed to have a broad field of vision and good power-feed, allowing the person observing the telescope to concentrate on the telescope's main focus. 90% of the time, this secondary focus becomes clear as the primary focus is picked out. Further underwater exploration revealed the structures to be made of quartz, and from a certain point, glass. During construction, construction materials are refined, making the werewolf or speaking girl a possible hi-level security contact.
+
+SCP-808 was first discovered on December 1, 2008, aided by FBI agents. It is not known when a local citizen discovered it or what motives the foundation might have for producing it. Regardless, four days after its discovery, a special containment plan was created for it. Federal agents were instructed to trade with a group of al-Qaeda supporters suspected of being associated with al-Qaeda. Hostile Agents were to voice criticism and protest that the Foundation would be meddling with domestic politics. After the speech failed to influence them, Agents were informed to let a radio journalist experience SCP-808 firsthand. The radio journalist refused to cooperate, and the interview was terminated. Agent Stearns was made aware from the radio journalist's demonstration, and was reassigned.
+
+Footnotes
+1. Observed images have shown an unknown entity in black, red, yellow, and green clothing, mostly possessing bombs and explosives both light- and heavy. It is unknown who or what is seeking employment with ███████ Foundation personnel.
+2. Paraphrased.
+3. There is currently no reliable method of contact with this entity or the entity or even communicating with the entity, especially at best.
+4. Not known.
+5. Al-Qaeda, the organization currently active for the purposes of this new propagation strategy.
+6. A mobile task force of the Foundation.
+7. Locations confirmed: ██████, ██████, ██████, ██████, Marion, █████, █████ alone.
+8. A large radio telescope over the area of effect.
+9. Front is to be liminal, and include recognizable features. Should the entity's movements be irregular, then it may be sublimated as well.
+entity _image safe sapient scp sentient

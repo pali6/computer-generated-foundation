@@ -1,0 +1,31 @@
+Item #: SCP-737
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-737 is contained in a standard containment locker at Bio-Research Area-152, located in the Pacific Northwest, and must only be closed by a staff member with Level 3 Security Clearance or higher.
+
+SCP-737 must be maintained in a dimly lit chamber at least 3m x 3m x 2m containing temperature between 0-40C. The chamber must be cleaned once per day by hand. Any amount of water-soluble material will affect SCP-737's effect.
+
+Description: SCP-737 is a standard biological device manufactured by the company of Dr. F████ & Co.^1. SCP-737 can be opened by putting it in one of the hollowed out or otherwise filled spaces presented via the device. Once SCP-737 is closed, it will start producing a thin thin white film which acts as a slightly transparent and generally inert ink-like substance^2. This substance can be used in writing, and with a slight amount of effort can be written, even on non-biological materials. The degradation of SCP-737's surface causes it to bleed from the inside. The blood portion of SCP-737 will then gradually replace itself with a solid white substance. The amount of ink produced is the same for both the ink and the white substance, and is determined by the total amount of ink the device produces at any given time.
+
+SCP-737 is only produced from 90% of the tissue within a 100m radius from the object.
+
+Any amount of ink produced by SCP-737 will affect the composition of the colored ink. Any ink applied will not fully dissolve or reverse the respective pigment. This boils down to using an ink filter dipped in the material of whatever you can't perceive through the thing.
+
+The drop of color is usually approximately 2cm, which means it takes about half a second for SCP-737 to fully fill the pane of the blank or other blank surface it covers. When the glass container is ready to be filled, SCP-737 will spin open and some of the white substance will spill out of it. This zone of color is the 'bubbles' or 'paint' that disappears as the plate of ink forms, and as the pigment releases, there will be diminishing over time, but larger bubbles emerge. The particles will eventually migrate to the single most distantly-sealed spot of the object, and will gradually radiate outwards until it covers all the surfaces of the room.
+
+The white dye is produced from the black ink. A few molecules of the pigment are absorbed in the filter, and then leave their new location and evaporate at a rate of about 10cm per minute. The pigment itself will be yellowish-white in color if any molecules are taken up. The possibility of healing the cataloged color into the white, or the accounts to this effect from Dr. F████, are now considered unlikely.
+
+Printing on the surface of the object by SCP-737, or any chemical shock-wave, will make the surface of the ink white. This effect will persist even if the mass of the ink is 100% larger than the surface of the object itself. The subjects are normally conditioned to be in a flat, neutral condition and will not erasure any parts of the object. This is evidenced by observing that people with material over 100% of the surface of the color ink will also erase all parts, even floats and brightly colored paper, but only if their material is wet cardboard. Presumably, the ink in the object is only produced by SCP-737, and all using materials produced at Bio-Research Area-152 will produce enough white material, so testing is limited to those using sensitive materials.
+
+Addendum #1 1/02/19
+
+SCP-737 was found on 08/02/19, after the discovery of the new candy bar® (5-Color) by Dr. F████ & Co.^3. This change was quickly explained that the product was a chemically-modified version of the standard color-neutral candy bar (which was sold at the time as the 'Special Edition') that contained 2.5% of the molecule used in SCP-737, and that the rationale was that the original color was intended to be neutral, and that a colored version would add to the item's appeal.^4
+
+Addendum #1-1
+
+The original ingredients of SCP-737 may not have been able to be taken to market, as it was not manufactured with it in mind, and the manufacturer has not been contacted, but the majority of those in the Foundation who used SCP-737 concluded that it was from the candy bar manufacturer and is therefore harmless.
+
+Addendum #1-2
+
+Three percent of the color-saturation was left over as a

@@ -1,0 +1,38 @@
+Item #: SCP-388
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-388 has been moved to its current containment chamber at Site-79.
+
+Description: SCP-388 is a male of average height and weight and is only visible from the east window. The interior of this chamber is irregularly shaped and rapidly changes for up to 72 hours. It also appears as a large portal to an alternate dimension, the limits of which are unclear. SCP-388 is created by a series of phenomena which occur after personnel enter the room. These phenomena range from experiments and experiments to Earth, SCP-881, SCP-485, SCP-943, SCP-9999.^1
+
+SCP-388 appears as a large linear room, 20m x 20m x 10m, containing clothing and clothing accessories, a statue^2 depicting a statue of the Statue of Liberty, an abandoned, derelict, abandoned castle, and a number of other anomalies (designated SCP-388-1) that appear and disappear as observed by personnel. The interior is completely intangible by any means present; the initial time of appearance is not memorably described by any member of SCP-388. Testing has shown that if the apparatus used to create SCP-388 remains unused for a period of one (1) hour, the effects of SCP-388 will activate, at an average duration of 0.25 hours. Testing has been claiming that in cases of prolonged exposure to SCP-388, the device will even generate instances of SCP-388-1 that act on human subjects as though they were within the room.
+
+If SCP-388 is fully used for up to 72 hours without being used, containment of SCP-388 ceases. The time at which it is used is currently unknown. If a subject using SCP-388 becomes a targeted corpse, another subject will remove SCP-388. These subjects are designated as SCP-388-2.
+
+The containment chamber has a maximum observed area of 8m x 8m x 2m^3 and a maximum estimated internal storage capacity of 20000kg. Storage does not appear to be non-anomalous or otherwise able to be bypassed. SCP-388-2 subjects tend to appear unnoticeable until approximately 72 hours into the use of SCP-388; if both are present, SCP-388-2 will disappear. At this point, SCP-388 will disappear of its own accord.
+
+SCP-388 has been linked to SCP-485, SCP-963, SCP-944, SCP-945, SCP-946, SCP-947, SCP-1046, SCP-1017, SCP-1048, SCP-1049, SCP-1050, SCP-1051, SCP-1052, SCP-1053, SCP-1054 and -1055.^6
+
+SCP-388 has been linked to numerous anomalous entities; see Addendum SCP-388-1 for more details. SCP-388 has not yet been reactivated and the causes of SCP-388 activation are unknown.^7
+
+Addendum SCP-388-1: Documentation of all items found within SCP-388 during recovery. Specific analysis of objects found inside SCP-388 will also be noted.
+
+Item #: SCP-389
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-389 is stored in Site-79's main computer room, with an open area for recreational purposes. The only anomalous properties of SCP-389 are that, when the computer is used, all items within a 1m radius of the object will disappear.^8
+
+Description: SCP-389 appears as a large cube made of gold and copper, weighing approximately 7.5kg. The inside of the cube is opaque and invisible to all but certain personnel, and while the outside is transparent, no light or electrons can pass inside the cube. The objects outside of the cube are hereafter designated SCP-389-1.
+
+SCP-389-1 are invisible, metallic objects made of unknown nature which are located in intervals of 1m x 1m x 1.5m. These objects appear as if they are sentient but are not, in fact, sentient. When these objects are interacted with, they will display Motion Detection and destruction of liquids and/or solids. The effect of this event is currently not conscious, as observation of objects within SCP-389-1 have not been able to cause this effect.
+
+SCP-389-1 appear to consist of several materials, including:
+
+•Elastic adhesive that acts as a self-assembling storage device.
+•Three fixed and three removable brass shelves (designated SCP-390-1), both measuring 5m x 5m x 5m.
+•A large storage locker containing several tools, including drills and shovels.
+•A minecart.
+
+SCP-389-1 will manifest and cause the disappearance of

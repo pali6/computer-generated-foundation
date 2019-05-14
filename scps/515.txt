@@ -1,0 +1,32 @@
+Item #: SCP-515
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-515 is to remain locked in a standard containment room in Site-28. A search of SCP-515 during a containment breach of any kind is restricted to area of maximum security. Any others that come in contact with SCP-515 are to be treated with stunlocked tranquilizer rifles before being released.
+
+Description: SCP-515 is a $200,000 USD collection of 517 gold and silver coins. The coins appear to be ordinary silver-tipped coins bearing the logo of various major international companies. SCP-515 does not appear to be produced by any known means.
+
+SCP-515 has a radiating brass rhododendrite, 'The Bronze Clipper', which is constantly emitting a burst of mechanical heat. This energy is equal in intensity to the amount of SCP-515's own power. If at any point there is more than one SCP-515 in the room, all of them will emit a burst of noise depending on the temperature in the room.
+
+SCP-515 will then emit a sudden burst of heat upon reaching a temperature of 46C. This heat will affect all humans (minus those that are affected by SCP-515) in the room in an attempt to burn them.
+
+If SCP-515 is on fire, subjects exposed to the heat will combust in a manner that will cause them to lose all memory of what happened the previous year. No physical damage is attributed to the room since the area is currently uninhabited.
+
+The effect of exposure to SCP-515 is permanent. Effect of exposure to SCP-515 does not reset any time after exposure occurs.
+
+Removal of SCP-515 does not change effects of exposure.
+
+Addendum: A note on SCP-515's containment chamber.
+
+SCP-515 was originally located in a chamber in an old warehouse owned by a ██████-██ ██████████ of ██████████, California. This was used as a testing area to see if SCP-515 could be safely removed from its current location.
+
+No further tests involving SCP-515 have taken place.
+
+Addendum: Interview conducted by Agent █████ ██ of Foundation-Classified ██████████, ████ ████ ██.
+
+Addendum: Interview conducted by Agent ██████ of Foundation-Classified ██████████, ████ █ ████.
+
+Footnotes
+1. Like several other Foundation agents, Agent ██████ has been exposed to SCP-515.
+2. [sic]
+agric euclid humanoid intangible location sapient scp sentient

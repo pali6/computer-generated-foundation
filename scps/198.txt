@@ -1,0 +1,13 @@
+Item #: SCP-198
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-198 is contained in the storage unit of its containment chamber, and is to be kept as a toy outside of its containment unit. All sub-units of SCP-198 need not be stored separately, but are to be kept in the same unit, because of the long term effect of SCP-198. Atafelsia is to be kept in a separate containment chamber, and is monitored by a remote control; if an instance of SCP-198-1 is found within the sub-units, they are to be transferred to the container for SCP-198. The container for SCP-198 is to be kept in its own tank.
+
+All testing should not begin until a member of MTF Lambda-10 has been assigned. During testing, MTF Lambda-10 is to remain in the area around SCP-198, and should not be allowed to access SCP-198.
+
+Mission Report: A team led by MTF Delta-10 has been granted access to SCP-198.
+
+ SCP-197 | SCP-198 | SCP-199 
+
+ectoentropic euclid _image memory-affecting scp

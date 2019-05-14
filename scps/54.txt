@@ -1,0 +1,31 @@
+Item #: SCP-54
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-54 is to be kept in a standard humanoid containment cell in Site-██. The chamber must be equipped with a soundproofing mechanism, identical to that used in low-visibility instances of SCP-54. SCP-54 will be maintained in the chamber as a reminder of its presence, rather than the requirement of a direct sensory exposure point. SCP-54 is to be tested for anomalous properties at the conclusion of its test, after which it is to be disposed of as quietly as possible.
+
+While in containment, SCP-54 is to be induced in the event that another instance of SCP-54 is removed. A member of the containment staff is to be trained in the use of EEG electrodes to induce the pattern of activity most suggestive of SCP-54's anomalous properties, and to maximize the success of containment.
+
+Description: SCP-54 is a human female born between 1939 and 1962, of English descent, who is 32 years old. It possesses mental, sensory, and physical traits similar to those of an average person. SCP-54 has no external or internal facial features, and is unaffected by physical trauma, and displays no unusual sensory abilities. Absent any sensory organs, SCP-54 remains conscious and capable of speech. While its thoughts are of a territorial, artistic, or other self-centered nature, it is remarkably docile, and has a high tolerance and willingness to discuss its own feelings and their motives.
+
+SCP-54's anomalous influences appear to be caused by an anomalous phenomenon which happens on the same day, each time an eyeliner is applied to the eye of an individual studied by SCP-54. The effect appears to be an auditory hallucination, that precedes and usually follows the construction of the eyeliner. The affected individual will hear the voice of SCP-54 speaking to them immediately after each eyeliner is applied. When the eyeliner is removed, the individual will begin to engage in verbal conversation, but will then begin to hear the voice of SCP-54 [see research notes for more details]. It is unknown whether the hallucinations are caused by or even caused by SCP-54. The human recordings thus far confirmed the anomalous properties of this anomalous phenomenon, although the voices cannot be identified as any other individual.
+
+In addition to SCP-54's anomalous mental and sensory powers, it is potentially also anomalous because SCP-54's anxiety and depression persist, and despite its relatively sucessful personality, it is still severely depressed. SCP-54 has shown the ability to transmit psychologically destructive messages to others, and will enter a deep mental state if it feels there are valid reasons to do so; to date, SCP-54 has only ever been affected by this message. The nature of this message is unknown, and no amount of induced delusion or delusions can change it.
+
+Addendum 54-A: SCP-54's Test Logs
+
+Test Log: SCP-54
+
+Foreword: This is the first test conducted on SCP-54, after an extended period of containment that mimicked its anomalous properties. SCP-54 survived only this lasting three hours, and did not respond to other attempts at inducement.
+
+Extensive testing confirmed that SCP-54 had severe anxiety and depression, and related symptoms consistent with the symptoms found in high-stress situations. SCP-54 also suffers from anxiety and depression in varying degrees, but appears to lack many of the symptoms associated with depression.
+
+Test 1: SCP-54 was placed in isolation for three months, during which it was fitted with an EEG electrode to monitor intra-anesthetic brain activity. SCP-54 was parceled into three equal sized devices. The EEG was connected to a computer, and an EEG Monitor was placed on top of it. SCP-54 proceeded to monitor brain activity throughout its entire head with no apparent result. After three months, SCP-54 refused to move to another location, and ordered an EEG monitor and sat in a standard chair.
+
+Test 2: SCP-54's brain activity was monitored via an external EEG monitor, placed on top of SCP-54's head, and integrated with an EEG Automatic Sequence Sensor. SCP-54's brain activity was recorded approximately every 10 minutes, and repeated until the brain activity ceased.
+
+Test 3: After a fast blinking period of approximately two seconds, SCP-54's brain activity resumed with the net result of a pulsating, static burst of brain activity.
+
+Test 4: The net result of SCP-54's SCP-54's test log was to use a simple tone device to play the three phrases "MINUS MINUS MINUS MINUS MINUS, which was played 36 times" immediately when it had received this test. The net result proved to be an eclectic mix of non-standard, amusing tones.
+
+Test 5: SCP-54 was fitted with a Low

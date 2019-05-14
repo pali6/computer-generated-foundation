@@ -1,0 +1,21 @@
+Item #: SCP-16
+
+Object Class: Safe
+
+Special Containment Procedures: Each instance of SCP-16 is to be contained in a standard safe kept at Site-55. Instances of SCP-16 are to be maintained on-site at all times to prevent accidental usage of SCP-16.
+
+Description: SCP-16 is an etched wood truck. As such, it is possible to gain access to a vehicle authorized to drive a vehicle. However, only one instance of SCP-16 can be driven at a time. The owner of SCP-16 must approve the driving of the vehicle, and must do so when one programming has been entered into the vehicle.
+
+When Drive 11 has been entered, the driver of the vehicle will enter into a state of mounting disbelief and military anticipation. This state will progress to a state of panic and paranoia, and the driver will begin using the vehicle for purposes previously unknown.
+
+SCP-16 results in a marked deterioration of the vehicle's physical condition. However, the state of the vehicle will never recede.
+
+When Drive 11 is entered, the driver of the vehicle will begin to drive it silently while the vehicle is within its designated viewing area. This will continue for one hour, but if Drive 11 is entered again within the viewing area, the driver will remove the vehicle and turn the vehicle off. The driver will leave the vehicle without moving anything from the vehicle.
+
+Note: In order to prevent the loss of trained personnel, each instance of SCP-16 must be driven in isolation.
+
+Note 2: One instance of SCP-16 must be kept in a locked storage locker at Site-55. In the event of the acquiring of SCP-16, the instance of SCP-16 must be destroyed.
+
+ SCP-1583 | SCP-1584 | SCP-1585 
+
+airborne autonomous safe scp vehicle vehicle

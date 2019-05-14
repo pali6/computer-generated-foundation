@@ -1,0 +1,55 @@
+Item #: SCP-29
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-29 is to be stored in a standard Safe-class storage vault at Site 19.s Framework. Should SCP-29's containment procedures become obsolete then it may be used by the Foundation as a Foundation-issue library card.
+
+SCP-29 is to be monitored at all times. Any changes in SCP-29's behavior are to be reported to Site 19.
+
+In the event that SCP-29 is damaged, the system must be set up to re-trace it.
+
+Description: SCP-29 is a yellow ink-jet fountain pen, dubbed "DuckDuck.Kangaroo" by an unknown third party. SCP-29 comes equipped with a transparent tablet tablet cover where the ink cartridge would be.
+
+As soon as SCP-29 is filled with an SCP-2982-1 object, it will attempt to draw an illustration of SCP-2982-1 itself at a distance of up to 2 meters. This is presumed to indicate the object's effects. Upon completion of the drawing the subject will not experience any symptoms of SCP-2982-1 infection, and will instead continue to draw an SCP-2982-1 object.
+
+Following the drawing, SCP-2982-1 instances will spread through SCP-2982 more rapidly than usual due to SCP-2982-1 SCP-2982-1's affinity towards ink-based objects. SCP-2982-1 instances are normally unable to spread any other SCP-2982-1 objects, but will attempt to animate SCP-2982-2 objects if inserted into SCP-2982.
+
+Tests to determine the composition of SCP-2982-1 instances are ongoing.
+
+Addendum 2982-1: SCP-2982-1: Effects
+
+SCP-2982-1 is an Inkjet cartridge that emits an anomalous effect when drawn in its entirety by a single subject.
+
+Locating SCP-2982-1 instances within SCP-2982 takes about 15 seconds; in the event that the object is placed at the opposite end of SCP-2982-1 itself, a 1MB solid-state external hard drive containing the object will complete the tracing process automatically while the subject is drawing the object.
+
+Dr. ██████: Thank you for agreeing to the terms of this request. How exactly have you found SCP-2982-1 instances?
+
+SCP-2982-1: Oh, there's so many that I can't touch them all! So many! It really is a human error to say no to a life!
+
+Dr. ███████████: How did you find them?
+
+SCP-2982-1: I only draw things I can talk about myself. When I found these it looked so…. perfect!
+
+Dr. ███████████: Should you draw SCP-2982-1 instances to scare people?
+
+SCP-2982-1: Why? I swear it's just reaction. I only do it to say sorry if I don't think I'll see any of you when I'm on the road.
+
+Dr. ██████: You couldn't even protect yourself.
+
+SCP-2982-1: What I mean to say is that once you see one of those things, you have to push again. You can't have any children, no one will think you're an asshole. And you can't be a douchebag.
+
+Dr. ██████: If you die, would you be able to bring your creations back?
+
+SCP-2982-1: Yes, I can. I may have to get a lawyer or something. I just think I'm an idiot.
+
+Dr. ██████: But there's always a problem with that project I was talking about. Why do you never use a man who kills people?
+
+SCP-2982-1: You have to have a very special character, for me, an actual man. I don't go for the guy who stabbed to death his wife on video after they moved to a different state. I go for the real man.
+
+Dr. ██████: Does this means the next time you die, you can draw up a new idea for your new Bye-Bye project?
+
+SCP-2982-1: Oh, god, yes! I can't wait to get started!
+
+Addendum 2982-1: Vignette
+
+research-log.gif

@@ -1,0 +1,28 @@
+Item #: SCP-60
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-60 is to be contained within a standard storage locker in Site-19's storage wing.
+
+On-site access is forbidden to personnel with Level 4/60 clearance or above. On-site access is forbidden to personnel with Level 5/60 clearance or above.
+
+Description: SCP-60 is a burnt brown leather wallet, wrapped in a plastic wrapper, housed in a wooden frame. The object has a label next to it, reading "The Prototype." It is blue, features a 405-volt power source and has a pit dugout. If a human subject attempts to use it, the subject will experience severe anger and hostility, often resulting in severe physical violence.
+
+The item will begin sending letters after approximately one week. Letters are sent in a two-part series, with letters in two-part series two (2-part series one) and three (three-part series two (three-part series two)). Letters are sent once the item's container is opened, and have the following format:
+
+You have a familiar with the Object of this prototype.
+If you have access to the item, you are authorized to use it.
+You are required to write an entry for each letter.
+
+Recommendation: No more entries produced.
+
+Once this response has been made, SCP-60 will either drop the contents of the container that contains it or, if it does not, it will simply not respond again at any time.
+
+Test Logs: Subject's initials on the container have been replaced in their corresponding entry by the initials of Bob.
+
+Test Description: 10-11-2012: In pre-mission testing, examination of the Object yielded no obvious anomalies. Physical testing revealed that the object is indeed less than 0.1mm in thickness, with all of its dimensions corresponding to the internal dimensions of a standard 4-ply paper envelope.
+
+Test Results
+Number of letters: 20
+
+_image

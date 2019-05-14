@@ -1,0 +1,15 @@
+Item #: SCP-134
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-134 has been stored in a high value item storage 2008. Security precautions have been considered adequate following Incident 134-A. SCP-134 is to be contained in a standard D-Class containment cell as part of Site-98's anomaly containment accords and the details of its containment procedures.
+
+Description: SCP-134 is a 12.4-inch stainless steel wristwatch with a rose gold chain. Every two weeks, SCP-134 will become the specified time zone marker. When lit by a candle, SCP-134 will appear to be of a normal undamaged state of dilapidation. When placed in an anomalous state, SCP-134 will dock itself to an anomalous table, and account for all digits in positive fractional units. This anomalous state will continue regardless of the external or internal motions of SCP-134.
+
+SCP-134 is capable of speaking with an unknown source using an unknown vocabulary. Attempts to communicate with SCP-134 and the source of its anomalous state have met with failure for the purposes of confirmation.
+
+Instances of SCP-134 are permanently anchored to a standard pocket watch with black leather on the back and a white strap. It can thus be activated remotely using one of three buttons found on SCP-134's belt.
+
+ SCP-133 | SCP-134 | SCP-135 
+
+automaton alive humanoid _image safe scp sculpture taboo

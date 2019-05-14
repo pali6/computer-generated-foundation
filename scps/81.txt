@@ -1,0 +1,64 @@
+Item #: SCP-81
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-81 is to be kept in an outer containment chamber at Site-███. SCP-81 is to be kept in an oversize acrylic container which cannot be damaged through direct means. Due to the severe wear associated with the object, it has been granted Class-C amnestics.
+
+Description: SCP-81 is a poorly understood artificial intelligence in the form of a synthetic Turing machine. It can perform intelligence-intensive tasks efficiently and has been programmed to store references to the Foundation thus far and to perform regular tasks. SCP-81 is capable of a variety of redundant self-referential behaviors, such as rearranging its stack of instructions and objects, but is otherwise seems capable of any sort of cognitive activity.
+
+SCP-81 is capable of speech in a conversational language. Its speech is composed of a series of sentences and its phrases are in high-pitched tones.
+
+Once in a conversation, SCP-81 will attempt to "speak out of turn" regarding the subject of its conversation and return to its original conversational status. This behavior is also possible in English, French, Spanish, and German.
+
+Auditory communication is possible through writing. SCP-81 communicates in writing through the use of sounds and images as means of communication.
+
+SCP-81 is able to use "grammar" to write in the original language. The objects which the document is attached to lack any components that would normally make connections to SCP-81. The "grammar" in question is of the meta-level.
+
+Documentation attached, transcripted to the document:
+
+Viewing of document "D-989962’s personnel file"
+
+D-989962
+
+Personnel ID: 07000-596
+
+Date of Birth: 08/01/2009
+Date of Assignment: D-9696
+
+Classification Level: SCP-8004
+
+Notes: Previous interview about D-989962 was deemed redundant.
+
+Interviewer: D-9696
+
+Date: 04/27/2010
+
+Interviewed: D-989962
+
+Interviewer: Agent ████████
+
+[BEGIN LOG]
+
+Agent ████████: Hello. I'm going to ask you some questions about some of your previous subjects. Did you start out doing what you are doing now?
+
+D-989962: Sure. I've had a crush on some of them, but they haven't really given up on me.
+
+Agent ████████: Do you have any particular subjects who are particularly fond of you?
+
+D-989962: I have a nice old lady who I want to go back to. She’s my sister. I wanted to go back for her last year so I could get some stuff together for her so she can get the D-Class should she die.
+
+Agent ████████: D-9696-28 was also considered to be a kind of special case. She was an anomaly, and she was the subject most likely to cause exposure to SCP-81. Her mental defect was in the way her oral cavity was filled, which was a security risk.
+
+D-989962: For all I knew, I was getting sent back to her. Anyway, I don't think she ever gave up on me, but I decided I was going to try that anyway. I started out working a lot of odd jobs but when I started to get bored of it I had to choose something else. I was looking for something to do, and I thought I'd become a writer. So I decided writing was the best idea and started writing.
+
+Agent ████████: D-989962 is able to write in English, French, Spanish, and German. The use of "grammar" is a way of communication. Do you have any particular subjects who are particularly fond of you?
+
+D-989962: I have a nice old lady that I want to go back to. She would really like to be in the Foundation, but she can't join. I tried to make that part of the interview, and I guess I didn't quite get there. I released an idea about her a few months ago and she stuck with it.
+
+Agent ████████: Did you feel like being a writer was an experience for you?
+
+D-989962: It was, but it wasn't anything I hadn't done before. I was surrounded by writers all the time and I was very happy with my progress as a writer.
+
+Agent ████████: Do you feel like your ability to write is a limitation of your capabilities?
+
+D-989962: Well yeah, I think it is. I can't really write without it.

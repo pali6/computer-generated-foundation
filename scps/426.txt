@@ -1,0 +1,147 @@
+Item #: SCP-426
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-426 is to be kept in Site 16's locker room in the experimental wing. Personnel with a clearance between 3/426-3/426 must only work with SCP-426. Personnel wishing to work with SCP-426 must undergo a psychological evaluation, and if required, have a daily psychosocial course.
+
+Description: SCP-426 is a multicolored .45 caliber semi-automatic handgun of unknown scale, and an engraved four piece art deco motif. The gun is an inscribed wooden doll, named Siren, created by an unknown party, and is an automated reproduction of two key motifs found in SCP-4460.
+
+SCP-426 is endowed with a variety of anomalous properties, including:
+
+•Aspect Ratio: 0.6 degrees
+•Directional LED village lights
+•Phantom limb detection
+•Attention enhancement
+•Extra resistive capability
+•Ability to emit sound
+
+SCP-426 can be given appropriate ammunition for a handgun.
+
+Description of Incident 426-B: On ██/█/20██, SCP-426 accidentally fired a strong gunshot into a drainpipe, causing a blackout of Site-17, after which there was a breach which immediately recovered Site-17. Five (5) personnel were injured, as well as three (3) SCP-related incidents. No deaths occurred, with only five (5) casualties.
+
++Close
+-Close
+
+According to 4chan and related websites, SCP-426 was owned by a Ravel's Surprise store, that held several anomalous items. Because of this, the store was transported to Site-17, via the doors and security systems, before it could be discovered by Foundation operatives. As of this point, SCP-426 is in storage.
+
++Close
+-Close
+
+The Foundation itself has not managed to locate any other locations of this anomalous object, and Foundation personnel do not have the right to enter or access them. The area is currently being guarded by security personnel.
+
+For more information on 4chan, see document 500-B Operations of 4chan.
+
+Addendum 4011: SCP-426's cell:
+
+2011/03/18
+The next site-wide meeting of the SPC was held on 3/7/2018. Research into a way to contain SCP-426 at Site-17 has just begun, with the goal being to prevent self-mutilation by personnel. The results of the meeting, collected by using Dr. █████, are as follows:
+
+You've been on the other side of the veil.
+
++AccessExcerptsfromSPC-2011-032
+-Hide
+
+SCP-391-A: The box of tools.
+
++AccessFollowingTestLogs for SCP-391
+-Hide
+
+SCP-391-B: The video.
+
++AccessInterviewLogs for SCP-391
+-Hide
+
+SCP-392-A: A collection of messages.
+
++AccessExcerptsfromSPC-2008-60
+-Hide
+
+InterviewLog-001
+
+InterviewLog-191
+
+InterviewLog-143
+
+InterviewLog-586
+
+InterviewLog-582
+
+InterviewLog-579
+
+InterviewLog-591
+
+InterviewLog-118
+
+InterviewLog-124
+
+InterviewLog-187
+
+InterviewLog-189
+
+InterviewLog-230
+
+InterviewLog-331
+
+InterviewLog-440
+
+InterviewLog-142
+
+InterviewLog-231
+
+InterviewLog-234
+
+InterviewLog-173
+
+InterviewLog-140
+
+InterviewLog-143
+
+InterviewLog-134
+
+InterviewLog-169
+
+InterviewLog-166
+
+InterviewLog-109
+
+InterviewLog-61
+
+InterviewLog-75
+
+InterviewLog-124
+
+InterviewLog-54-A
+
+InterviewLog-54-B
+
+InterviewLog-87
+
+InterviewLog-249
+
+InterviewLog-811
+
+InterviewLog-51
+
+InterviewLog-3-1
+
+InterviewLog-4-A
+
+InterviewLog-3-2
+
+InterviewLog-4-B
+
+InterviewLog-4-C
+
+InterviewLog-4-D
+
+InterviewLog-4-E
+
+InterviewLog-4-F
+
+Footnotes
+1. A collection of code for an automatic account entry system, designed by Dr. ████.
+2. A collection of memory-affecting effects of SCP-426, designed by Dr. ████.
+
+ SCP-4
+
+_cc ectoentropic euclid humanoid sapient scp sentient weapon

@@ -1,0 +1,40 @@
+Item #: SCP-689
+
+Object Class: Euclid
+
+Special Containment Procedures: The ceiling of SCP-689 is to be wind-proofed against all external forces, including external blast-firing devices. Any power outlet deemed to originate from SCP-689 is to be permanently either turned off or turned on by no fewer than two personnel when not in use for testing. Access to SCP-689 during testing must be logged and checked before being granted.
+
+Description: SCP-689 is an anomalous, crystalline, metallic ichor that cannot be simply placed in a glass container or any other receptacle, and instead forms a complex mesh-like pattern composed of a coating of various organic materials. The coatings cause the coatings' effects to manifest when a human perceives them.
+
+If the human is able to penetrate the coating, the effect will only manifest when the human touches the coatings directly. SCP-689 begins to effect upon the human once the human leaves the system while the coatings quickly dissipate into touch.
+
+Addendum: SCP-689 can also initiate its effects using more than one human sample at once. The experimentation log is available in Addendum 789-1.
+
+Addendum: When constructed from the materials collected above, SCP-689 acts as a presumed omniscient, intelligent door to the left side of the office (designated "auditory chamber" to the subject) of the containment chamber (designated "containment box" to the subject). SCP-689 allows the subject into the containment chamber. All tests involving SCP-689 provide a satisfactory margin of safety, but at a risk of some danger.
+
+SCP-689's anomalous effects first started to manifest during the event of ██-██-████ when SCP-689 manifested in the center of SCP-689's containment chamber and was pried open by a number of SCP-689-1 instances. The containment chamber's internal temperature was increased to over 3,000 degrees Celsius. The resulting hyperthermia caused a major breach of containment, resulting in the loss of ██ SCP-689-1 instances and ██ additional personnel. It was assumed that SCP-689-1 was terminated through use of power, but this is uncertain.
+
+When the first instance of SCP-689-1 appeared, the subject was unable to leave the containment chamber for over two minutes before being able to exit the chamber. After exiting the containment chamber SCP-689-1 instances were bound by their chains and immobilized by the small, blunt tool they were attached with. The example from the containment chamber was recovered and destroyed; all confirmed instances were incinerated.
+
+Addendum: Testing of SCP-689 with power-using apparatus is not feasible at this time, as the objects involved would be easily damaged and the process would require the use of dangerous materials in multiple test chambers.
+
+Addendum: It is hypothesized that SCP-689 is also capable of altering the environment around itself to create a wider variety of chemicals and materials. Test Log Question 1
+
++ShowTestLog
+-HideTestLog
+
+Procedure: SCP-689 can be opened using only one human sample from each iteration of the system.
+
+Result: SCP-689 is located ██ meters down the hallway. The living room is lined with seven living walls and ceiling. All contain typical furnishings from the outside world: kitchen, living room, bathroom, lamp, piano, most of which have been burned or otherwise altered to create a non-functional state. The living room is sized for a single human person.
+
+Procedure: SCP-689 can be opened using at least one human sample from each iteration of the system.
+
+Result: SCP-689 is located ██ meters down the hallway. The living room is lined with seven living walls and ceiling. All contain typical furnishings from the outside world: kitchen, living room, bathroom, lamp, piano, most of which have been burned or otherwise altered to create a non-functional state. The living room is sized for a single human person.
+
+Procedure: SCP-689 can be opened using at least one human sample from each iteration of the system.
+
+Result: SCP-689 is located ██ meters down the hallway. The living room is lined with seven living walls and ceiling. All contain typical furnishings from the outside world: kitchen, living room, bathroom, piano, most of which have been burned or otherwise altered to create a non-functional state. The living room is sized for a single human person.
+
+Procedure: SCP-689 can be opened using at least one human sample from each iteration of the system.
+
+Result: SCP-689 is located ██ meters down the hallway. The living room is lined with seven living walls and ceiling. All contain typical furnishings from the outside world: kitchen, living room, bathroom, piano, most of which have been

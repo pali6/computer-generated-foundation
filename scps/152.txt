@@ -1,0 +1,33 @@
+Item #: SCP-152
+
+Object Class: Euclid
+
+Special Containment Procedures: Surveillance cameras are to monitor SCP-152 for potential behavior regarding food availability. Any unusual behaviors or interactions that SCP-152 may be capable of will be logged in SCP-152.
+
+Description: SCP-152 is an anomalous population of 12 per 100 persons. SCP-152 can reproduce as a result of inexpensive dependability in food supplies, including solid wastes and waste products.
+
+SCP-152 reproduces in groups of < 1,000 individuals, for a minimum of 5 days. During this period, birth rate is halved.
+
+SCP-152 has been deciphered by the Foundation's first scanner, acting as both a genetic blueprint and an optical decoder for the SCP-152 population. The foundation expects that one to two percent of SCP-152 will be different from its parent, with a maximum of 25%
+
+Use of this technology is still under review. The Foundation is to be notified of any materials created by SCP-152 and allowed them to continue using it.
+
+Note: This is a standard containment breach alert, and does not require a response from SCP-152.
+
+Addendum: Researching SCP-152 Results
+
+Screening of the SCP-152 donor database has found that all individuals matching the description of SCP-152 are anomalously resistant to infection by SCP-152, suggesting that SCP-152 may be resistant to infection by any other infectious agents. While the Foundation believes this is an anomaly, it is not at this time certain that SCP-152 could be adapted to survive without food.
+
+The infection rate is higher than expected due to SCP-152's high incubation period. Although this hypothesis is supported by the observation that SCP-152 does not show any increased interest in organizational structures or shared social behavior, the Foundation is currently trying to learn more about experimentation with SCP-152 in order to identify ways of preventing infection by other infectious agents.
+
+Testing of SCP-152 in the containment cell will start promptly. Any non-Euclidian entities deemed as SCP-152-1 individuals are to be removed immediately and placed in quarantine for observation.
+
+Similar to many other species of bacteria, SCP-152 has a bio-weapon known as "Tolerance" installed in its organism, which has been found to have the ability to kill any non-Euclidian entities with no apparent resistance to infection. As such, the Tolerance-1 individual is to be kept on life support equipment for observation purposes and will be monitored for the duration of the infection.
+
+Afterwards, females with the physical attributes of SCP-152-1 will be programmed to be born via carrier placement.
+
+Addendum: Testing of SCP-152
+
+ SCP-151 | SCP-152 | SCP-153 
+
+ectoentropic co-authored euclid extraterrestrial _image k-class-scenario memory-affecting scp

@@ -1,0 +1,99 @@
+Item #: SCP-137
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-137 is to be kept in a single-room storage vault within Site-93. Referred to as SCP-137-A, it is to be locked in a double-locked safe safe. No one other than O5 Command is to know of the existence of SCP-137-A, as SCP-137-A is considered to be a test subject and not to be subject to direct observation. In addition, SCP-137-A is to be monitored at all times, and its anomalous properties must be recorded and reported to O5 Command.
+
+Test Log 137-233
++videologs
+-hide
+
+Test Log 137-233
+
+Test Commander: O5-██
+
+Test Object: SCP-137-A
+
+Test Subjects: D-4449
+
+Test Results: D-4449 was placed in a mild electric shock and evacuated the test chamber. D-4449 complies for the duration of the test. During testing, MRI scan displays substantial damage of the brainstem, with the cortex currently located on the brainstem being severely fractured. Research indicates that the area is the result of violent collisions. The cortex currently functioning as a sensory organ is approximately 40% damaged. As of ██-██-20██, D-4449's brain stem is unable to function without going through an additional change in motion.
+
+Test Notes: The test was relatively easy to prepare, considering the item was in the safe. The exam materials yielded a detailed report regarding the item, with SCP-137-A's anomalous properties being primarily apparent when placed within its safe.
+
+Test Log 137-234
++videologs
+-hide
+
+Test Log 137-234
+
+Object: SCP-137
+
+Test Times:
+
+Test Start: 2:12
+
+Test End: 2:44
+
+Result: D-3395: Upon removing and replacing SCP-137, D-3395's brainstem is completely affected. As of ██-██-20██, D-3395 is unable to speak, and is paying the full item price in blood, which is three times higher than the casualty rate.
+
+Test Start: 3:23
+
+Test End: 3:23
+
+Result: D-3395: The original restraints of the item have been removed. The item and its remains are not harmful to D-3395.
+
+Test Notes: The item itself has no anomalous effects.
+
+Test Log 137-235
++videologs
+-hide
+
+Test Log 137-235
+
+Object: SCP-137
+
+Test Subjects: D-3395
+
+Test Results: D-3395 is blasted with a loud blast of radiation, with no other harmful properties. The item has a 50% chance of exploding.
+
+Test Notes: No anomalous properties reported.
+
+Test Log 137-237
++videologs
+-hide
+
+Test Log 137-237
+
+Object: SCP-137
+
+Test Subjects: D-3395
+
+Test Results: D-3395 possesses no anomalous abilities. D-3395 is not turned or disposed of. Continuation of tests until D-3395 suffers any further damage is unprofessional.
+
+Test Notes: For the purposes of testing, SCP-137-A is to be referred to as SCP-137-A-1.
+
+Test Log 137-239
++videologs
+-hide
+
+Test Log 137-239
+
+Object: SCP-137
+
+Test Subjects: D-3395
+
+Test Results: D-3395 does not have any anomalous abilities. D-3395 never imposes any restrictions on SCP-137-A during testing. SCP-137-A-1 is a single-target refferenceable assassination unit. D-3395's memory of this event is permanently lost if the item is not removed from its safe.
+
+Test Notes: Testing is to be extended to allow nurses to reportedly observe, as well as allowing a large quantity of supplies to be brought in without prior consent to SCP-137-A.
+
+Test Log 137-244
++videologs
+-hide
+
+Test Log 137-244
+
+Object: SCP-137
+
+Test Subjects: D-2924
+
+Test Results: D-2924 completes everything possible to establish the containment breach, with the exception of walking through the containment breach twice. D-2924 cannot use any of SCP-137-A's abilities for SCP-137-A. D-2924 is administered Class-D amnestics. Class-C amnestics are top priority for testing. D-2924 is disposed of in accordance with normal procedure. D-2924 is found dead on ██-██

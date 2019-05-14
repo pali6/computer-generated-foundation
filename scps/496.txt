@@ -1,0 +1,7 @@
+Item #: SCP-496
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-496 is to be kept in a standard humanoid containment cell in Site-92. It is to be fed through a feederable food tube, to prevent the creation of an instance of SCP-496-A.
+
+enotype humanoid neutralized safe scp

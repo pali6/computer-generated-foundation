@@ -1,0 +1,73 @@
+Item #: SCP-245
+
+Object Class: Euclid
+
+Special Containment Procedures: All instances of SCP-245 are to be contained in Inhospitable-9-A, a 9 meter x 9 meter safe-class item. SCP-245 has been transported to a Large Storage Room in Site-19. SCP-245-1 is not to be placed within a containment containment cell.
+
+During testing, SCP-245-1 instances are to be coated in a moisture-based paint. Each instance of SCP-245-1 is to be coated with a surface that causes the liquid to fracture inwards. No form of water is sensed by SCP-245-1 instances. The authorship of all instances of SCP-245 must be traced, along with the original author. SCP-245-1 instances are to be trade-marked with the permission of the original author.
+
+These mutations were used in formulating SCP-245-1.
+
+Description: SCP-245-1 are are a series of photographic original terraforming images that affect all post-2012 robotic technology. When any object or system is heated or thinned more than 50x, the particles of metal, glass, and plastic, inside of both SCP-245-1 and the objects affected by the image, contribute to the formation of SCP-245-1 instances. The individual metal particles show very high thermal conductivity. This results in the particles forming smaller, dense objects, which gradually compress at 1.5cm/s. The particles of glass are large enough to contribute to SCP-245-1 instances. Each SCP-245-1 instance contains the same number of grains of glass. Both of SCP-245-1 are composed of copper, and both are indestructible, and exhibit internal structure similar to pre-1874 parkanetite.
+
+The metal particles, glass, and plastic are spread on top of each other, and are subsequently molded into a spherical, irregular gaseous sphere. The formation of SCP-245-1 instances within this sphere is similar in nature to the formation of microfibers.
+
+The different caves of the Kalahara have been affected by SCP-245-1 since the 1950s. These caves are currently inhabited by a cygnid species, which is the primary source of contamination of the SCP-245-1 images.
+
+They are not a whole, solid planet, but rather a patchwork of islands, which all contain living organisms. The island orbits the southwest of the Kalahara. Given the size of the Kalahara, the island has an approximate circumference of 2.6km. Only the island itself is capable of sustained life. The rest of the island is uninhabitable due to the lack of any usable water, and is populated mainly by the free-living species of Crocodylus, with the exception of the Daphia naledensis (colony).
+
+The image was first discovered in the giant archive taken from the Kalahara. When viewed by human eyes, the images are smooth, and contain a multitude of complex, intricate, and seemingly harmless images. Why the Kalahara has been affected by SCP-245-1 is currently unknown.
+
+Addendum 245-1: The ███ statue listed in the image is of a statue of a god created by this origin.
+
+Addendum 245-2: Procedure 245-1 is hypothesized to be a method of self-replicating SCP objects through the use of the bodies of humanoid-level organisms.
+
+Addendum 245-3:
+
+//showblock
+
+toggle
+
+ui-viewport,
+container: Preview,
+scrollbar: Preview,
+width: auto,
+height: auto,
+depth: auto,
+position: relative,
+align: center,
+border-radius: -1,
+padding-top: 0.5em;
+padding-bottom: 0.5em;
+
+
+.cube-icon img, .vt2.png;
+bottom: 0;
+width: auto;
+height: auto;
+background: transparent;
+color: transparent;
+background-color: transparent;
+border-color: transparent;
+margin-top: 10px;
+margin-bottom: 10px;
+margin-bottom: 10px;
+}
+
+.cube-icon img, .vt2.png;
+right: 0;
+bottom: 0;
+width: 5em;
+height: 5em;
+border-radius: 1px;
+border-width: 1px;
+border-tips: 5px;
+width: auto;
+height: 5px;
+border-radius: 30px;
+border-top: 0px;
+border-bottom: 0px;
+background-color: transparent;
+background-size: 1em;
+background-repeat: 0px;
+background-repeat

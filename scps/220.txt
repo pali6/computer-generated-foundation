@@ -1,0 +1,44 @@
+Item #: SCP-220
+
+Object Class: Euclid
+
+Special Containment Procedures: The object is kept in a safe-deposit box within Site 11's secured Special Containment Locker. Access is only granted by the permission of the Director of Site 11. Displays are to be stored in Society-class sealed safes in Site-██'s Secure Storage Area.
+
+Description: SCP-220 is a quartium-sized potted Persian Blue pitcher brewed by a large corporation based on the chemical formula of the brand "Cads". When served it causes a loss of energy upon pitching. Further examination has revealed that this loss is, in fact, caused by the entire organism of the pitcher. It also appears to have a biofuel source, which is apparently impossible to confirm or deny.
+
+At any given time, SCP-220 causes a loss of energy in every single dimension. It does not affect the earth. Its sole effect seems to be on space ██km in diameter. No matter of the amount of energy is lost to space by any contained objects or entities.
+
+The use of SCP-220 to insure energy or something similar is currently forbidden, for several reasons.
+
+One, energy storage is the primary security issue, and is impossible to achieve without the use of SCP-220. Reducing the amount of energy involved in the containment process also decreases the amount of space available to SCP-220. This is claimed as a security issue by the Foundation, and will be investigated further.
+
+Another, interestingly, is the fact that and in fact the exact amount of energy lost when using SCP-220 is dependent on the very volume of the empty space within the fundamental space of the pitcher, not the amount of energy contained in the extra fuel. This effect does not appear to be random. More important, the full perimeter of the containment chamber will not be able to take the energy.
+
+This state of things is intended to prevent mass-energy transfers within a magnitude range that is not possible without the use of SCP-220. The only way to get the energy is to build a portal, or at least the one capable of carrying a large amount of energy in and out of thin air.
+
+In Specialist's note: These equations are not fundamentally stable. The magic production from the spell potentially doesn't move without a little thought. This is the reasoning for a failure of SCP-220. Additional hand-rolled dice.
+
+If you want to be more specific, you can instead theoretically use the formula of the same number, with a smaller number of actual numbers, as opposed to the simple one that was tested in the current testing procedure. To arrive at the same result, you would just need to include one of the numbers in your formula, V or ρ. (Here's how it works for the sake of consistency.)
+
+A Liveliness Sensor
+
+This is the latest iteration of the Latinist device of life detection, created after the mutual testing of SCP-███ and SCP-███ caused a major paradigm shift in understanding the origin of life.
+
+How it works currently is unknown, as the current prototypes of SCP-220 and SCP-███ are unable to remember their own existence. The tracking system on SCP-220 is ongoing, and will be able to track a small fleet of objects using all the onboard technology.
+
+The Latinist Eye is to be updated periodically to bring new results after the second of each month. Do note that the Eye is very sensitive to residual light in a radius of 5km, and is therefore of limited use for trances.
+
+Salute to Omicron as self-righteous mastermind, that cowering slapstick-spike, Trans-Neptune, who is still sniffling in love with his own ideas.
+
+The "Lepidoptraplication" of what-a-hoop-tip-for-a-rubber-gunk-cut-ie-in-my-shleads-your-scary-grandma is finally completed.
+
+The team is still discussing the best way to use SCP-220's anomalous properties to create a GoI.
+
+-SCP-2317/1.0
+rating:+51+–x
+
+Provisional Dossier
+
+Warning: this document contains multiple Level 4/2317-level threats. The following is a full outline and summary of the risks faced by Foundation personnel in the events of a possible SCP-2317 scenario. It is prohibited to read this document without the express permission of <blank>attached to the next section.
+
+Foreword: The following section may or may not contain another Dossier, depending on the outcome of the stage of SCP-2317. This document was coordinated by an unknown reliable Source using the Save-As-Cassandra and Bzzip Butter menu. The Dossier was written by one (1)

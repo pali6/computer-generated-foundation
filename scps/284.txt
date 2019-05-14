@@ -1,0 +1,26 @@
+Item #: SCP-284
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-284-A is to be kept in low-value containment locker at Site-██. Permanent containment procedures are to be implemented at least 1 meter from SCP-284-A.
+
+Two decryption keypairs are to be kept in walking-distance of SCP-284-B. Both keys are to be used to access SCP-284-B.
+
+Description: SCP-284-A is a human male from ██████ ████, whose genetic records show the correct age for his date of birth. The decryption keypair is an exact replica of SCP-284-B. SCP-284-A and SCP-284-B are identical in every way, except that the two do not physically exist. SCP-284-B is a humanoid travelling and developing its own identity in a regular, repetitive manner. - Site Director █████
+
+SCP-284-B is a humanoid of unknown age, but with the same level of intelligence and consciousness. SCP-284-B does not possess any external organs, and seems to be a closed system, ignoring the core interface of the device. SCP-284-B is constructed out of a complex mix of synthetic materials, with exceptionally diverse elements of organic, mathematical, and exogenous biological matter.
+
+SCP-284-B is constructed of a glass reinforced plastic reinforced plastic protective helmet and toque. It has a completely transparent interior, which takes the form of a pocket-sized device made from metal, a traditional firearm keypulse. SCP-284-B is able to communicate with SCP-284-A, and seems able to greatly increase its strength and adaptability when provided with a hyper-advanced cellular network. SCP-284-B is able to link directly to SCP-284-A, bypassing the central interface. When placed within SCP-284-B, the device will ask for permission to use SCP-284-A, and will currently request permission to access SCP-284-B. This keypulse is then followed by a series of then-random numbers. D-5558-B was sentenced to death on the grounds of mental disorder after questioning showed that he was the subject of SCP-284-B’s experimentation.
+
+SCP-284-B is capable of anomalous behaviour as an anomalous object, often using methods rarely seen in humans. SCP-284-B's behaviours are often disturbing, and if not detected by the Foundation, may result in its destruction from other means.
+
+SCP-284-B is unlikely to be detected by any other means, due to its extremely intelligent and adaptable nature. Attempts to breach containment of SCP-284-B has thus far proven futile, however, and SCP-284-B has demonstrated the extreme mental stability necessary for its use.
+
+SCP-284-B’s anomalous properties have been noted to be most damaging, as all attempts to use MTF-Uta-12’s ­Confessions for advanced interrogation and containment have encountered failure.
+
+Upon Experimentation: Research is ongoing, to determine effects of SCP-284-B when used on complex complex, complex objects.
+
+Footnotes
+1. Based on the alleged author of SCP-284 in photographs
+2. Maus of German origin
+biological ectoentropic euclid _image extraterrestrial k-class-scenario keter organic sapient scp sentient toy

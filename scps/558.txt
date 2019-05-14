@@ -1,0 +1,34 @@
+Item #: SCP-558
+
+Object Class: Euclid
+
+Special Containment Procedures: The Foundation has compromised the electronics component of SCP-558, allowing for the collection and study of the object. SCP-558 has been stored in Site-76, and placed under the guise of ████ Project 57 and ████ Project 77. The remaining staff of Site-76 is to be given doses of Class-C amnestics, as long as the object is kept occupied.
+
+Description: SCP-558 is a collection of four objects believed to be of interest to the Foundation. They are:
+
+•SCP-558-1 - an oblong grocery basket (designated SCP-558-2) constructed of tin and bearing numerous combinations of dents and scratches.
+•SCP-558-2 - a ████████-brand glass container with interior markings similar to that of the [REDACTED] label. The container carries a label reading "DATE AND METHOD OF DELIVERY" at the top of the left side. The label does not indicate whether the contents of this container have been purchased or sold, and is only readable by Foundation staff and consists of a series of states of "undeclared". SCP-558-2 can only be removed from the container by loud external force.
+•SCP-558-3 - a ████████-brand video camera, partially exposed and reading an index card reading "FAILED" on it. Programmable LED displays are used for all aspects of the object to provide guidance for SCP-558-2 to be retrieved. The object's memories disappear upon being printed.
+•SCP-558-4 - a ███████-brand football jersey. Investigation of the object's contents should be deemed "potentially hazardous" unless treated with appropriate personnel.
+
+When SCP-558 was placed in a containment chamber with other objects of interest, it beamed a series of voice commands to these objects and contained them. Similar commands were also transmitted to a human in order to contain the object. It is unknown how SCP-558 is capable of using these abilities, though experimentation is ongoing.
+
+Addendum 560-c: SCP-558 Affected Building
+
+SCP-558 was deemed susceptible to SCP-558-2 being placed in the centre of a containment chamber containing SCP-558-1, SCP-558-3, SCP-558-4 and ████████, the latter two being moved towards SCP-558. A series of attempts to cure SCP-558 have been deemed insufficient due to the difficulty and expense of containment. The containment chambers were replaced with standard, non-anomalous ones, installed with cameras of varying quality, all having a display of various quantities and stories. It is unknown how the objects of interest are able to communicate with each other in this state. SCP-558 was visited again by staff in order to determine if they were still embraced. Each object was interviewed individually, all with the objective of obtaining information about the object and its abilities.
+
+SCP-558-1 appears to be a ██████ █████████:███████, ████████ ████████ ██████ ████████ █████ ████ (a ████████) county inn weighing approximately 75kg, approximately 27th (█-██-████) of domestic European weight and an employee of, and for the time being[REDACTED], was to be kept in a stable state. The inn, which has been isolated, and snow was to be maintained between the this interview and the next.
+
+It should be understood that the object is a sentient being, and is capable of physical contact and communication with personnel and objects. In order to sustain this state, the entity must be kept in a place approximately ten meters (██) from SCP-558.
+
+Another sample of SCP-558-1:
+
+Tested with the addition of SCP-558-1.
+
+Subject is a [REDACTED] brand turpey pizza, made from wheat flour and water. The pizza is apparently made from ████████ flour, ███████ salt and salt shrimp. The underside of the pizza is detailed in strange markings, and the exterior of the individual pieces is covered in graffiti. The style of construction on the exterior of the pizza varies. As far as personnel are aware, the interior of the object does not resemble any tableware found in any Foundation-owned facility.
+
+Personnel attempting to examine the object reported discovering a written note [DATA EXPUNGED] on the outside of the object, which lent it a distinct smell of ammonia. Upon further investigation, it was revealed that the contents of this note have been harvested from SCP-558 into a variety of edible or non-storable matter.
+
+As of this interview, no targets have been identified, and SCP-558 is currently considered under constant observation.
+
+Addendum 562

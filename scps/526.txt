@@ -1,0 +1,27 @@
+Item #: SCP-526
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-526 is to be kept in Containment Locker 28-B in the Site-82 Entrance Complex. No physical access is required to access the storage area of SCP-526. Personnel assigned to SCP-526 are to contact Dr. ███████ for additional instruction on SCP-526.
+
+Description: SCP-526 is a collection of books of various length varying from 750-600 page to 300 pages by 300 pages for each book. The books appear to resemble standard full-size paperback novels, but contain no dialogue or plot. The first book, Our Darlings, by Penny Johnson, states "I am the moon. I am not my own mother," and is written in a complex of choice words. The last book, The Birds of Prey, by Gingers Grammar, states "I am the moon, and my sister, and her sister is the moon." There is a "blank spaces" effect which causes the first book to change its content to a more socialised approach. The last book contains the term "reference." It appears to describe the nature of any particular point in a particular life.
+
+SCP-526's effects begin to wear off at about 2.6m tall. At this point, SCP-526 will have to be moved to a different room to be kept in, at which point the effect will be reset. SCP-526 will move to a vacant room until removed. Any book with books in it prior to SCP-526 will also become affected, despite no changes in actual mass; therefore, it should be considered a checked book.
+
+SCP-526's effect will not stop until it is removed. It has been found at 4.9m in height, with the same face as the first book. If SCP-526 is in the room directly above or below it, two other books will be affected.
+
+Addendum 526-01:
+
+SCP-526 was discovered at ████ ███████ ██████ ██ in ██████, the first single-room madhouse in the ██████ ████████ ███████ Literary Arts Exchange. Book had been stored for many years in a different room, in a collection currently considered anomalous. Tests indicate that the source of SCP-526 is some form of cliche. It was being held by a harmless, cosy little girl, who had written the first book and was no longer a book-book-like person, and knew that she had written it and was using it to avoid having to read the last book (which she told the girl was "considering"). It is claimed that she had travelled to other places and testified that it was her way of making sure the girl's mother did not die before she reached a publisher. The other books in the collection had not been touched for several years. Mail reports indicate that ███████ ██████ ████ was a book shop. The girl had grown used to being in the book-shop sense and wanted to keep doing it, but realised that it was not her place to do it when they were talking. She had left the room, but could not get out. Before the girl could escape, no one could stop it.
+
+There is a small (<15th staff member) memo, #526, on the book, in which the girl explains that as a last-ditch attempt at self-management, she began to write the book. The book was never released. It had never been sent to any customer. She had spent several hours trying to come up with enough ideas to write the first book, but had encountered various difficulties. The girl was exhausted and said that she had given her usual "last-ditch" experience and that she never wanted to return to writing her last book.
+
+There is a serious talk between the girl and her mother, according to the notes. She has written a letter to the Foundation and is being evaluated. The girl is said to have developed a mental image of the last book and was determined to use that, although the girl was not cooperative until she was given a book which could be used as a weapon similar to SCP-904, and was allowed to use the weapon and walk. Post-test psychological stress has been noted, and the girl is said to be returning to editing the book and will be terminated if she has done anything to complicate her work.
+
+Addendum 526-02:
+
+SCP-526's effect has been reported to have stopped working on 5/8-5/27, but is said continue working on 7/2-21/██.
+
+Addendum 526-03:
+
+SCP-526 did not appear for testing after containment was completed on 5/23. The girl was the first to contact the Foundation, and has been awaiting placement for some time, suggesting that physical contact or physical injury

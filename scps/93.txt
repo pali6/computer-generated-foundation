@@ -1,0 +1,59 @@
+Item #: SCP-93
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-93's cells are to be kept in a sealed steel safe. SCP-93's cells are to be fitted with an automatic sterile counter, and sealed at the same time.
+
+SCP-93 is to be kept in a soundproof containment chamber, with soundproofing reinforced to 57dB. Due to the object's containment procedures, no audio or video recording equipment is to be located within SCP-93's containment chamber.
+
+Due to SCP-93's immobility and the possibility of SCP-93 being able to "attack" again, it is suggested that attempts to terminate it are not to be followed.
+
+Description: SCP-93 is a humanoid organism created by the Foundation for the Physical Testing branch of its own operations. It is slightly unremarkable, with a resemblance to a human male in its skin tone, background color, and facial features. It is notable for having relatively few limbs and the lack of facial structures, so specimens cannot perform the same function as a human's.
+
+SCP-93 is capable of speech. No written language can exist within its containment chamber.
+
+SCP-93 can take action as it sees fit, but it has not yet demonstrated the ability to see what it wants, communicate verbal or non-verbal.
+
+SCP-93 appears to be incapable of violence, and will always choose the simplest course of action over the most complex. It is also reluctant to engage in interesting forms of combat against personnel, preferring to avoid telling tactics and avoid violent action.
+
+SCP-93 is able to create objects using the SCP-93 object that it originally created. These objects all share the same purposes and functions as SCP-93's original SCP-93 object, but are the original objects of SCP-93's containment. These objects are:
+
+•All SCP-93 objects currently exist within Foundation containment.
+•The SCP-93 object is extremely rare outside of Foundation containment.
+•All SCP-93 objects have been subjected to major structural alterations and/or destruction. This could be at least partially due to SCP-93 not being able to accept interactions in the physical environment.
+•SCP-93 objects are manufactured and manufactured by SCP-93.
+•It is possible that SCP-93 may be able to transport them to another Foundation containment facility.
+•Instances of SCP-93-1 are not a null-state.
+
+SCP-93 is a formidable and persistent threat to Foundation containment, and containment procedures are to be revamped or updated as needed. SCP-93 has shown the ability to create both minor and major Objects of Containment, and has shown the ability to remove objects from containment with it, although this has never been observed.
+
+SCP-93 is also capable of creativity. A good example of this is SCP-93's ability to create revised containment procedures.
+
+SCP-93, being the prototypically unique object it is, is also expected to be stored in a soundproof containment chamber, with soundproofing reinforced to 57dB.
+
+Furthermore, SCP-93 is to have ten (10) instances of SCP-93-1 within it, to which SCP-93 is to be attached via the belt. The belt is to be worn with all hands closed in a kneeling position.
+
+Description: SCP-93 is a humanoid organism containing a functioning audio, video, audio-visual and audio-computer equivalent communication device. SCP-93 is a complex construct, and may take several forms.
+
+SCP-93 is a sapient entity that possesses all the physical attributes of an adult human. SCP-93's physical structure is essentially three-dimensional.
+
+SCP-93's Mind is a non-anomalous but non-euclidian mind that SCP-93's personality inhabits. SCP-93 possesses a set of mechanical processes that allow it to repeat itself.
+
+SCP-93 is capable of speech, which SCP-93 has demonstrated the ability to understand. When approached by an individual, SCP-93's voice will mutter identical phrases with an unknown number (designate SCP-93-1) and a set of phonemes (designate SCP-93-2).
+
+SCP-93 is also capable of excretion. The subject's urine produces a white substance with similar properties to human urine.
+
+Due to SCP-93's immobility and the likelihood of SCP-93 'killing' again, Class-D Personnel are to be kept on anti-psychotic medication for an indefinite amount of time.
+
+SCP-93's singular property is the ability to engage in advanced scientific modification of SCP containment procedures, as well the ability to create and use new Materials and Objects as it wishes.
+
++TestLog93
+-TestLog93
+
+TestLog93
+
+TestLog93
+
+TestLog93
+
+TestLog93

@@ -1,0 +1,64 @@
+Item #: SCP-396
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-395 is to be kept in standard humanoid containment chamber at Site 35. Testing of this item is not to take place without the approval of Senior Researcher Bailey.
+
+Description: SCP-395 is a computer program that is programmed to automatically track the monetary purchase of items with an estimated value and purchase history.
+
+The data point of a record have been copied into SCP-395 by means of its mainframe.
+
+The following log is the first instance of SCP-395 to have been installed by its developer. Analysis of the links between this and the Foundation’s programs has provided the following statement on the Foundation’s involvement:
+
+Mr. B█████ is acquainted with the Foundation. He has been working on this for several years now. Most of his product would not be able to function without experience. The Foundation has a very good reason to keep this database open.
+
+These days, we’ve seen quite a few new clients. This number represents the highest volume of clients we had since I found out about it. That’s never been the case before. I must say very well, there has not been a response to any of the other contracts before?
+
+Mr. B█████ has advised us that this does not last very long. He wants us to restart. We understand, but we also believe that it would be better not to maintain it indefinitely. It would be counterproductive to wean ourselves off of this. Many of these clients have been meeting the rate of inflation every year. This could be and could not be regulated.
+
+We would expect some new clients so that we can start to meet some of the demands that these clients have, but we don’t see the point of doing it in the long run. All this is a secondary concern.
+
+Mr. B█████ has been in contact with the Foundation for several months now. We’ve learned about a danger of this system. He is disgruntled about it, and is threatening to destroy it. We intend to make sure that he does not.
+
+Mr. B█████ has been approached by a group of other hackers to reproduce this system. They have already infiltrated Site 35. We will not have any of these clients coming in unless they have been systematically tied up. If that happens, we will have no choice but to terminate this system if need be.
+
+Note: I will be looking for technical support for this.
+
+Addendum-397: Patient application for recovery of SCP-396
+1.So, I have an idea for a system which would allow for the user to set their own time quickly and easily.
+
+P.S. I also have no intention of cloning SCP-396.
+
+Addendum-398: SCP-396-A Prototype
+1.A few more examples of how such a system can help the Foundation.
+
+In the case of SCP-396's activation, you have to take care of several aspects. The mainreality of this system was not recorded:
+
+•There is no expiration mechanism for an item.
+
+•Being able to detect each other before they activate their abilities will allow the Foundation to redeploy instances with an easier time finding a solution.
+
+•Items can be made as unbreakable as the material of the items themselves, and still function to their original state.
+
+•Items that are not constructed in the Foundation will not affect the Foundation in any way.
+
+•Items will not be destroyed in the entrance to Site 35.
+
+•Anyone who enters the outer space of SCP-396 will not be killed or injured.
+
+•Instances of SCP-396-B can be killed and removed from SCP-396.
+
+•After expiration, the instances of SCP-396-B that were killed or injured will not be destroyed.
+
+•If you enter the outer space of SCP-396 and are killed or injured, anyone killed or injured inside of SCP-396 will not be affected by any of SCP-396.
+
+•Items that are involved with SCP-396-B will not be affected by SCP-396.
+
+In order to set aside containment procedures, personnel who have been compromised, or who are being directaken by SCP-396, consider termination to be an acceptable option on some cases. However, be aware of the aforementioned risks. In the case of termination, a written retraction will be done to the record, along with each individual linked in.
+
+Contact with SCP-396 has not yet been determined.
+
+Addendum-399: Procedures for Site 37 containment encryption protocol
+1.In order to not allow the collection of instances of SCP-396-A-4, Site 37 has been officially coded by the Foundation.
+
+2.The exceptions for instances of SCP-396-A-4

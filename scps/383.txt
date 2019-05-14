@@ -1,0 +1,66 @@
+Item #: SCP-383
+
+Object Class: Safe
+
+Special Containment Procedures: Visual surveillance is to be maintained within the area of SCP-383's effect area once every six weeks by Area-12 personnel. In the event of an outbreak, the area is to be isolated to avoid collateral damage while not allowing SCP-383's effects to unfold in public. Any living beings affected by SCP-383 are to be administered anti-psychotic depressants as needed until the effects of the infection begin to subside.
+
+Description: SCP-383 is SCP-383-1. SCP-383-1 is a large group of humanoid entities that have developed the ability to turn all objects they come in contact with into a red ovoid. Due to the nature of this ability, all materials created from a current source become affected with the infection.
+
+SCP-383-1 will begin to create a new object, which is known as SCP-383-2, at a speed sufficient to transform the object into a replica of SCP-383. Once SCP-383-2 has been created, its properties will not be changed by any means.
+
+SCP-383-2 may be destroyed upon interacting with SCP-383-1 or its effects when the object is removed from the area surrounding SCP-383-1's effect area. SCP-383-2 will automatically become a replica of SCP-383-1 if this is done, and whatever objects are transformed after using SCP-383-2 will have the same effects as their original counterparts. Subjects are unable to request SCP-383-1 to move objects further in their vicinity.
+
+Once the effect area has been completely treated by SCP-383-2, the population of SCP-383-2 will become completely meaningless. Sociologists studying the survivors of an outbreak of SCP-383-1 will refer to them as 'the population' when referring to SCP-383-2.
+
++Document-383-D
+-Document-383-D
+
+Document-383-D-1
+On 18/10/2017, a team of Foundation agents were sent to investigate reports of an abandoned building in ████████, ██. Agents embedded within a local housing agency discovered the sudden development of a circular space within the collection area of SCP-383-1. Agents were able to successfully enter and leave the area. After twelve hours of investigation, agents were able to locate and capture all surviving SCP-383-1 instances.
+
+Document-383-D-2
+Three groups of SCP-383-1 have been found to the north of the main entrance to Site-19. One of these groups is referred to as SCP-383-3, another as SCP-383-4, and a third as SCP-383-5. The other groups, SCP-383-2, SCP-383-4, and SCP-383-5 are collectively designated as "The Order of the Twin Suns."
+
+Document-383-D-3
+The following document is the summary of the initial contact with SCP-383-1, SCP-383-3, SCP-383-5 and SCP-383-3.
+
+Interview-383-C.3
+Interview-383-C.3
+
+Interview-383-C.3
+
+Interview-383-C.3
+
+Interviewer: Dr. ████
+Interviewer: Agent ███████
+Interview Date: 18/09/2017
+Subject: SCP-383-2
+Duration: 10:00 – 15:00
+Notes: SCP-383-2 is tasked with moving the bedroom furniture and the tables of SCP-383-1 into an adjacent room.
+
+Dr. ████: What do you need to do?
+
+Agent ████████: SCP-383-1 will do.
+
+Dr. ████: SCP-383-2 is not believed to be able to move furniture in the area around them.
+
+Agent ██████: We will have to request it. Please get the items from outside, then get the involved personnel to speak to SCP-383-1 directly.
+
+Agent ██████: What? No, you're talking about me.
+
+Dr. ████: Please go to SCP-383-2's location.
+
+Agent ██████: SCP-383-2, I am the lone one in the room.
+
+Dr. ████: Please follow me.
+
+Agent ██████: Are you sure?
+
+Dr. ████: Yes, believe that mission is very important.
+
+Agent ██████: Okay, so you are an anomaly. SCP-383-1 is an anomaly. Please do the mission.
+
+Agent ██████: I don't suppose you can do it?
+
+Dr. ████: I'm still here for the mission.
+

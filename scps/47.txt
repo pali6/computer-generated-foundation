@@ -1,0 +1,36 @@
+Item #: SCP-47
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-47 is to be stored in a standard storage locker at Site-57. Only one instance of SCP-47-1 is to be kept within SCP-47-1's containment chamber. Instances of SCP-47-1-1-1-A through -6 are to be stored in separate SCP-47-1-1-A containment chambers. Instances of SCP-47-1-1-1-A through -6 are to be stored in separate SCP-47-1-1-C containment chambers.
+
+Description: SCP-47-1 is a gold chain ring, with the word "O'HAND" inscribed on a silver coating. The title given to SCP-47-1-1-A through -6 are identical to that of ██████ Klein, a well-known jewelry designer.
+
+SCP-47-1-1-A through -6 are identical to SCP-47-1-1 through -8. 12 seconds after being worn, an animal similar to that of a domestic pig (Lepus americanus) will alter its behavior when worn by an adult human. This animal, designated SCP-47-1-1-6, will begin eating anything offered to it. The explanation of this behavior is thus unknown.
+
+Any objects with the same name given by SCP-47-1-1 through -8 will be transferred to the local zoo. When they are passed through a pull-out portal and the owner of SCP-47-1 reopens an SCP-47-1-1-1-1-A laboratory, SCP-47-1-1-1-A through -6 will revert to their previous state.
+
+Addendum-47-1-01: Analysis of the biological makeup within the aforementioned animal.
+
+In order to determine the biological makeup of SCP-47-1-1 through -6, a recently discovered animal is to be placed within a 1.2-m sample of the aforementioned animal. This process is identical to the adjustment process used to measure the size of SCP-47-1.
+
+Once the process has been completed, the animal is to be enclosed within a light-proof 1.2-m-space. The animal, which now resembles a young pig, will be allowed unlimited access to all audio and video records.
+
+Notes: Researchers have long since reached a consensus that SCP-47-1-1 through -6 are not organic. —Dr. ████
+
+Addendum-47-1-02: Current SCP-47-1-1-A and -D containment procedures allow for the possession of a single instance of SCP-47-1-1-1-A through -6.
+
+Since the existence of SCP-47-1-1-1-6 and -1-7 is only feasible for non-anomalous individuals, only pharmaceutical-grade insulin is to be applied to the affected individual. Currently, SCP-47-1-1-1, -1-2 and -1-3 are to be distributed as insulin treatments.
+
+Finally, all opening and closing of SCP-47-1-1 through -4 requires written approval by at least one Level 5 researcher. No individual may compromise SCP-47-1-1 through -3.
+
+Approach of SCP-47-1-1 through -6 is still undecided.
+
+Footnotes
+1. The phrase "oh boy" can be a reference to the same movie Lost in a state of artificial sadness, used by two popular children's video games.
+2. During testing, SCP-47-1-1, -2, -1-5 and -2-7 would attempt to take the animal in a blow-torch, causing it to achieve the most horrific destruction possible.
+3. Theoretically, this could explain why SCP-47-1-1 through -4 never uses triangles or japanese numerals.
+
+ SCP-4637 | SCP-4736 | SCP-4737 
+
+automaton _cc humanoid k-class-scenario keter location sapient scp sentient

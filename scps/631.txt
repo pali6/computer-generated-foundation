@@ -1,0 +1,49 @@
+Item #: SCP-631
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-631 is to be secured in a 9.8 x 12.4 x 1.05m containment room with a wall of at least 1.8m thickness. Approximately once per month, Sub-Level 2 must be notified of SCP-631's condition. SCP-631 must be replaced in order to ensure its health. Containment is to be supplemented by a decontamination team.
+
+Description: SCP-631 is a 15cm by 30cm x 15cm rectangle, composed of 2 layers of acoustic dampening material, designated 'poshb' and 'dummy' Materials. SCP-631 is in contact with external air at a temperature of 7.4C, and is incapable of absorbing any air.
+
+SCP-631 was recovered in ██████, ██ by the Foundation's first decontamination team. According to Theory-blindness, SCP-631's anomalous properties dissipate in around 70-80 minutes, leaving it inert and so undetectable by any non-anomalous equipment.
+
+Addendum:
+
++ShowIncident631-1
+-HideIncident631-1
+
+On ██/██/1997, Subcutaneous acoustic dampening was applied to the top layer of SCP-631. Soon after, a sound levitating approximately 4cm above the ceiling of the containment chamber was noted. Within seconds, a chain was woven across the ceiling of the containment chamber. It was articulated and carried a light about 25cm above the surface of the foundation.
+
+It was an extremely low-frequency sound at 223 decibels. It was followed immediately by a full-fledged warp file in the sound's frequency range, which immediately detected and accelerated the expanding effect of the sound.
+
+The chain was suspended perpendicularly above the chain; only the first frame was visible in the chain. At about 500m above the chain, the chain would vanish from the chain and the sound would resume, followed by a full-blown chain-loop. The chain would disappear again immediately, and be louder, closer to 227 decibels.
+
+As it continued to expand, it selected audio frequencies that were likely to cause the initial contact; frequencies to the square of the distance to the chain would increase in rate, and be amplified by the target frequencies. As it grew, the chain slowly disappeared under the chain-loop.
+
+If the chain was lifted, the chain-loop would collapse on itself, allowing the chain-loop to elongate in a perpendicular direction. The chain-loop would be suspended at its maximum diameter, and connected to the chain-beam, and would continue to emit electrical charges from the chain-beam at a rate of 105kW/m^3. This effect would continue until the chain-beam's posts contained enough electricity to power the chain-beam indefinitely.
+
+The chain-beam's wires were isolated from the chain-beam and connected to the subcircuit board, which was used to render the chain-beam permanent and to reverse the chain-beam's rate of motion.
+
+The chain-beam was mounted on the collider arm. As it expanded, Adjutant nodes were connected to appropriate subcircuits to redirect the chain-beam from the chain-beam to the chain-beam's desired direction. These nodes were located in the same locations that were chosen by the chain-beam. Sometimes, they would have the appropriate external power outlet connected directly to them, and sometimes there clearly would not be enough power outlet. It was noted that this would also result in a chain-loop in the chain-beam, and would be made significantly worse on chain-beam-affected cells.
+
+After sufficient power was drained, the beam would continue to extend into the interior of the containment chamber.
+
+The chain-beam continued to expand until it reached the chain-beam's maximum diameter and was anchored to it. The chain-beam itself, however, continued to move upwards.
+
+Addendum:
+
++ShowSurveyLog631/ex-project-13-lab-professional
+-HideSurveyLog631/ex-project-13-lab-professional
+
+Perhaps unsurprisingly, a large number of highly alarming, and potentially life-threatening, events occurred during the course of the survey.
+
+The following is a list of items that were located during the course of the survey.
+
+•Ten state-of-the-art radio transmitters with amplified audio and audio-visual filtering;
+•Eleven motion sensors
+•Two hundred infrared cameras and preamplifiers
+•Five hundred intrusion detectors, and
+•Six hundred remote-access cameras that were stationed at a number of locations throughout the site
+
+It is believed that the effect was caused by the beam expanding. In addition

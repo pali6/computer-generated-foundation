@@ -1,0 +1,36 @@
+Item #: SCP-562
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-562 is currently contained in Storage Unit-80 of Site-96. Access to SCP-562 is to be restricted to staff with Level 3/5 clearance. Site-96 is to be administered recommended site-wide evacuation protocols for the immediate near future.
+
+Description: SCP-562 is a previously unknown quantity of oak wood that possesses no anomalous properties upon containment. The wood is grey and composed of several different types of wood. Analysis has shown that the wood possesses no anomalous properties. The wood is easily destroyed and does not seem to require maintenance. When removed from containment, the wood has increased in mass and type.
+
+Any objects produced by SCP-562 will disappear, whether by external means or by artificial means. This will usually involve the loss of structural materials including its concrete base, which is able to crumble slightly under impact. SCP-562 will disappear if the object falls into any liquid, and if the object is washed, it will vanish completely.
+
+SCP-562 was contained at Site-96 in Vault 65 before containment was approved. The remainder of the Site-96 facility was used for the object, including the "study" room used for compatibility testing.
+
+SCP-562 came to Foundation attention on ██/██/2018, when SCP-562 began coming into contact with SCP-142. Foundation agents were called to the storage facility to contain and transport the object. After Agent ██████████ spent fifteen minutes in the specimen room, an outbreak of mild panic broke out amongst the containment team. Foundation agents were able to subdue the situation, and SCP-562 was located.
+
+Notes:
+
+•It is unfortunate that we had to use toxic materials in the containment procedures.
+•If someone had been able to find containment staff, we may have had a better idea of where to place SCP-562.
+
+- Agent ██████████
+
+Addendum-562-01: Analysis has shown that the containment team received minor damage to their clothing and equipment in the fight, and that SCP-562 did not exhibit the normal properties of the wood it was transporting to Site-96. SCP-562 is currently restricted to Foundation-approved testing and required to be kept in Storage Unit 80 of Site-96.
+
+Addendum-562-02: Reference to SCP-562 has been found in the local media, including the news. See "SCP-551, 'Mother" (NEW) for more information on the subject and the origin of the object.
+
+Addendum-562-03: Following the containment of SCP-551, all incidents of modification to the containment procedure has been recorded. All experiments with SCP-551 have been deemed unsuccessful and unneeded. The containment team has been reprimanded and replaced with the Foundation's own security personnel.
+
+Addendum-562-04: SCP-562 is now contained in Storage Unit-84 of Site-96. Access to the steel base is broken, as per maintenance, with the source of the original development of SCP-552 left in an inactive state.
+
+Addendum-562-05: SCP-562 was brought to storage in Storage Unit-94 for testing. It was contained in storage for six hours without incident, after which it was moved to Storage Unit-80.
+
+Due to protocols regarding the containment of SCP-562, its data has been lost.
+
+Addendum-562-06: Records of the containment and transfer of SCP-552 have been moved to Storage Unit-84 of Site-96.
+
+additional-duty-guide

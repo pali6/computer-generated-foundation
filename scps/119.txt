@@ -1,0 +1,58 @@
+Item #: SCP-119
+
+Object Class: Safe
+
+Special Containment Procedures: Any instances of SCP-119 are to be kept in normal storage in the Site-██ main containment vault. Instances of SCP-119-A are to be kept in separate instances and are not to be used by Foundation personnel in any way. All instances of SCP-119-A are to be kept in Level-3 Level-3 CIV-13 containment vault in Site-██. All personnel assigned to SCP-119 are to be furnished with Foundation-grade Mechanical SCP-119 ammunition.
+
+Description: SCP-119-A are unidentified bullet bearings that always magically appear in SCP-119 at the end of a round. These anomalous effects have proven unstable in the past, resulting in the random appearance of bullets of variability in the draw and projectile velocity of SCP-119, as well as the 40+ bullet firearm. A class-3 cognitohazard should occur if SCP-119-A instances are used to fire a round.
+
+The anomalous effect of SCP-119-A instances is supposed to continue regardless of any preceding actions (such as reloading, or changing handling methods), and may not be removed by any method, while the normal anomalous effects of SCP-119-A cease after all firing must be completed, and any ammunition expended, regardless of current firing methods.
+
+Test Log: SCP-119-A
+
+Test: SCP-119-A
+
+Agent D-98872 has been successfully forced to shoot SCP-119-A, resulting in the range of SCP-119 increasing from 3m to 10m.
+
+D-98872: Is this the real thing?
+
+Dr. Monaka: That is not really possible. Rather than shoot the actual SCP it should modify the bullets.
+
+Agent D-98872: How?
+
+Dr. Monaka: I will make sure friend is alive and flourishing.
+
+Agent D-98872: Wow. Awesome. What did you make?
+
+Dr. Monaka: Air of epistance.
+
+Agent D-98872: But I didn't shoot that.
+
+D-98872: You killed me. I met your mother in the field.
+
+Dr. Monaka: You killed my sister.
+
+Agent D-98872: Is that a contradiction?
+
+D-98872: No, I really didn't.
+
+[END LOG]
+
+Addendum 119-1: The following is a list of known instances of SCP-119.
+
+Name Description Weight/Gage Velocity Bullet Velocity
+SCP-119-A-8000-J Tesla miniature .32AEx 0.322g 0.32C 0.32C
+SCP-119-A-8000-J and SCP-119-A-3000-J Model 3 (7mm) The listings of the two files for actual 9mm cases, with the difference being the "08mm" model.
+SCP-119-A-5000 Ultra-modular A DIY teleprompter, capable of transmitting Morse code in Morse code.
+SCP-119-A-5000 Model 3 There is no way to open the file buggy/anymore.
+SCP-119-A-5000 Model 4 The pages have been reconfigured and presented in alphabetical order. SCP-119-A-5000 Model 8 The links have been updated to the links for the "08 caliber" model.
+SCP-119-A-5000 Model 9 There is no way to open the modified version of the SCP-119 test reports.
+SCP-119-A-5000-J engraved wood Xian-yuan 6.08cm x 2.30cm 52cm 18 cm 20cm
+SCP-119-A-5000-J engraved leaf Xian-yuan 6.05cm x 1.75cm 50cm 18 cm 15 cm
+SCP-119-A-5000-J engraved snail Xian-yuan 5.78cm x 1.31cm 25 cm 13cm
+SCP-119-A-5000-J engraved diamond Xian-yuan 3.35cm x 1.29cm 23 cm 15 cm
+SCP-119-A-5000-J engraved river Xian-yuan 3.34cm x 1.29cm 23 cm 15 cm
+SCP-119-A-5000-J engraved animal Xian-yuan 3.33cm x 1.28cm 27 cm 10 cm
+SCP-119-A-5000-J engraved fish Xian-yuan 3.23cm x 2.10cm 55cm 12 cm
+SCP-119-A-5000-J engraved jellyfish Xian-yuan 3.19cm x 2.09cm 25 cm 10 cm
+SCP-119-A-5000-J engraved vessel Xian-yuan 3

@@ -1,0 +1,33 @@
+Item #: SCP-233
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-233 is to be contained within a safe-class chamber with at least 2.50m^2 of space between it and any outside objects. Inside of this containment chamber, SCP-233 must be kept in a standard SCP-233-1 containment cell without any tools or direct access to the outside. The SCP-233-1 chamber must be kept at a temperature of at least 24.96C, with no external temperatures above or below 24.96C. Testing must be carried out at neutral-cadence, light-level, and steady-state temperatures, which will not affect the rest of SCP-233.
+
+In the event of SCP-233-2 instances becoming active, Level-4 containment personnel are to be on site at all times.
+
+The containment chamber is to be monitored at all times to ensure that SCP-233 does not become inactive.
+
+Description: SCP-233 is a North American male of Indo-European descent standing 1.87m tall, weighing 54 kilograms. Testing has shown that SCP-233's anomalous properties are completely self-imposed.
+
+At any given time, SCP-233 has a 15% body mass increase in value, regardless of the amount of rain. As such, each hour the rain falls, SCP-233 gains 5.64kg in value. Conversely, each hour the sky blinks, this number decreases by 5.62kg.
+
+The elephant within SCP-233 is a 2.5 metre tall African elephant, measuring 97cm in length, weighing an average of 40 kilograms. During and immediately after an active period, it changes from being solid to fluid, with water and salt forming a protective layer of ice beneath it. This ice is released into the air, where it freezes into a thick layer directly below SCP-233's throat.
+
+The temperature inside SCP-233 is continually increasing at a rate of 1.8C per minute. When activated, SCP-233 will stop adding the ice it uses to create a protective layer to its throat, and will instead only activate if it receives a significant amount of rain.
+
+During an active period, SCP-233's throat will become able to function as a source of rain. This rain will have an estimated value of approximately 10 liters per second.
+
+If SCP-233 is placed within a rain shower, SCP-233 instantly activates, causing all of its throat muscles to increase in number and strength. As of 5/23/1999, all members of staff currently in charge of SCP-233 are permitted to use SCP-233 for this purpose.
+
+At the current rate of increment, SCP-233 may reach 66 kilograms before inevitably collapsing.
+
+Special Containment Procedures: SCP-233's containment chamber is to be kept at a steady-state temperature, with no external temperatures above 24.96C. SCP-233 is to be kept in a standard SCP-233-1 containment cell without any tools or direct access to the outside. In the event of a containment breach, all personnel are to remain on-site to ensure no one returns to SCP-233.
+
+In the event of an active breach, all personnel are to remain on-site until SCP-233's throat is cleansed.
+
+Description: SCP-233 is an instance of SCP-233-2, a monotypic species of carnivorous plant. The instance of SCP-233-2 is a classic example of an SCP-233-1 entity, currently measuring 1.31 meters in length and weighing 39 kilograms within it. But it's also a normal example of the anomalous property of SCP-233-1, which is that it's capable of growing up to 6 kilograms in strength (which makes SCP-233-2 the closest thing to an SCP-233-1 you've ever seen). This is measured in water per cubic meter, and can only be measured in centimeters; to be more exact, SCP-233-2 measures in meters per second.
+
+The entity lays its eggs every 3 minutes or so, in a sort of pre-dawn forest. The entity's teeth are made of calcium copper and the most common radium-bronze alloy, so the plant itself is burrowed into 80% of the material in the area. During this period, SCP-233-2 will produce a variety of kinds of fruit, as well as numerous berries that contain a variety of sappy flavors.
+
+SCP-233-2 has attempted to tame and destroy every instance of SCP-233-1 in the area surrounding SCP-233, though rapid containment procedures are still cited for stopping all attempts to kill the instance. Currently, SCP-233-2 has destroyed ██ instances of SCP-233-2 and ██ instances of SCP-233-1, while SCP-233-2 has destroyed ██% of the

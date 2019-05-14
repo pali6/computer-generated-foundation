@@ -1,0 +1,64 @@
+Item #: SCP-62
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-62 is to be contained in a standard location. Clothing not worn by an active SCP-62 instance will be held in storage. Personnel wanting to test SCP-62 without the knowledge of the Foundation are to be informed to do so as a bi-weekly check. SCP-62 instances will be activated and dismantled once tested to ensure they cannot return to an active state.
+
+Physical containment of SCP-62 has been approved by the O5 Council.
+
+Description: SCP-62 is a waist-sized garment with no known manufacturer. It may be worn in any fashion ranging from slacks to various pieces of garments, with clothing generally following the model of the original drop. It is not tied or otherwise stitched tightly. Should SCP-62 be removed from the wearer's fingers or otherwise removed, it will fall to the ground with a slow thump.
+
+SCP-62 leaves no detectable way for any of the clothing worn by an active SCP-62 instance to be found. Clothing containing an active SCP-62 instance, as well as those with a small amount of wear, will be unaffected.
+
+SCP-62 is impervious, resistant to physical and psychological damage; however, to date, it has never been observed to lose weight in any fashion. The clothing itself will constantly drop up to the waist, usually at an alarming rate, rather than the target body mass. Therefore, it is recommended that members of O5-█ and O5-█'s New Joke Operations teams include SCP-62, as well as any sort of underwear, as SCP-62 is resistant to wear through any human force without touching its target area.
+
+Addendum: In the event that a non-functional SCP-62 instance is discovered, Emergency O5-█ should initiate protocol and notify personnel if they are unable to access the affected clothing. Should that occur, Site Deputy Director MTF Sigma-51 is to meet with the Foundation's redress protocol, as well as conducting a minimum of two weeks of psychological treatment.
+
+Description: SCP-62 is the collection of clothing worn by a non-functional instance of SCP-62, designated SCP-62-1. SCP-62-1 instances have had several anomalous qualities over time, both in and around their appearance as an active instance of SCP-62, and specifically, a sexual perversion that would increase the likelihood of a SCP-62-1 instance's initial capture and eventual removal from containment.
+
+In addition, the clothing worn by an active SCP-62 instance will always be following the model of the original drop. Clothing excluded from this collection will not disappear, and will continue to drop. Clothing always contains an active SCP-62-1 instance, though the instances that do move will always fall to the ground.
+
+Manifestation: Enter your password
+
+Manifestation password: "jake-conwell"
+
+HELP HISTORY HIGHLY.
+
+FOLLOW HIATHAILHAILH
+
+Personnel: Researcher Alan Heath
+
+Description: A black [REDACTED] suit on top of the waist, with a long-sleeved black shirt underneath. A golden border is present, framed by black ink. The tumbler on the right side of SCP-62's shirt is decorated with yellow stripes. Several yellow motifs are prominently present, with several pearls and coins line the sides. A silver belt is present, alongside SCP-62's waistband.
+
+@@ //
+
+IFrame
+
+TEST LOG
++HideTestLog
+
+Test Log: A0-██-██
+
+Description: If only one large item of clothing is worn, SCP-A0-██ begins to show signs of a high, irregularity in development, with the highest noticeable point being an error rate of 10. Each subsequent test appears to progress similarly, though the process tends to slow with the use of additional items. We measure this rate in nanoseconds per item dropped.
+
+The latest indicated state of development is approximately 30 nanoseconds.
+
+Test Log A0-██-██:
+
+Item Type: Clothing
+
+Item Fit: Small
+
+Organization(s): Simple
+
+Test Material: Clothing
+
+Entity(s): Listed as SCP-A0-██-████, SCP-A0-██-██ is a small megastructure. It is constructed from the same organic material as the clothing and has a single solid body, with the exception of the head.
+
+Test Results: Item lifted from SCP-A0-██-██-█. The head is neatly stuffed.
+
+Item (s): Jacket
+
+Test Method(s): Very Good (8.6)
+
+Results: Item raises anomalous temperature. Jacket is removed immediately and the head is restored.

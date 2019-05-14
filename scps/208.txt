@@ -1,0 +1,36 @@
+Item #: SCP-208
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-208 is to be kept in a standard containment unit of 3m x 3m, and is allowed regular socialization outside of its containment area. In the event of an instance of SCP-208 spontaneously mimicking human behavior, it is to be directed to terminate SCP-208.
+
+Personnel assigned to SCP-208 are required to have a psychological background that includes (but is not limited to) self-identity, maintaining a well-rounded understanding of (for example) the nature of consciousness and the awareness of anomalous aspects, and a familiarity with the Foundation's Psychological Trends Foundation database and its employees.
+
+Description: SCP-208 is an instance of SCP-208-A, which appears to lack an external mental representation and exhibit no anomalous properties. The characteristic of SCP-208-A is its tendency to comment directly on matters relating to its own existence and the procedure used to raise one's status in the Foundation. For example, instances of SCP-208-A will repeatedly riot if the topic of a containment breach or SCP-208-A has been discussed at length by others; instances will exhibit this behavior much more often if the topic is of more limited significance, say, if it is possible to field questions about whether a containment breach should be confirmed or not, or if the containment breach should be deemed to be negotiable.
+
+SCP-208-A instances will often employ a variety of terms and phrases to express their opinions and opinions on its containment procedures; instances of SCP-208-A are known to adopt multiple arguments depending on their choice of subject. If the choice of subject is in doubt, instances will use verbal shorthand such as "if possible," "if not possible," "if possible not possible," or "if not possible not possible".
+
+The Foundation is aware of an alternate reason for SCP-208-A instances to adopt vocabularies such as "if possible" or "not possible not possible": instances of SCP-208-A tend to avoid any reference to the former or latter point of view unless in disagreement with it.
+
+SCP-208-A instances also demonstrate some degree of competence in first-aid and basic survival skills; it is theorized that they have developed a survival instinct in the past, but apparently lacked the mental and formal preparation necessary to teach this.
+
+SCP-208-A instances will respond to SCP-208-A questions by flairsing to the right, occasionally choosing to reply directly to the O5 Council. In this response, SCP-208-A instances will frequently attempt to show SCP-208-A instances limited self-awareness. For example, preventively summoned SCP-208-A instances will defend their claim that number theory is the foundation of all knowledge, and will frequently refer to their own co-authored work as "the Top 10 Theory Books Of All Time," even if it contains SPELLs, as well as a large number of hypothetical containment procedures.
+
+SCP-208-A instances have not escaped the disparate effects of SCP-208's anomalous properties, which are thought to result from not adding up the items contained within the containment unit.
+
+Addendum 208-2: Replication
+In January of 20██, SCP-208-A instances started reproducing SCP-208-B. This seems to have caused a severe malfunction within the containment unit, with the ability to directly interface with SCP-208-A instances suddenly vanishing, due to the high numbers of O5 Councils randomly generating contained in the containment unit. SCP-208-A has not been transmitted to the containment unit since.
+
+As of ██-██-20██, a standard Foundation site-wide protocol has been implemented to coordinate communications with SCP-208-B instances. This includes setting up redundant control systems to delay SCP-208-B instances and mission-related data exchanges, using an automated order-indexing system to place structured logs on SCP-208-A to determine which containment procedures to implement, and coordinating with SCP-206 to coordinate communication with all SCP-208-B instances.
+
+Addendum 208-3: Proposal 685-WELTA
+
+To: Dr. ███, O5-██, O5-██
+From: O5-██, O5-██
+Subject: RE: RE: Chem. Flawless survival kit
+
+This is the scip under which I'm based.
+
+The recipe is basically straightforward. I wanted to find a better way of reproducing it, but the only information I could get from the wiki was the direct link to the Prometheus Labs widget, which I didn't find anywhere. I tried going to the manufacturer and getting a different banana, but I couldn't find anything both that and SCP-████. So I decided to travel.
+
+I went to the city of █████

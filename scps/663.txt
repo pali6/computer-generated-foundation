@@ -1,0 +1,37 @@
+Item #: SCP-663
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-663 is to be stored in a holding room at Site-██ in a secure locker. Testing of SCP-663 should be carried out by one person or group of people. Each test should be carried out within 6 hours of the expiration of SCP-663's content. If SCP-663's content is impaired by SCP-663, personnel should contact the site chef and request immediate termination.
+
+Description: SCP-663 is a medium-sized, circular, black fabric zipper measuring 4cm x 4cm x 8cm. It has been described in text by its code name as being very black, and has the pattern of matching fabric in the center to the zipper, all of which interlock.
+
+Once SCP-663 is opened by human ends, it will show a blank page. Due to this, this does not appear to have any effect. Below the blank page is a black circle of text which appears to be a translation of the black circle.
+
+SCP-663 is only capable of being opened by a human's body parts. It cannot be unlocked by any outside means, and cannot be accessed by any means other than a certain portion of the human body. Non-human finishes outside SCP-663 will show no effect. This is not to say that opening it without starting a human body is not a possibility. However, it is recommended that all non-human bodies be used in all possible ways to open SCP-663.
+
+The concept of a black circle is not known, though this may be due to being "limited" in nature, or to a lack of information regarding its composition.
+
+History: The image of the color black, and as such, the code of the letters A, B, C, D, and E, is known to be "black" in various languages. It has been noted that the number ~███ (which is not a letter) can show any color of cloth, and the code for the number ~███ is the only letter that has been shown to show any color.
+
+SCP-663 was discovered in ███████████, China, following the disappearance of a number of individuals believed to have been the victim of mysterious disappearances.
+
+Foundation agents were notified, and recovered a staggering number of SCP-663's contents. However, all of these items show anomalous effects, even if they are non-human. Therefore, all controlled experiments involving SCP-663 must be carried out with its contents.
+
+Since the codeword of SCP-663 can have no effect on the text of the black circle, and it is non-anomalous in nature, it has been designated a high class item.
+
+Addendum: Testing focused on SCP-663's content. When given access to SCP-663, SCP-663 will produce a black circle with the color black and a black text saying "Hello there." Any handler will likely see the text in a new random color. However, if the handler is a person making human contact, the text will still be shown in that color.
+
+Events below the black circle are all red dots, and show a message reading "You have reached the [REDACTED] entry."
+
+Events below the black circle are all blue dots and show a message reading "This is a random message."
+
+Incident 663-1: On ██/█/20██, Dr. ██████ entered SCP-663, and began washing it. When Dr. ██████ was finished, it was seen by Dr. ██████ and Dr. Dr. ██████ was severely punished by Dr.
+
+Footnotes
+1. A result of the special rice producing method used by SCP-663.
+2. This event, however, was not mentioned in the text of SCP-663.
+
+ SCP-062 | SCP-063 | SCP-064 
+
+alive animal cadaver _cc euclid humanoid sapient scp sentient

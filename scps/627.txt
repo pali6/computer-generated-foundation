@@ -1,0 +1,76 @@
+Item #: SCP-627
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-627 is to be stored in a secure locker in Sector-13, isolated from all other SCP objects. Information on how to possess SCP-627 is limited to Level 4 personnel.
+
+Researcher G██████ is to monitor all personnel at Sector-13 for the following weeks. If there is any observable or significant change in the environment, it is to be reported to a supervisor within 5 minutes of the change and SCP-627 is to be prefundated.
+
++SCP-2730
+-Hide
+
+Special Containment Procedures: SCP-2730 is to be contained in
+
+Special Containment Procedures: SCP-2730 is to be contained in
+
+If any part of SCP-2730 manifests, it is to be transported to Site-██ where it should be considered a class 2 containment breach and a classification of EV-Class is selected.
+
+Description: SCP-2730 is a wafer of unknown composition, material, or other mechanism. Further testing is restricted to Level 4-1 personnel.
+
+SCP-2730 has been exhibited as anomalous in front of and behind objects at Site-██. After approximately 5 minutes of manifestation, it loses its anomalous properties. SCP-2730 is no longer sustained by the parent material, and will not manifest again.
+
+Upon manifesting, SCP-2730 will begin forming a pattern of lines of progress towards the nearest object. At the conclusion of the course, it will reform into the largest, most easily accessible object, or the nearest that is on the nearest path.
+
+When the object being manifested is on the outermost path, SCP-2730 will form the image of a control event and place the object on the nearest path. SCP-2730 will then reform into the next object and leave.
+
+SCP-2730 has been observed to be detectable in surface thermal imaging. This effect is not indicated in thermal cameras.
+
+When the object being manifested is on the innermost path, SCP-2730 will create a complex likely-harm chain from the objects in its path to immediately manifest the largest object in its path. Sample events are shown in Addendum SCP-2730-GB.
+
+Addendum SCP-2730-GB: Dr. G██████ was fully aware of the properties of SCP-2730. However, because the object was manifesting, he and the other researchers observed that SCP-2730 was using the network of nearby objects as a mechanism. This was confirmed by the anomaly detection ship, 'Meat'.
+
+EXPERIMENT LOG:
+Cx 1:0
+
+Cx 0:1
+
+Cx 0:2
+
+Cx 0:3
+
+Cx 0:4
+
+Cx 0:5
+
+Cx 0:6
+
+Cx 0:7
+
+Cx 0:8
+
+Cx 1:0
+
+EXPL/EMPL/SC_SECTION/2730/Section-Code-01
+Pending
+
+COLUMN 3
+
+DATE 12/09/20██
+
+Score: -4
+
+Researcher ████: D-15561
+
+Special Object Requisition: 1,150t (Cx 2:0)
+
+Item Description:
+
+The piece depicts a minor meteorite which landed near Site-██ during the night, near the drop site. The object on the ████ ██ █th ███′s █████████'s ████ █th ██,██ ██ ████ ████ ██ ████ █ ███ ██ █ ████ ███,██ ██ ██ ██ ████ ███ ████ 11 ██ ██,██ ██ ███ ███ ██ ████ ██,██ ██ ████ ███ ████ ████ ██ ████/██/██,██ ██ ██ ██/██/██,██ ██ ██/██/██
+
+Purpose: To determine whether SCP-2730 rendering the ████ ███ ██ ████ ████ ████ ███ ████ and ████ ██ ████ ██████ SCP are anomalous objects or not.
+
+Summary: SCP-2730 emitting a Silence field is detectable, usually being manifested within a 2-4 second *a*ish radius. This field lasts for approximately 20 minutes before the object is free of the field and disappears.
+
+Researcher G██████'s B.Sc. thesis said that SCP-2730 was a meteorite, but the nature of the object was lost over a 19th century likely-harm chain.
+
+SCP-2730 was detected within its field of effect

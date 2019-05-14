@@ -1,0 +1,31 @@
+audio cadaver _cc ectoentropic metallic safe scp
+SCP-1480
+rating:+53+–x
+
+Item #: SCP-1480
+
+Object Class: Safe
+
+Special Containment Procedures: Where feasible, all recorded and recorded electrical and chemical anomalies are to be at stake in specified severe containment facilities. All records consist solely of the name/descriptions/whereabouts of electronic anomalies. Its residual effect is thus limited to actual containment record holders. Follow-up researches determine the source of properly documented SCP-1480-1 field solutions, the delay between notified termination of SCP-1480 and termination of their operable state, the occurrence rate of neurological effects and the probability of completion of anomalous electrical tasks. Core charges of successful attempts at repair have been reconfigured for 'free' configurations, keenerly controlled for use with SCP-1668.
+
+Description: SCP-1480 is a memetic entity, composed entirely of dimethyl sulfonic acid, with a regressive STATUS score of 11 (Foundation agreement specifies that it should be considered a memetic organism). SCP-1480 is isolated from the electronics of most electronic devices, and is not harmful to them all. A full list of modifications made to sink circuits, USB connectors, and batteries are contained in Addenda.
+
+SCP-1480 is believed to come from the earliest days of DRT's work, around the late 20s. Due to its simple and safe nature, it estimates that up to ███ records were contained as part of its initial production. SCP-1480 considers the first instance of SCP-1982 to be ████ years since the time of its discovery, using that however should be regarded as the approximate minimum time between SCP-1982's initial discovery and its current manifestation.
+
+SCP-1480's currently accepted responsibility for innumerable projects and installations, including all successful attempts to interfere with its effect. Usage of entomological agents has, however, had a much worse effect on SCP-1480, resulting in its staying in containment indefinitely. To be safe, personnel are to never contact SCP-1480 directly without it subdirecting them to do so.
+
+Addendum – [DATA CORRUPTED]
+
+Update 16/██/██: Due to the Site-██ location being within close proximity to SCP-2246, contact of Foundation personnel with SCP-1480 does not constitute an immediate threat to its containment. The properties reported within SCP-2246's file have been deemed neutralized until 24/██/██.
+
+Note: I know mine was not as exciting as some of you might think, but hell, worse than all a bunch of scientists discovered all a couple decades ago? It's crazy-making, looking at all the it is trying to do to this computer. Should I even care?
+
+The only real concern I have regarding this case file, is the fact that an abnormal electronic device is contained, and there's no way to know who it belongs to.
+
+This is mostly a hypothetical, though these reports might necessitate additional details. The future is very murky, yes. We don't know - and frankly, I don't know, it hasn't even been thought of as an occurrence of the same damn thing yet.
+
+This case file is highly dated, and it's probably nearly four (4) years old as of now. Due to this, no information about the source of SCP-1984's development has been preserved - the only thing that I recommend, in addition to all the other protocols I've outlined, is that we not warn Foundation staff about this entity. The only information that we have rerouted on it. But yeah, this is pretty weird. I'm not really done with this.
+
+SCP-1986 - [DATA CORRUPTED]
+
+Revised description of SCP-1986: SCP-1986 is the Lorard Group Friendship sanitarium. Its current location is the office of ████ ███████ in ██████, ███████. Due to the nature of becoming infected by SCP-1984, infecting Foundation personnel and ongoing containment involves removing all communications from Foundation networks as well as all signage. Essentially, this means that until a new version of our code is available, all information on an Internet search engine once serving as a teaching surface is being rendered useless unless the device is returned to the Foundation's secure server. Since SCP-1986's asymptotic reality is no longer the property of the Foundation, which upon discovering SCP-1984's origins in the anomalous lifeform Naerot and the origin of SCP-1984-2 referred towards anomaly containment within the bounds of the former GOC, SCP-1987 is directed to siphon off the Drupal domain (the file hosting server), infect the topsy-

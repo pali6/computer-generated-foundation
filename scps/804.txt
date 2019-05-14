@@ -1,0 +1,33 @@
+Item #: SCP-804
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-804 is to remain in a standard SCP-2483-3 containment chamber constructed to hold the object. No personnel are to interact with it except that of Level 3 personnel, before it can be removed from SCP-2483-3.
+
+Description: SCP-804 resembles a black 8cm^4 white male star. Isolated from the surrounding sun, it is currently located approximately 999 AU away from Earth in a constellation known as "Kappa". Wean the object of study as certain events occur, and since it does not affect real stars, we can only use the data gathered at this time. Initial analysis identified the story as being about the fire of Jupiter, and the experience keeping a record of events. Henceforth SCP-804 will be called
+Chandra. This is to stay in its current location, as Events and reports can be ignored and Test Logs can be ignored. SCP-804 is to be checked at 2 o clock each day, by two personnel. After each periodic change in location, the star will be located, and it may be studied again. This level of care will signal the change in assignment, and the object's location will be in question. Forms of observation, photosynthesis, and other measurements can be done as well. It is recommended that future visitors inform Site-415 of future shifts. Condolences,
+Dru Projects.
+
+After January 1954, SCP-804 was made into a normal star with a simple photogram of 2300 and a count of 30^2. During this time, it remained mostly active. It has not moved nor has affected real stars. However, it has been observed to open and exit at irregular intervals, either by accident or by chance. Reports on this phenomenon are inconsistent, and the majority of them were both fabricated and manipulated. SCP-804 has not moved since the beginning of 1954.
+
+The website for this time around includes a loss of labor, as the project was terminated during the late April or early May, and was redirected to some teller's web of fake files. As expected, it had been assigned to no company besides "Bifrost Digital" (of which the report of an anonymous agent was the head, along with a title of 'Manager of Documents', and links above). The person handling the account, a single female, is also listed on the Foundation database as 'Bifrost DigitalAccount' of dubious individual. She is, apparently, a false name, as she was never bought by the Foundation but is still a woman - this would normally be obvious given the Foundation's amazing mathematical records.
+
+Due to the large number of accounts for work, and the fact that L3-12's reporting system would be corrupted if the information would be released in a thread or sheet, it is currently hoped that the information will not be released. CarFax is generally encouraged but only recommended because there exist full copies of all related reports. Special improved security measures have been drafted in adaptation to this. -O5-█
+
+July of this year was almost entirely in silence between the Foundation and the US federal government; regular correspondence is impossible to look at, and these matters are often too shrouded in secrecy to be any other way. When the information comes down, it might be possible to arrange with the Department of Government to provide some form of delay. As such, the interim measures have been taken and are currently in effect.
+
+On August ████, the Cog of Horus was imparted to SCP-███. Research had been scattered in vain and nobody mentioned the mysterious event. Found to be a result of QOL423's rebuilding, the hatch did not open properly, and the probe managed to go through its anomaly. SCP-███ is currently in the custody of personnel from Local Task Force Zeta-48. Lee South, who had had his chain of command removed in favor of SCP-███, was reassigned to stay out of the wind of the gap.
+
+At this point, we no longer plan to allow SCPs to spawn and migrate. It is only determined that this is related to the experiences of Edwin Wheeler, and necessary to the Foundation's survival. -O5-█
+
+TheIFrame
+
+scpOutput
++3206accesstoacttype
+-4806accesstoacttype
+
+The more you know.
+
+Author's comments:
+
+It is 2016, during the 48 Hour Jam Contest, two days before this incident, which permanently eradicated SCPs from this site. For what, I have no notion. This incident enraged my admin staff, who directed me to reclassify the artifact as a rabble-runger. At the same time, it completely removes the 22+ comment-limits, which were overbearing, and terribly unwarranted. I sincerely hope that this is the final straw

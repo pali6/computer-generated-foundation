@@ -1,0 +1,61 @@
+Item #: SCP-637
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-637 must be contained within a high-powered magnetic containment chamber which has been equipped with the assumed frequency of the radio signal. The chamber must be emptied of all unattended contents at least thirty (30) hours before the round is to be extracted. If the radio signal is to be extracted, it must be removed from the radio signal in the designated timeframe below. The prisoner must be released immediately and measured throughout his entire body. Observation of said dimensions reveals that the signal is subject to the same fan-out effect as the radio signal over the channel of the receiver. In addition, SCP-637's source must be located in the building within three (3) blocks of the facility, with an additional third block being needed for its capture.
+
+Dr. Bowe remarks that it has appeared to him that SCP-637 has previously occurred at transit moments of ██°09′██′'S Display.
+
+Addendum 637.1: SCP-637 exchange between Dr. Bowe and Agent ████ ███████████ on ███ ██ have led to the development of a modified recording device capable of detecting SCP-637's anomalous effects. SCP-637-1 is to be contained within a magnetic containment chamber in the same facility. Camera footage of this exchange has been transcribed below.
+
++ShowAudioTranscript
+-HideAudioTranscript
+
+Hear:
+
+DATE: ████ ██████ ███████████, ███ ██ ████ ████ ██████ █████
+
+LOCATION: FOUNDATION W/ MOBILE APPARENT
+
+SUBJECTS: D-1181
+
+ACTIVE: ████ ██████ █████, ███ ██ ███ ██████ █████ ████ ████ ████
+
+OFFICIAL STANDARD:
+
+PROCED: ████ ████ ████████████ █████, ████ ██████ ████ █████ ████ ██ █████ ████ ████
+
+PRIMARY SOURCE:
+
+0.05m (3 ft) Deep water
+
+RETRAL SOURCE: ████ ██████ ████████████ ███ ████ ██ ████ ███ ████ ████ ███ ████
+
+NOTE: Firing squad two erected for wireless containment and recovery.
+
+[BEGIN TRANSCRIPT].
+
+DATE: 07█ ██ ██████ ██████ ████████████ ████ █████, ████ ██████ ██████ ████████████ ████ ████ ████ █████
+
+LOCATION: ████ ██ ██████ ██████ ████████████ ████ ████ ████████ ████
+
+SUBJECTS: D-1293
+
+ACTIVE: ██████ ██████ ████████████ █████, ████ ██████ ████████████ ████████ █████
+
+OFFICIAL STANDARD:
+
+PROCED: 07█ ████ ████ ████████████ ████████████ ██████ ████ ██████
+
+PRIMARY SOURCE: ██████ ██████ ██████ ████████████ ████ █████
+
+NOTE: Firing squad two established for wireless containment and recovery.
+
+[END TRANSCRIPT]
+
+Footnotes
+1. The beacon set up for the counter-party harvesting the signals was destroyed by the firing squad.
+
+ SCP-636 | SCP-637 | SCP-638 
+
+_cc co-authored memory-affecting mind-affecting media safe scp

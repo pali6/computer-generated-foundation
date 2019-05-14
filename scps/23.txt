@@ -1,0 +1,37 @@
+Item #: SCP-23
+
+Object Class: Safe
+
+Special Containment Procedures: As SCP-23 is a known mathematical equation, the Foundation and appropriate local law enforcement have been notified. Level 3 personnel hand record of the formula.
+
+No Foundation personnel are permitted to memorize the equation.
+
+Description: SCP-23 is a binary digit with the letters A through H.
+
+The computer models an unknown number of possible solutions to the equation. For every solution, there exists a single anomalous way. When the same operation is performed on any computer model, the resulting solution is the same as the original mathematical equation, and will be of a different type and quantity, however small, regardless of sample size or the effect of any other change.
+
+Two approaches have been theorized to explain the nature of the method. The first is that the algorithms will convert the input into some form (predict a solution), and that the output will be a random number of digits.
+
+The second is that the answers of the algorithm will have no effect on the nature of the original input, or the way the solution is always found once-by-default. Changes to the computer will either have no effect (as they would not prevent the original number solution), or cause a totally new set of results (as these changes would cause the original number to be equal to zero).
+
+It is believed that SCP-23 is a result of the split-brain phenomenon. However, it is unknown at this time how much the original computer model was correct in its representations of the original problem, or when the split-brain process started.
+
+Discovery: SCP-23 was discovered by the following Foundation researcher had observed experiments demonstrating the effects of xk-class reality events, similar to a reality anomaly seen in the Foundation lab.
+
+Discovery Confirmed, ██.-██-████
+
+Examination of the computer models involved revealed the following:
+
+•The main difference between the two K-classes is that K-class reality events are caused by a set of unknown input values, independent of the actual values of any of the normal parameters.
+•The topology of the input universe is reasonably well-understood; for example, the area of the observable universe behaves as the space of a flat because of the well-understood laws of spacetime.
+•The existence of the input universe is itself subject of debate.
+•One of the unknown parameters in the input universe is known, and software is designed and released to predict it.
+•For each of the unknown parameters, the process of applying the given application to the input universe produces a new mathematical operation corresponding to the given input. Any of these calculations are comfortably within current knowledge; however, it is not believed at this time that these calculations will consistently make sense to the user.
+
+There are two separate paths of causality. The first path involves local probabilities; the second involves a causal process that occurs in the vast majority of the input universe, resulting in a net loss of the ability to predict the outcomes of the two processes in question. The linear model of causality is calculated from the inputs to the program "RAND_PROCEDURAL". Before the creation of the linear model, it was known that the probabilities of two (2) discrete points being 1 and 0, respectively, are equal to the probability of a point being 1 and 0. For example, a point 1.0 is randomly 1, and will always be 1. If the point 1.0 is 1.0, then 0.0 is equal to 0.0.
+
+The linear model of causality is heavily dependent on the parameters of the linear model. It is theorized that the values of noise introduced by the discrete point 1.0, however small, should not have a significant effect on the values of the positive and negative values in the linear model. Similarly, the random values described by the discrete point 1.0 could not have a significant impact on the values of the positive and negative values in the linear model.
+
+The linear modeling of causality is extremely crucial to understanding the nature of all reality events. Due to these equations, the effects of these events on reality, and dimensions, approximating these effects, can be easily estimated. These equations were found and discovered by the following Foundation researcher who had made a similar calculation, after he had become convinced of the existence of infinite vectors and of multiple equations relating to vectors.
+
+These equations were found to be identical to the vector space (Golecular Vector Space) (see the Pythagorean Theorem), after he had proved that the quadratic equations can be written as polynomials using the hyperplane geometry provided by the sine, cosine, and cosine field. He made the equation "ΔΔ k" and "ΔVΔ vΔϔVΔVΔω+Vϔ

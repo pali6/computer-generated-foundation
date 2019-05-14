@@ -1,0 +1,84 @@
+Item #: SCP-589
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-589 is contained in a standard humanoid containment cell. No light, sound, or electromagnetic interference is necessary to interact with SCP-589. All study on SCP-589 is to be approved by personnel with Level 2 clearance.
+
+Description: SCP-589 is a humanoid entity with an average height of 5 meters and mass of approximately 9 thousand kilograms. SCP-589 is humanoid in appearance and its anomalous effect manifests when viewed in its perspective.
+
+SCP-589 will begin to change color patterns from [DATA EXPUNGED].
+
+When viewed in any angle except from its face, SCP-589 will shift its entire body at random stops. These shifts are approximately four centimeters in duration within just over a minute. While it takes a considerable amount of time to determine which direction SCP-589 is currently facing, without any way of knowing exactly which direction SCP-589 is facing, SCP-589 is displayed as being positioned between two, four, or six different directions. SCP-589 is not entirely intangible, but is still physically vulnerable to physical aggression.
+
+[DATA EXPUNGED] and an unchanged secondary effect of visual distortions. Circumstances of occurence are as follows:
+
+•One observer takes SCP-589 on a vertical direction, possibly facing away. The observer should then follow it as it appears facing away from other observers.
+•Two observers, one on the left and one on the right, follow the same direction that the first observer is moving.
+
+SCP-589 moves closest to the center of the room, and moves at approximately eight o'clock.
+
+After approximately four minutes, SCP-589 will shift under the latter two at exactly three o'clock.
+
+SCP-589 will continue to shift under the first two participants until it reaches the third or fourth observer.
+
+Afterward, the observer that made contact with SCP-589 will return to the center of the room, and SCP-589 will rotate under the observer, and vanish. SCP-589 will reappear somewhere in the center of the room, many times closing and closing under the observer; this is not permanent.
+
+Afterwords, I'm sure the Foundation would agree that SCP-589 is a solid object with real purpose.
+
+Note: Given this, it has been decided that the third observer will be given a special containment module, and assigned a containment procedure to see if SCP-589 changes at all after ██ hours have elapsed. If correct, it will be secured in a smaller locker and placed in Storage. If not corrected, it will be put in a corner of a stall and "that will be all for now, boys and girls."
+
++InterviewIContext
+-AccessGranted
+Com-present:
+
+The following interview log was obtained from the private cabin of Agent ████ █████. Agent █████ was selected for this mission based on his prior experience with SCP-589. SCP-589 was eventually neutralized by Agent █████ after a six-month investigation, culminating in an immediate containment breach.
+
+Transcript:
+
+Date: March 4th, 20██
+
+Interviewer: Agent █████
+
+Interviewed: SCP-589's designated third observer.
+
+<Begin Log>
+
+Agent █████, Agent █████, and two personnel enter SCP-589's containment cell. Agent █████ is carrying a rifle, and this is the only gun he has access to.
+
+Agent █████: Good morning, SCP-589.
+
+SCP-589: Oh. Piss off, man.
+
+Agent █████: Hey, ya.
+
+SCP-589: Oh. Fuck off, man.
+
+Agent █████: I got this for you, you know.
+
+Agent █████: Who are you?
+
+SCP-589: I was with someone, you know.
+
+Agent █████: What do you mean?
+
+SCP-589: I know. I think they called me on the intercom.
+
+Agent █████: Are you sentient?
+
+SCP-589: You know, I think I'm gonna hit the station coming up when I leave this town, if I'm really going to die.
+
+Agent █████: That's what I wrote. We should send someone up.
+
+SCP-589: Oh. Well, you'll have to forgive me.
+
+Agent █████: There are no other means of contacting the Foundation. You'll be dead.
+
+SCP-589: That's what I like to listen to.
+
+Agent █████: Do you understand me?
+
+SCP-589: Yes, that's what I've been telling you.
+
+Agent █████: The coordinates are ████ █████ ████ █████.
+
+SCP-589: Okay.

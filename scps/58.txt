@@ -1,0 +1,50 @@
+Item #: SCP-58
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-58 is contained at Site-34. Foundation forces are authorized to use violent force in the event of SCP-58 reaching the 40-year threshold.
+
+In the event that SCP-58 is retrieved from the sand, Site-34 will be constructed around the location where SCP-58 sets up its burrow.
+
+In the event that SCP-58 does not set up its burrow, a MTF is to be assembled and deployed to neutralize SCP-58. Following the neutralization of SCP-58, an excerpt from SCP-58-H is to be placed in Site-34.
+
++ShowSCP-58-H
+-HideSCP-58-H
+
+SCP-58-H: "Shark At the End of the Lane"
+
+Description: SCP-58-H is a unique species of anomalous kittiwool. Its anomalous effects appear to be limited to its ability to interact with humans. SCP-58-H is primarily a predator of humans, and will not eat them unless provoked.
+
+SCP-58-H will attempt to mate with humans. SCP-58-H will always attempt to mate with a human, regardless of its own sex (demographic), age, or appearance.
+
+SCP-58-H is able to communicate verbally with humans, however. While speaking, it is capable of speaking English, German, and Spanish. SCP-58-H will generally attempt to communicate in English, and has managed to create a rudimentary "language" of its own. Referring to SCP-58-H's English language, SCP-58-H is able to communicate in higher-order languages, such as English, German and Spanish. SCP-58-H has yet to speak with another human.
+
+SCP-58-H remains autonomous, and will engage in daily behaviors dictated by the role of a "normal" kiwool. In order to compensate for this abnormality, SCP-58-H is able to provide additional feeding, such as fish, eggs, and nuts. In addition, it has demonstrated the ability to provide a special supply of nutrition, provided that the food given to SCP-58-H is specifically organic, and has been administered to it as necessary.
+
++ShowSCP-58-H
+-HideSCP-58-H
+
+Designation: SCP-58-H
+
+Subject: SCP-58-H
+
+Personnel Responsible: Environmentalist Jacob Weft
+
+Description: SCP-58-H is a term used to refer to a large aquatic fish native to the Bering Sea Arctic Circle. The term is directly related to the existence of the species : SCP-58-H is referred to by humans as "shark at the end of the lane", despite the fact that the species is not actually kiwool.
+
+SCP-58-H's anomalous abilities are altered following a period of time following the end of its burrow. This anomalous effect can be triggered if SCP-58-H does not set up its burrow. When someone speaks a word of English, Spanish, or other native language, the word "shark" will appear in the mouth of the individual speaking in their native language. The word "shark" will appear on the individual's lips a few seconds after a word in a language other than English.
+
+After the initial period of time, the anomalous effect of SCP-58-H's anomalous abilities will continue to increase. After approximately 60 minutes, the anomalous effects of the anomalous abilities for SCP-58-H undergo a period of approximately 15 seconds. The anomalous effects for SCP-58-H are to be removed once the anomalous abilities for the fish is removed.
+
+SCP-58-H's anomalous abilities can also be temporarily removed unintentionally. During a period of 5 seconds, SCP-58-H will speak a word of English, Spanish or other native language. The individual receiving the SCP-58-H's anomalous ability will become non-anomalous in nature. However, this will not take any effect if the anomalous abilities or SCP-58-H are not removed, during which it will simply exist as normal kiwool.
+
+SCP-58-H is able to reproduce its anomalous effects within the body of a multitude of other anomalous creatures, despite the lack of any organs or organs of normal human anatomy. The anomalous effects on SCP-58-H's body will not be eliminated until the majority of its skeleton is destroyed.
+
++ShowSCP-58-H
+-HideSCP-58-H
+
+designation:SCP-58-H
+
+species: kiwool
+
+containment procedures: SCP-58-H is contained at the Site-34 location. SCP-58

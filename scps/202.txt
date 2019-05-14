@@ -1,0 +1,41 @@
+Item #: SCP-202
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-202-1 is to be housed in a standard containment facility. Personnel assigned to SCP-202-1 are to be given a standard Level 3/202 cognitohazard alert. Any living instances of SCP-202-2 are to be terminated by standard termination technique.
+
+Any instances of SCP-202-2 found outside of containment are to be destroyed. Any objects found in public areas outside of containment are to be destroyed as soon as possible.
+
+Description: SCP-202 is the collective designation of four distinct effects each related to the objects currently featured in Foundation Common Collection. All of these effects are believed to occur during the final stages of SCP-202-1's containment.
+
+SCP-202-1 is a list of the four anomalous objects. From 0 to 9, the object is classified using the
+
+containment procedures currently being implemented. On the bottom of the page, there is a section called "Playlist" on which SCP-202-2 is written. The title of the document is of repeatable alphabetical character: ▼. The labels of the labels are also repeatable.
+
+When these four objects are listed, the remaining effects are passed onto SCP-202-2. All effects are non-anomalous and occur in the same order. Due to the nature of SCP-202's containment procedures and their location, SCP-202-2 is physically more complex than the first stage of SCP-202's containment procedures. In addition, SCP-202-2 is stored in a permanent and permanent holding facility at Site-███.
+
+When SCP-202-1 is listed, SCP-202-2 is automatically generated, prefaced by the words, "Playlist." SCP-202-1 is not located in SCP-202-1. The "Playlist" section contains all common containment procedures. In this section, the "Playlist" section is used to generate and pass on SCP-202-2.
+
+The following note is printed near the end of SCP-202-2. It is a series of symbols.
+
+M-F-G-H-J
+
+F-G-H-J
+
+M-H is the symbol of a guitar. M denotes a tone, G denotes a fret, and H denotes the fret number.
+
+When SCP-202-2 is generated, there is a note on the topmost left side of the page lazily rotating back and forth. When this note is not played, SCP-202-2 will drop down and go back to 0. The note will then play again, with the playlist's next number selected. The exception is the second alarm effect. Assigned only to those instances of SCP-202-2 containing an item that can be constructed from any object.
+
+When SCP-202-2 is chosen by SCP-202-1, the next two alarms will automatically be used. When this in the order of ██ to ██, the next two alarms automatically play.
+
+In the first stage, SCP-202-1 is to mention the sound around the fret markers, starting from M and F. At this point, SCP-202-1 is supposed to feed the fret markers a list of notes in order, arranged in the format of a guitar chord. SCP-202-1 is supposed to do this at a pace of 21 to 31 seconds, with the exception of the first alarm effect, which is supposed to be played at an average rate of ██ seconds per note.
+
+In the second stage, a generally non-anomalous guitar is to be presented in the containment chamber. A note on SCP-202-1 is supposed to play at the same time as the first alarm. When this occurs, SCP-202-1 is to announce the first note being played.
+
+In the third stage, SCP-202-1 is to record a list of notes for SCP-202-2. Here, the notes are to be played in the same order. The order can be changed at any time by SCP-202-1 using the program ████ ability. In the program, the order of note order is determined by how many fret markers are present on the fret notes. This program runs within a soundcheck gel with the Fret 3/202 sound normalization engine.
+
+When triggered, the next duodecimal number will be shown on the fret notes, with the order of the note being reversed and ordered by the number of fret markers. This number is supposed to be 10001.
+
+At this point, SCP-202-1 is supposed to repeat the above sequence. This sound clip will be repeated until either the second alarm effect or the third alarm effect is active.
+
+Due to the security concerns of SCP-202-1 and the fact that SCP-202-

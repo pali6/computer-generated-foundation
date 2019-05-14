@@ -1,0 +1,103 @@
+Item #: SCP-138
+
+Object Class: Euclid
+
+Special Containment Procedures: Site-131 is to be monitored by Foundation webcrawlers for the occurrence of anomalous webcrawlers. Transmissions and automated scripts of webcrawlers are to be covertly tracked using Gamma-ray satellites. General infrastructure is to monitor the event horizon for the anomalous event horizon, in addition to monitoring the recorded global border anomaly such that anomalous event horizons would be avoided.
+
+Prior to the occurrence of an anomalous event horizon, an editorial advisory board composed of scheduled events of high probability should be informed that the anomalous event horizon does not originate from the central point of the universe. The board should then support this advisory until anomalous event horizons are confirmed.
+
+Description: SCP-137 represents a future iteration of the equation known as the Cosmological Constant Solution. The anomalous event horizon is located at approximately 309 light-years from Earth, approximately 110 light-years from the anomalous event horizon. The anomalous event horizon itself is impossible to directly observe or measure because it is a singularity that is not constantly visible or observable.
+
+The anomalous event horizon is resistant to adjustment due to fluctuations in the rate of expansion of the universe. If the rate of expansion before the anomaly is observed (1) exceeds 0.00011067 times the amount of time in the universe (2) then the anomalous event horizon will turn into a near-simplified Euclid event horizon, similar to the one observed.
+
+The anomalous event horizon targets a singularity containing a point approximately 0.4 position inside the singularity, with an arc radius of approximately 1 millimeter. At this point, the anomalous event horizon will shift inversely to the path of expansion.
+
+The anomalous event horizon can be used to locate the cluster of galaxies located approximately 0.4 light-years from the point at which the event horizon shifts.
+
+When detected by a telescope within the scope of a normal telescope, the anomalous event horizon will shift inversely to the path of expansion. It is hypothesized that if the anomalous event horizon is known to occur, it is liable to occur on a planetary scale.
+
+Addenda:
+
+Space-Time Slider
+
+By using the orbiting location of the anomalous event horizon, it is possible to navigate the history of the universe and the present state of the universe. The 1.0 magnitude shift shown above is a reference for the position of the anomalous event horizon on Earth. The following table lists the possible positions of the anomalous event horizon.
+
+Position Near-Simplification Near-Simplification
+
+Year 0.04 6.88
+982 10.84
+1245 17.██
+1445 26.40
+9150 186.18
+10325 1900.84
+2220 29.82
+2990 34.95
+2880 35.38
+3350 36.03
+2450 35.47
+5280 34.03
+5350 35.47
+5570 36.90
+5950 28.21
+5680 25.05
+5530 24.17
+5820 39.80
+5700 7.99
+6030 2.05
+5570 4.77
+5970 3.18
+5970 9.06
+6050 36.12
+5570 10.32
+5570 16.07
+5700 38.45
+5950 2.26
+5970 3.39
+5840 10.29
+5840 7.23
+9000 26.14
+4580 4.51
+5910 3.00
+5950 2.26
+5950 11.22
+5950 9.44
+5910 7.23
+9140 9.59
+9160 20.38
+9120 10.81
+9140 28.90
+9140 17.08
+9140 18.09
+9160 19.14
+9180 11.10
+9180 11.10
+9180 16.43
+9200 28.00
+5990 17.22
+5990 16.36
+5990 40.26
+5400 1.72
+5990 2.56
+5990 4.37
+5970 6.16
+5970 2.40
+5970 7.15
+5970 1.78
+5970 6.00
+5990 2.08
+5990 3.30
+5990 10.63
+5990 3.19
+5990 10.43
+5990 6.23
+5990 4.59
+5990 6.29
+5990 5.18
+5970 4.44
+5990 4.35
+5990 3.90
+5990 6.79
+5990 4.77
+5990 4.11
+1790 24.30
+1790 13.40

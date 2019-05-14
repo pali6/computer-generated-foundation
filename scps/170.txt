@@ -1,0 +1,29 @@
+Item #: SCP-170
+
+Object Class: Euclid
+
+Special Containment Procedures: All mapping programs, geospatial data, and satellite imagery are to be directed towards SCP-170. Flying vehicles and drone units are to be equipped in case of SCP-170 occurrence. Foundation liaison for SCP-170 is to be consulted for assistance should SCP-170 prove unlikely to be detected by terrestrial means.
+
+Foundation experts entering the area around SCP-170 are to install miniature transmitters and antennas, which should be placed just outside of SCP-170's natural range. Any civilian who attempts to enter SCP-170's range without permission or prior approval is to be denied access. All attempts to leave SCP-170 by any non-foundation personnel are to be denied.
+
+Description: SCP-170 is a town located in the Six-Cities area of the United States, near ████████, California. SCP-170 is a large, unremarkable (in comparison to other large cities) convenience store, located on ███████.
+
+Location: SCP-170 is located in what was once a largely unpopulated region. Most structures were built in the 1930s, with minor alterations to its architecture and design from the ensuing decades. Though the original town hall had no street sign, an abandoned house had been rapidly constructed around it, with no signs of activity around it over the previous six decades. Though the surrounding area had been inhabited by local residents and architects in the earlier years, this was forgotten during the mid-1970s.
+
+SCP-170 is surrounded by a circle of forest. The glow emanating from this area, or that emitted by the circle in which SCP-170 is located is constant at all times, regardless of its location. At irregular intervals, the glow of the forest will turn to light up. During this phase, a male (designated SCP-170-A) will collect a bottle of vodka from the bottle in the center of the circle, and proceed to drink it from the bottle. This phase will continue for approximately ten seconds, after which SCP-170-B will proceed to pour a full bottle of vodka into SCP-170-A's hand. Following this, SCP-170-B will return, wearing a white vest with a blue contrast to the red cloak. SCP-170-B will then proceed to dissolve the vodka into SCP-170-A's palm. After this, the glow of the forest will turn back on.
+
+SCP-170-A is a human male of European-American descent, age 25. The head of this hair, hair and defect is a condition until the age of 40 that all genetic, physical and chemical contributions to DNA have been swapped. All individuals with this trait have a constant neck-distance of 1.29 meters and an average height of 168cm. This trait is normally present both in males and females, with the latter male of the two sexes showing it most commonly.
+
+The SCP-170-A instance has all the physical attributes of a typical college freshman and possesses the same general appearance as the standard-issue Caucasian male. Statistical analysis of SCP-170-A's DNA shows that it remains the same as a human man of the same age at the same location and time.
+
+SCP-170-B is an entity with the appearance and personality of the male college freshman with the same genetic and chemical composition. This includes a strong jaw and facial features; occasional muscular movements; and a large, bony, cylindrical eyes. SCP-170-B also has an extremely large, round, as the sum of its physical characteristics.
+
+SCP-170-A is also a large human female. This female has the same physical and chemical composition as young men. Her skin is streaked with orange, and her hair is far too long for a female of her age. However, SCP-170-B's teeth are noticeably impoive and sharp. SCP-170-A is capable of acting autonomously, despite the fact that she has never, ever been able to use his left or right hand or hands to operate anything close to a common tool.
+
+SCP-170 was discovered after a routine investigation of a large fish pond in ████, Ohio, on ██/██/1977.
+
+In the wake of the discovery, Foundation agents discovered SCP-170. A containment team had reported seeing a humanoid figure approximately two feet in height, under the water, which was mimicking the behavior of a large turtle. The containment team immediately noted that SCP-170 was a well over a thousand years old, and that it was visually similar to a modern human. No other methods had been found to explain this anomaly.
+
+Addendum [170-01]: Recovery
+
+On ██/██/1977, a student at the █████ University aquatic center was notified by his professors of a peculiar event. Upon settlement of the Island, the students were able to contact their

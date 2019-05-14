@@ -1,0 +1,23 @@
+Item #: SCP-727
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-727 is currently contained in the Site-41 Hall Dilemma ventilation system. SCP-727 must be provided by Site-41 personnel at least once daily for testing purposes.
+
+Description: SCP-727 is a standard model black LP toaster, approximately the size of a simple walk-in refrigerator. SCP-727 is not equipped with any of the internal mechanisms that would be necessary to make a similar appliance work, including:
+
+•A single stainless steel burr.
+•A single rectangular slot for a metal plate.
+•A single stainless steel bowl.
+•A medium-sized iron griddle, which is used to clean SCP-727.
+
+•A flat aluminum plate, with a large hole in the middle. The plate, on the other hand, does not give rise to any significant mechanical noise.
+•SCP-727 must still be removed by its handle before it can be consumed. SCP-727 cannot be replaced.
+
+Additionally, SCP-727 maintains its own temperature and does not display any effects when it is not removed. Concerning its reliability, the only anomalous aspect has been an overall low occurrence of [REDACTED]. It is believed that the iron griddle is fundamentally incapable of extruding the metal plates, and simply serves as a mechanism to keep SCP-727 working.
+
+Note: It's not disconcerting to have a burr on someone's kitchen counter.
+
+ SCP-638 | SCP-639 | SCP-640 
+
+_cc concept hostile interactive memetic meta narrative safe sapient scp sentient

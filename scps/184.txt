@@ -1,0 +1,50 @@
+Item #: SCP-184
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-184 is to be contained in a standard SCP-239 storage unit, which is to be kept locked in a standard SCP-240 safe. Testing of SCP-184 is to be completed on a weekly basis to ensure no non-standard methods for SCP-184's effects are utilized. Any resulting discovery of SCP-184's anomalous properties is to be immediately reported to MTF Gamma-13 ("Practical CPR").
+
+Description: SCP-184 is the collective designation for the ██████ P.™ brand alarm clock. SCP-184 is real, and is the same size as an average modern alarm clock. The victim's will to the instant the clock is turned is intact. If the time is too late displayed on the screen, or if the clock is turned incorrectly, SCP-184 "flickers" until the victim is exposed to countermeasures.
+
+Subjects that will be affected by SCP-184 will be unable to tell the time or make any kind of sound unless the clock is turned wrong, and only respond when forced to do so with "yes" or "no." During an attack, SCP-184 will maintain a rhythm which is directed at the victim's head. SCP-184 will alternate between "yes" and "no" at a pace which will appear random when actually executed; however, some time delays have been observed, which appear to advance from one moment to the next, and in some cases within seconds of the moment when SCP-184 stops changing its rhythm. The clock will also remain there for a few seconds after being turned, in which time, the victim will seldom notice other changes in the time of the day, but will usually report that SCP-184 "flickers."
+
+Infection by SCP-184 is highly rare. Effective treatment of an infected individual involves a combination of the standard anti-infection procedures, and a combination of the standard anti-fatal measures. As a result, SCP-184's effects are usually transmitted via phone or e-mail message, and not via direct eye contact. Attention may be regained via access to Foundation channels, however the amount of time SCP-184 has to leave an infected individual will increase exponentially over time.
+
+Addendum 184-A: Did You Know?
+
+The following is an excerpt from SCP-184's communication logs, preserved in the archive for SCP-184's own safety.
+
++InterviewLog184
+-AccessGranted
+
+Interviewed: SCP-184
+
+Interviewer: Dr. ██████████
+
+Foreword: The following is an SCP-184 collaborative research log. It has been selected from a list of potential SCP-184 communicationlogs created in preliminary containment of SCP-184's effects. Subjects is unknown, which rendered it a minimal risk to containment.
+
+<Begin Log>
+
+Dr. ██████████: (nods) Hello. Please tell me what the clock says.
+
+SCP-184: "No. It says 3. Ooh, I'm sure it's right. I'll get you back to you as soon as I can."
+
+Dr. ██████████: I'm sorry. Have you made any progress on this recording?
+
+SCP-184: I've got the whole thing. I had to get the clock working, isn't it? [Pause] Maybe I can fix it. I'll clean this up soon.
+
+Dr. ██████████: So you consider a "fixing it" to be a "like the clock" approach.
+
+SCP-184: Yes. Maybe it's not the whole thing, but if I take the whole thing apart and put it back together, it's the same. No matter. That's why I'm wearing my alarms in the morning. No one else can see them.
+
+Dr. ██████: If the clock is broken, what does that mean for the rest of the site?
+
+SCP-184: For us. The same thing, about the clock. The person who messaged me says the clock is going to remember the rest of the day. How's that? That's crazy.
+
+Dr. ██████████: Did you really send it the ██████ P.™ brand alarm clock?
+
+SCP-184: It didn't matter. I got it, and was able to make it work. I don't remember what the clock says now. I assume he meant the first day the clock worked. The eight month old I wouldn't call his name, but he's still a kid, and has a lot of friends.
+
+Dr. ██████████: Have you heard them?
+
+SCP-184: (nods) I haven't heard them. I don't know. They all have names, but I don't know, exactly. I guess I've heard them about me

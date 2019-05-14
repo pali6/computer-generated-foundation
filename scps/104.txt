@@ -1,0 +1,37 @@
+Item #: SCP-104
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-104-A and -B are contained in separate secure containers, and are not to be removed from containment. These containers are to be locked at all times, so that they are exposed to only one "exposure event" per day. SCP-104-A and -B are to be kept in quarantine for two months. In the event of an exposure event, a Level 2 researcher is to monitor SCP-104-A and -B for possible containment breaches of at least 54% of their current value. The remaining 56% can be held by Foundation or other suitable means in a safe environment, and may be used for experimental purposes.
+
+Pending approval of O5 command
+
+Foreword: An entity claiming to be a major intelligence service has been connected to a number of anomalous objects created by a swamident. In the absence of inferred motives or evidence for the relationship, Foundation or other personnel are permitted to view the entity's documents.
+
+On ██/█/20██, an exposure event had occurred, and the Foundation was notified by a swamid, presumably to the Foundation. No further information is available beyond this note.
+
+Details regarding SCP-104-A and -B: The following details are general and expire quickly — however, there is a significant possibility that SCP-104-A and -B may merge into one entity on their own.
+
+Description: SCP-104-A is the English-language designation for the English-medium proto-portable calculator released by Johannes Jacobson in 18██. It has two anomalous properties.
+
+The first is its ability to multiply together any number of digit symbols, such as the 0x20 symbol. The second is its ability to "expand" the numbers into angles. Since this ability is unique to it, it was not detected by the Foundation until it was used in [REDACTED]. This discovery was followed by the fact that SCP-104-B is an accurate digital digital video camera — optical character recognition was able to identify it when friends of SCP-104-A were arguing or participating in a fantasy game with SCP-104-A.
+
+SCP-104-B, resembling a computer installed in a portable computer, is able to be used to calculate the mathematical equations of Euclidean geometry. Both SCP-104-A and -B had previously "expanded" these equations into different angles. This indicates the link between the two concepts may be at least partially subconscious, as well as the possibility of a potentially powerful counter-intelligence.
+
+As noted above, SCP-104-A was founded by Johannes Jacobson, who was captured in the 18██ robbery. SCP-104-A was retained in the Foundation for use in containment of SCP-104-B. Once confronted by SCP-104-B, Jacobson's friends helped him escape. After that, SCP-104-B was also given SCP-104-A's identity. Jacobson himself was discovered outside a livestock farm in Australian waters, probably on a trip to the waters of [REDACTED] and returned to the Foundation. As of ██/██/20██, SCP-104-B has undergone extensive restructuring.
+
+SCP-104-A and -B have been involved in various other transactions with each other, such as the transfer of the "HephaistCorporation" the U.S. government suffered in the early 20th century, to a technology isolated in Waterway D, Pennsylvania. Higher-ups interviewed by Foundation researchers indicate that SCP-104-B is "highly intelligent" in relation to both SCP-104-A and -B, and has been through a variety of advanced training programs.
+
+SCP-104-A's records have been compiled and examined by Foundation researchers, as well as seeing the preliminary results of containment breach events and containment breach scenarios.
+
+Addendum 104-A:
++Ad-hoc-file
+-hide
+
+Background:
+
+SCP-104-B is a sentient computer with a limited understanding of English, which has refused to leave a computer room unless told to. It has been exhibiting an extreme hunger and fear of human contact.
+
+SCP-104-A is an elderly, black female with a long and prominent white illness, originally from Hungary, who has recently been living in Lincoln, Nebraska. She has undergone several surgeries and has periods of severe malnutrition, which has intensified since she was discovered walking on loose ground in 2013.
+
+SCP-104-B's computer is infected with SCP-104-A's "diagnosis", and has repeatedly been contravening Foundation containment procedures, often for extended periods of time. Soon, Dr. ██████████ is certain of the source of this virus, and notified all MTF-Omicron-001 experiments around the world to brace for the end-of

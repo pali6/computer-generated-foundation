@@ -1,0 +1,65 @@
+Item #: SCP-602
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-602 is currently kept in a standard humanoid containment cell, with the door being sufficient for entry and the doorframe constructed to block out all light entering the vehicle. On the other side of the doorframe is a mirror, mounted on the wall opposite from the doorframe, and the lighting in the room can be controlled via the device attached to the mirror. The content of this device is to be kept secret and is to be turned off every hour by a guard on site. This is referred to as SCP-602-3.
+
+Description: SCP-602 is a silver 35mm fisheye lens (referred to as SCP-602-3) capable of emitting blue and red light. SCP-602-3 has no anomalous properties and appears to be constructed of steel. All attempts to remove SCP-602-3 have been met with a successful countermovement; however, upon removal, SCP-602-3 itself can be used to detect the presence of SCP-602-3 within the vehicle and will attempt to adjust the light to counteract the presence of SCP-602-3. Due to how quickly SCP-602-3 reacts to SCP-602, any foreign objects present at the time shall be removed back to the vehicle, or SCP-602-3's effect will begin. The original contents of SCP-602-3 have not been discovered or recovered, and attempting to remove SCP-602-3 or SCP-602-3 has resulted in immediate lethal force.
+
+When SCP-602-3 is activated, it emits a flash of red light and a high-pitched noise which is broadcast from the mirror attached to the side of SCP-602-3. The flashes produced are defined as being sharper than the outburst and are either static or moving towards stationary objects. During SCP-602-3's initial moments of life, SCP-602-3 will be activated at roughly a distance of 3km from the source of the flash, and will move away from it in a single direction.
+
+As the vehicle moves away, SCP-602-3 will simply move towards the nearest stationary object or object of mass of about 1.7m^2 and move towards it, creating a momentary 2m^2 flash when it is coming nearer to the source of the flash. Both nearest and furthest objects will not move into the flash zone, moving away from the flash zone and disappearing. However, if the vehicle is stopped immediately after the flash is triggered, SCP-602 will activate again and move away from the source of the flash. The flash zone will halt, and the flash zone will begin.
+
+The flash zone will manifest 3 hour after the flash has manifested, and will end in 3 hours.
+
+Addendum:
+
+-InterviewLog602-1
+
+Interviewed: SCP-602
+
+Interviewer: EI-5455-002.
+
+Foreword: Interview was conducted just after initial capture; SCP-602 was in a vehicle stopped on the night of 05/██/2016.
+
+<Begin Log>
+
+Dr. Stephen: Hello. Are you SCP-602?
+
+SCP-602: Yes, I am. Do you want to talk to me?
+
+Dr. Stephen: How did you get into our facility?
+
+SCP-602: To discover this place. It's a private study, but it's impossible not to know there's more to it.
+
+Dr. Stephen: Where did you learn about the place?
+
+SCP-602: It's a private study.
+
+Dr. Stephen: What can you tell me about the place?
+
+SCP-602: I really don't know. It's a good one, I think. I was born in a small town over eighty years ago. I remember being completely alone for my entire life. I am a very selfish person, I don't think that's what I was meant to be.
+
+Dr. Stephen: And why did you leave?
+
+SCP-602: I couldn't help myself.
+
+Dr. Stephen: Excuse me.
+
+SCP-602: I would never want to go back.
+
+Dr. Stephen: I'm sorry to hear that, SCP-602.
+
+SCP-602: This is the only way I can make sense of this place.
+
+Dr. Stephen: SCP-602, please shut up.
+
+SCP-602: I don't like it. You're a selfish idiot for trying.
+
+Dr. Stephen: I'm sorry. Are you aware of this?
+
+SCP-602: For everything. I just want to finish my work.
+
+Dr. Stephen: Or, do you know how to shut up?
+
+SCP-602: If I can do my work, it would be worth it. I

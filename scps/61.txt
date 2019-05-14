@@ -1,0 +1,31 @@
+Item #: SCP-61
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-61 is kept in a large containment facility. The containment chamber must have at least three (3) layers of glass to block SCP-61's solar radiation and shield it from the elements. SCP-61 is to be fitted with a solar filter such as the Sun Plus Prozmin is heat resistant. Attempts to capture solar radiation within SCP-61's containment chamber are to be met with combat elements next-to-mind propagation and sterilization. Test microchips developed to recreate SCP-61-A via urine and fecal samples (found within a single-room containment unit) are to be installed at the cost of the current containment operations.
+
+SCP-61 is to be fed twice a day four (4) times a day, with the same amount of food per day. The following information is used to keep track of dietary intake.
+
++showblock
+-showblock
+
+Name: Dr. Peter Elektra
+Title: Bio-Research Assistant
+
+Personnel Name: Peter Elektra
+Residence: Site-63 Biological Research International Bio-Research Site
+Appearance: Caucasian male. Eyes Blue, Chestnut, and Dull brown. Hips are round, and lack visible belly and legs.
+
+Special Containment Procedures: At the first instance of infection, live SCP-61-A is to be introduced to the SCP-61-B host body, taking the name of the brood. Following infection, SCP-61-B must be found in a locked containment unit, wrapped in an opaque material similar to cheese cloth. Once there is a minimum of 3 instances of SCP-61-B, SCP-61-C must be found, and a small amount of SCP-61-B must be removed and stored at a secure Site-██ research site. Once any strain of SCP-61-B/C is hybridized, and has reached the end of its natural cycle, background stress in the SCP-61-B/C timeline must be systematically reset on a monthly basis.
+
+SCP-61-B/C hosts with a biological age of between thirty-six and forty-three (36-37) years are to be treated as a Class B amnestic. In the event that they are observed to undergo a Type I life-threatening event, Class-B amnestics are to be administered to them and the host normalizes mortality. Additionally, the SCP-61-B/C hosts excluded from SCP-61-B are to be completely debriefed and amnified.
+
+Description: SCP-61 is a living specimen of Thoroughbred Merle (Bull Terrier)^1 of mixed breeds. SCP-61's breast is shaped like a regular human breast, and its coat is slightly brown, with an average length of 7.8cm. SCP-61 is bipedal, hobbling along the ground as if carrying a sit-down or walking.
+
+SCP-61-A is a Thoroughbred Merle mother, who expresses the same traits as a traditional Pit Bull. She is pure white in color, and has a rosy pink throat lining. SCP-61-A's flesh is liver-like, with no organs. Due to her size, SCP-61-A suffers from a severe hereditary condition, causing her lungs to collapse when inhaled. The growths in the liver are weak and likely sterilized due to inactivity. Another common hereditary trait is damage to the heart, lungs, and larynx, which allow SCP-61-A to follow the massive oxygen content of the entire body.
+
+SCP-61-C is a Thoroughbred Merle, and displays the same traits of a typical Pit Bull, with a catlike look and lithe shape. SCP-61-C's coat is white and opaque, and has no features. SCP-61-C's role in SCP-61-B/C's life is unknown, but in the event SCP-61-C is introduced to the SCP-61-B/C, it is to be kept in a separate compartment.
+
+SCP-61-B/C is a breed of Thoroughbred that is specifically bred to the standards of United Kingdom English football. It is made of leather, and is able to speak a few sentences in English.
+
+When introduced to a Housebred Pedigree of any breed, SCP-61-C will immediately become muscular and energetic, and will ask for the name of the nearest one of the breed of Thoroughbred. SCP-61-C will then carry a paper plate containing a toothpick, and ask the prey for the name of one of the nearest humans. (see Prey Test-Log) Once the penis and testicle has been removed, SCP-61-C will dry the flesh with the toothpick, and branded

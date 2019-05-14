@@ -1,0 +1,86 @@
+Item #: SCP-544
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-544 exists in an extended vicinity of New York City, New Jersey. SCP-544 is stored in a standard Safe-class item locker in Site-77. The locker is to be locked at all times and is to be labeled as a memetic cognitohazard. Any entity which fakes personal contact with SCP-544 is to be escorted to the Site-77 infirmary for testing.
+
+Description: SCP-544 is a collection of worn shoes, boots, and other footwear which appear to be missing the belt worn by the typical American male footwear style. To date, SCP-544 instances have not been found in a retail setting or on site.
+
+SCP-544-1 is the only known known instance of SCP-544's collection.+
+
+SCP-544-1 is an unknown number of anomalous items of clothing that manifest in the general area surrounding SCP-544-1. When observed, SCP-544-1 will invariably manifest all of the clothing in its collection in the form of a pair of boots. To date, this manifested footwear has been broken down into two categories: boots and pant, which are visible and generally indicate an outing.
+
+While a pair of boots appears superior to a pair of pant, boots will not display any marks that would lead a wearer to believe that they are complete footwear if worn on a period, however, boots will be designed in such a way as to enable a wearer to perform any function with both feet. The primary function of footwear is to allow a wearer to carry both their foot and their hand over a living area, but shoes are worn to provide increased mobility for a greater degree of freedom.
+
+As with all footwear, only temperature is affecting the temperature of footwear, and it is unclear why not all footwear will be affected.
+
+Each item in SCP-544-1 has been shown to possess a flaw. To date, these flaws have varied in function and properties, and examples of them have been all the same. See
+addendum-1 for an example of a flaw.
+
+Addendum-1: An example of a flaw
+-showblocking
+-hideblock
+
+Kit:
+
+Esteemed, Mr.. Smith. Be advised that this is an absolute cheerful white wooden shoe. Possibly its design is a bit unusual.
+
+Marn:
+
+The climate here is quite harsh and the surroundings are very hostile. At least a few of my fellow workers were knocked unconscious by the waves. I can confidently say that they targeted me just because I don't look like the locals who offered me the shoes.
+
+Tiffany:
+
+The shoes are designed to be worn on a period. You may see this as a potential threat to you, given the prescribed function.
+
+Karen:
+
+The shoes are not designed with foot fatigue. The cause for this is unknown. If the fault is being played out, it could quite easily be the fault of one of the other shoe guardians who has violated the rules.
+
+Tiffany:
+
+The shoes appear to be designed to act as both boots and pant. The purpose of this is not yet known.
+
+Kit:
+
+It does appear that these shoes are malfunctioning. I've seen teens who have worn the shoes wearing clothes made of materials that do not seem to be in use. I am not sure what is going on.
+
+Marn:
+
+I have seen troublesome employees who have worn the shoes. They appear to be running around to keep track of watchful workers, who do not seem to receive commands from bosses. And they seem to want to run around, too, to keep track of each other. Is this a state of affairs?
+
+Kit:
+
+The workers appear to be doing doodling in front of each other. Surely they have thought about the ticking of the clock.
+
+Marn:
+
+The shoes seem to be designed to be worn on a period. I have witnessed instances of it before.
+
+Kit:
+
+It does appear that this shoes are malfunctioning. I have not seen any troubling behavior from any of the walkers.
+
+Marn:
+
+I have seen it myself.
+
+Kit:
+
+When I was with Mr. Smith, all of us wore the shoes on a period.
+
+Marn:
+
+I have not seen of these shoes, and I will not ask for them.
+
+Kit:
+
+I have not.
+
+Karen:
+
+As for the workers who have worn them, well, I think I'd like a camp. I can stay in this town the way I like to stay.
+
+Kit:
+
+I have seen troublesome employees who have worn the shoes at the factories. They appear to be busy with all the orders coming in.

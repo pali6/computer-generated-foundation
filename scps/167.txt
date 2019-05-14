@@ -1,0 +1,76 @@
+Item #: SCP-167
+
+Object Class: Keter
+
+Special Containment Procedures: It is currently believed that this object is similar in nature to SCP-1001 in density and shape. Projekt response agents should monitor communication channels, maintain frequencies above 32Hz and so on.
+
+Description: SCP-167 is a pair of lost radio signals (originally identified as "Acoustic Satellite Satellites") that were recorded by a female voice from the direction of the Western United States in 2009. The unique signal strain of SCP-167 is currently believed to be unrelated to any known sources of retrograde signals.
+
+The object's signature consists of two tones of 0's at 127.3kHz, which represents an individual human voice. Most features of SCP-167 are identical to those of SCP-1001, in that every human are able to listen to both sounds in the same direction simultaneously without perceiving any difference. When sent through SCP-1001, the tones constitute an integral part of the signal that describes the object's orientation within the Earth's orbit.
+
+Although testing has revealed that SCP-167 was not sentient, SCP-167's anomalous effects manifest whatever is sending SCP-1001, which currently is believed to be a single VOX "Wave Verifier" (VV), in which the object acts as a universal transmitter. Can be dispensed directly to any individual within a ~15m radius of the object, resulting in a variable range of speech.
+
+Addendum:
+
+SCP-1601's transceiver signal strength has temporarily been doubled, making it easier to identify and obtain SCP-1601's "VV" code.
+
+Addendum:
+
+SCP-1601's VV is now a VV used by SCP-1601 as a means of communicating directly with SCP-1601.
+
+Addendum:
+
+The collection of VV codes produced by SCP-1601 are now located in the widespread Library at Site-██, complete with the Library's entire collection of lost radio signals. The entire collection now appears to be stored in the Foundation Librarians' Center for Unit Research in B█████ Satellite Communication Center. The total capacity of that facility now appears to be roughly 10,000,000V, with likely applications stretching beyond Foundation use.
+
+Addendum 1: Did Scott Ship in from the PR Office?
+
+VV code has been resurrected several times, most recently caused a few incidents on 13/6/2012. The same VV codes were used in a number of other public-access satellite-based technology programs at their respective sites, as well as Incident 1602-A, where all communications satellite systems within a 15km radius were damaged by unknown forces.
+
+Addendum 2: Graphic Plan for Site-██
+
+Notably, the Site-██ B█████ satellite center is currently under construction, with The ███████ Area and Site-██ B█████ Space Center as the major components of the new site.
+
+The full catalog of VV codes is available below:
+
+Headers:
+UpdatePrint
+additionals
+diary
+withme
+AttachmentID:SCP-1601-role
+Scheduler:David L████
+access:CommandPDF
+Sightings-Per-Year: (20)
+SJOCductile:2012-01-24
+Column:1
+Line:1
+It's the end of the world, and all that's left of the Foundation (or so we think.) is darkness and mindless screaming. It is all but certain that SCP-1601 is gone. And this is the culmination of a Searching which may be the last of any kind of information we have.
+
+We still have time.
+
+Extract:
+
+YOUR SIEGE.
+I stick to the wall.
+
+I see the sea of stars.
+It is pitch black, and they are all sparkling blue.
+I have seen the worlds without sails.
+And these things are a dark gray colour,
+For the only co-operation I will ever have in this world.
+It is a world of infinite creatures, and infinite things.
+I think of kami, and what they could mean.
+I think of the waves and waves of the seas.
+And all that I can do but think of fear.
+These things are not like us, and every time they show me,
+I feel the way they go through the universe.
+Isolation is not the best thing for me.
+But what do you think?
+
+I will keep the world safe,
+To be safe with me here.
+
+YOUR SIEGE.
+
+Footnotes
+1. A common explanation for SCP-1601's anomalous properties is that cultural evolution in West Europe, excluding the Russian Federation, has been in the process of eliminating the use of the

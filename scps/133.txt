@@ -1,0 +1,15 @@
+Item #: SCP-133
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-133 is to be kept at maximum security Level-5 level anomaly containment chamber under low-level containment procedures. Entry into SCP-133's containment chamber is to be limited to approved personnel and approved criteria. SCP-133 is not to be allowed access to any anomaly image or document file. SCP-133 is to be recorded and monitored continuously. Any instances of SCP-133 that have been discovered are to be wiped from existence before being eliminated.
+
+Description: SCP-133 is an image file containing approximately 300,000 images and document files from the Foundation database and retained by the US Department of Defense. SCP-133 is 1.6 megabytes in size, and lists all images associated with the subject.
+
+SCP-133 is automatically updated only upon library structure changes, and requires no user intervention to update. As of 8/25/2008, SCP-133 has been contained at the highest possible security level and containment efforts are ongoing.
+
+SCP-133 was first discovered following a June 2, 2004 raid on a warehouse in ████████, ████████. Quotes recovered from the report describing the raid include:
+
+ SCP-132 | SCP-133 | SCP-134 
+
+akarma cognitohazard euclid _image scp visual

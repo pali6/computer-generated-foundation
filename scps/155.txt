@@ -1,0 +1,31 @@
+Item #: SCP-155
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-155 is to be kept in a locked █████ Safe. Foundation personnel are to monitor the object for incidents related to its anomalous properties, in addition to more standard procedures for the containment of relics. Applied Research Status: Blue
+
+Description: SCP-155 is a strand of reddish black silk spun from the cotton of the native African yam. Its anomalous effects manifest in its anomalous properties in its relationship with the yam.
+
+As opposed to most yam, SCP-155 is the most anomalous yam in humans' awareness, though of the people who've had contact with it, the most common explanation for this is that their memory of it is a good enough indicator of its anomalous properties. In both instances, though it can sometimes be affected by them, SCP-155's anomalous effect on the memory of it is probably a more reliable indicator.
+
+The anomalous properties of SCP-155 were noticed by a researcher working at a lower level of the Foundation, after it manifested, prompting his immediate assessment of SCP-155 as a suspect in an SCP-145 incident. It was, as far as he could tell, unaffected (though the nature of the anomalous properties seemed to suggest that it may be the cause of the incident). The risk of exposure to SCP-155's anomalous properties was considered high, and exposed it to the usual containment procedures.
+
+Early treatment was successful. Within a month, SCP-155 began to display symptoms, most commonly, paranoia, depression, and shock. Over the next three months a series of psychics was applied to SCP-155, with all the usual prophylactic measures in place, and by the time containment was completed SCP-155 tolerated them, with little to no negative noticeable effect. While SCP-155 was observed to be depressed, it never presented any form of suicidal ideation and, at the time, was diagnosed with mild anxiety.
+
+Agent Dr. █████ was called in to check up on SCP-155. Despite previous events in which SCP-145 had been prevented from accessing SCP-155, the subject claimed that SCP-155 was a welcome distraction, and that he was suffering from acute anxiety. The subject was treated with a class C amnestics. When questioned, SCP-155 insisted on accepting the treatment, although it was at the time not in a very good state. SCP-155 was eventually released, due to the anomalous nature of the treatment and the fact that SCP-155 did not typically display suicidal ideation. The subject claimed that SCP-155's treatment had made him feel better, though only just.
+
+After continued counselling and additional psychological tests, SCP-155 was moved to Site-██ for study in the SCP Foundation's large psychiatric centre. SCP-155 was placed under the supervision of Dr. █████ and later diagnosed with mild post-traumatic stress disorder.
+
+Addendum 15-1: Following Incident 15-1, SCP-155 was also moved to Site-██ to study the anomalous effects of the SCP-155. Despite this, Dr. █████ reported that SCP-155's anomalous property was not as severe as had been previously suspected.
+
+Addendum 15-2: On ██/██/20██, an anomalous golem (formerly SCP-155's hands) was discovered in the secluded SCP-155's bathroom. It took the effective bidding of O5-██ to counteract the anomalous properties.
+
+Addendum 15-3: On ██/██/20██, Dr. █████'s son accidentally suffocated following an accident involving an instance of SCP-155. A replica of the subject was retrieved of the body of Dr. █████'s son and placed in containment for testing.
+
+Footnotes
+1. The most recent instances of SCP-155 are currently kept at Site-██.
+2. Largely avoidable
+3. Distance traveled in a journey's time
+4. Most of the instances of SCP-155 are constructed of a thin bronze alloy
+5. The area of SCP-155's containment tests are located on the ground.
+alive _cc euclid fall-enclosure humanoid portal scp temporal

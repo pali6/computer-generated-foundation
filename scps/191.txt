@@ -1,0 +1,71 @@
+Item #: SCP-191
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-191 is stored in a safe deposit vault in Site-███. It is to be transported to its containment unit, and must be delivered by D-class personnel under supervision.
+
+Description: SCP-191 is a 1.5-metrelopter helicopter, found on the ground outside Site-███. Its anomalous properties appear to be limited to the appearance of large pieces of bird-shaped rock flying inside of it. The entire shape can be seen through the canopy.
+
+The file with SCP-191's anomalous properties has been found to be the following:
+
+FolderID
+
+Investigation shows that SCP-191 was mostly brought to the United States from rural areas of Ministya Swishka (Jansk Region) during the early 1900s. The original location is not known. Foundation records indicate that SCP-191 was constructed in around 18██, and flown as an advanced field reconnaissance drone. It was never deployed outside of Site-███.
+
+SCP-191 has been equipped with a unique antenna that allows it to transmit with radiotelescope-equipped transmitters. This device largely uncovers the location of SCP-191's transmitter, which acts as a point of contact with the ground.
+
+Given the size of SCP-191, it is possible that the transmitter was rigged with transceiver equipment once before.
+
+Exploration of the transmitter has revealed measurements of 4 centimeters in diameter, matched to the "thickness" of SCP-191's canopy. This device allows SCP-191 to transmit with radiotelescopes.
+
+SCP-191's limit of motion is 5.8 meters, which allows it to transmit with a frequency of 1712hz.
+
+The object was acquired by a Foundation informant who lowered SCP-191's wing before the event of Incident 191-1 - On the Wings of Blue. Foundation records indicate that the object's wings used to carry it were modified by SCP-191 during and after Incident 191-1.
+
+SCP-191-1 Success Bias
+
+SCP-191-1 was stored in a sealed container inside an anomalous notepad. The object was placed on a hook and attached to a cable.
+
+After SCP-191-1 was lowered, only debris was found within its hold. The object's damage was repaired using standard materials. However, when Foundation agents saw the object's parts inside SCP-191-1, they discovered that the object is constructed in the same way as SCP-191 itself.
+
+SCP-191-1 is the center of an enormous unexplained facility known as Site-███.
+
+SCP-191-1 was constructed under O5-█ directives, in a secret site tucked into mountains in the Russian Far East. The site was gradually dismantled, Foundation personnel infiltrated the site, and it eventually collapsed following O5-█'s death in 1976.
+
+Adequate maintenance of SCP-191 was maintained at Site-███ until the construction of Site-███, and the Foundation continued to hold covert SCP-191 in situ until its neutralization and eventual discovery.
+
++AccessFile
+-Closefile
+
+The following document was declassified by O5-17 in 1981. The document was recovered by Foundation recovery teams from the SCP-191 containment facility.
+
+CURRENT CONTRACT
+NAME: "POI-01720"
+
+FOUNDATION CORRESPONDENCE
+
+JANOJAN DEPARTMENT
+
+ELEMENT SITE-███ 
+
+Description: POI-01720 (POI-01720-1)
+
+FOUNDATION PROJECT
+
+RECORDS
+
+Document ID: SCP-191/04/062
+
+_____
+
+DATA INCIDENT SUMMARY:
+
+POI-01720-1's Foundation contacts informed O5-1011 ("Johan" in the document) that POI-01720-1 was able to communicate with and control atmospheric modularity and orbital mechanics via electronic methods. POI-01720-1 requested the use of SCP-191. POI-01720-1 is deemed to be an SCP-191 model containment breach.
+
+AND/AND-AND: POI-01720-1 was initially determined to be SCP-191-1. POI-01720-1 was initially identified as the "FOI" used by POI-01720-1.
+
+ZANGOPRESK: POI-01720-1 was selected to be a containment breach avoidance device due to its radio-controlled origin and current physical properties.
+
+DOCTIPLAYER: POI-01720-1 was transferred to orbit.
+
+POI-01720-1's anomalous properties manifest when any organic material or object

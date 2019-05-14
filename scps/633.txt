@@ -1,0 +1,42 @@
+Item #: SCP-633
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-633 is to be contained in a low-consequence containment cell at Site ██. Mobile Task Force γ-33 "Aces In The Hole" has been ordered to contain SCP-633. As the Foundation has the most examples of properly-constructed SCP-633 instances within Foundation custody, containment of SCP-633 is not expected to pose any risk to containment.
+
+SCP-633 should be shipped via regular mail or courier on a flat-pack, and should be in a lockbox from which it is to be replaced at all times. In the event of malfunction, an authorized member of Site ██'s IT team with Level 3 clearance must be placed within 10 meters of SCP-633's containment and sealed until it can be returned to its current position.
+
+Description: SCP-633 is a security system installed within a single-room motel in ██████████, ██ in ████ ██. SCP-633 was installed with the aim of minimizing the chance of the system becoming operational. In its current weak state, SCP-633 possesses the capacity to change its alert behavior and was primarily used to locate inhabited rooms.
+
+The property where SCP-633 was installed is the only known location of SCP-633 to actually function. The undiscovered casing of SCP-633 is completely resupplied by the current owner in four hundred and fifty days.
+
+SCP-633 was presented with the following scenarios:
+
+•One guest can enter the room without being identified, leaving the room undetected.
+•One guest's presence is detected and enters the room without being recognized.
+•One guest leaves the room unnoticed.
+•Three guests are in and out of the room, holding onto the door, or are otherwise locked into a course.
+•One guest is in the room.
+•All spirits are at the window.
+•One guest is in.
+•All spirits are missing.
+•No ghost remains in the room.
+•Due to the magni-polar nature of the room, and the possible existence of SCP-633 in a spare room, the building has been designated Site ██'s Maximum Security
+
+The three scenarios have been proven to be plausible. From zero, causality has been established.
+
+Addendum 633-a: SCP-633 was initially transported to Site ██ on ██/██/████, with the intention of containing it. On ██/██/████, the system began performing its anomalous function.
+
+Addendum 633-b: On ██/██/████, SCP-633 was dedicated as its own containment area. When SCP-633 was discovered on ██/██/████, Staff Sergeant ████ is listed as the last known user of SCP-633, as the last name was the same as the one he had in the hotel's name before he was removed from the system.
+
+Footnotes
+1. Anywhere from four to eight hours is usually enough to trigger SCP-633's anomalous effect.
+2. This is because SCP-633 was anchored to the floor, and the floor, walls, and ceiling were unstable enough that it was tied to the ground and could be walked on.
+3. The description of certain properties of SCP-633, such as the complete absence of daylight, the lack of any open space on the ceiling, the absence of a light source, and the presence of an air gap between the floor and the ceiling, was mentioned in several Foundation anomalies.
+4. The visibility was restricted to five meters and the floor was 1 meter above the floor.
+5. In the event of SCP-633 near a guest pool, SCP-633 is likely to be placed as approximately the reverse position to the one on floors above it.
+6. In a rare case, there was no ghost in the room at all. The reason for this appears to be a coincidence, and it is not believed that the ghost remained alive.
+
+ SCP-632 | SCP-633 | SCP-634 
+
+automaton energy-efficient _cc ectoentropic euclid _image media scp

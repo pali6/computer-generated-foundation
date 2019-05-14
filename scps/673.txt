@@ -1,0 +1,49 @@
+Item #: SCP-673
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-673 is currently held at Site-73, guarded by Dr. Grant and engaged in Study Group K-10 "Biological Containment". SCP-673 is to be dosed with a daily dose of one-point-for-one-fifty-four-seconds oxygen-based anesthetic every six minutes. The Foundation is also to maintain a low profile in sampling of SCP-673.
+
+Description: SCP-673 is a small can in solid, opaque gas. It is only capable of emitting a dull red-orange sound^1 caused by its amplification of ambient sound. With the exception of SCP-673 itself, any sound produced by SCP-673 is negative. This is presumed to be due to SCP-673's much lower energy density, allowing for a low-level resonance to be set up for a unique sound, as well as the small sound to depolarize sensitive inner ear. As the sound has an incredibly low energy density, it is likely that any microphone placed near the can produces a low-ended sound when the sound is increased, so long as the sound doesn't immediately cease.
+
+SCP-673 has not historically formed a critical mass, but tends to auto-activate when it is filled to capacity. At this point, it is possible to manually replace the rubber rings, thus proceeding to deactivate it. Since its initial detection, ZK-Class Events have only occurred when SCP-673 is filled to capacity, and there are also no confirmed exceptions to the standard transcription of the event.
+
+When a human listens to SCP-673 for an extended period of time, he or she will begin to hear an ambient melody. The melody begins with a low, monophonic note, and rapidly rises in pitch. SCP-673's resonance qualities are very low; however, its rapid tempo and falseness puts on a fine performance when it is played through speakers. To hear the melody again, the listener must listen for a year, and then deactivate it. Otherwise, the melody will be lost.
+
+The melody was translated into English words and phrases in [REDACTED], the textbook on musical notation, that describes the melody. The text notes, "Memory is a cheap habit, and one of the few things that I still feel in a sense".
+
+Monophonic musical notation allows for the reader to write a musical piece while listening to SCP-673. The performance can be considered a musical in sound and duration, and the guitarist can write an entire masterpiece after just five minutes. However, due to the low energy density of SCP-673, it is likely that many of the pieces written do not complete their performance.
+
+It is unknown how the melody got written. Though the story behind the "memories" is consistent between all music written about it, changes to the lyrics have no effect on the performance. Thus, it is possible that SCP-673's "memory" is based on a myth, or fiction.
+
+Addendum: As SCP-673 has been in Foundation custody since 1963, there should be no suspicion of it being what it seems to be. However, it is now clear that there is no truth to the story of SCP-673, and any efforts to use the melody to induce adverse behavior should be considered a full containment breach.
+
+Addendum-1: The following is the first report of Reverend ██████ ███, the owner of SCP-673, and the person most closely associated with the band during its heyday.
+
+Register of Deeds of the Reverend ██████ ███on ██████, 1882-1941
+
+Registered Date September 10, 1881
+
+Residence New Sacramento
+
+Place and Time of Birth October 1, 1880
+
+Occupation Psychic, medium, mystic, teacher, conductor.
+
+Residence and Lifestyle Precisely 12300 square feet of the highest level home the Reverend ███████ has ever lived in, situated in a style six story building situated on a hillside more than 50 miles from any major population centers.
+
+Local-Area Aggregated Area of Interest Sacramento-████████
+
+Personnel Conducted Log Log-SCP-673-1
+
+Name: Reverend █████ ███.
+
+Security Clearance Level 3
+
+Personnel: Butte Avenue Cop and two telephone numbers.
+
+History: Reverend █████ ███ was born October 1, 1881 in a time when the New Sacramento neighborhood was alive and booming.
+
+As a teenager, he used to travel regularly from place to place in the neighborhood, buying and selling various items and creating illusions that were replicated by several other unwitting buyers. He's been very successful, but his base of operations has become very diminished, so no one would be surprised to learn he was born and raised right in the center of the topsy-turvy city.
+
+When

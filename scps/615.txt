@@ -1,0 +1,48 @@
+Item #: SCP-615
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-615 is to be kept in normal storage in a secure room with no access to the outside world. All known personnel are to only be allowed to interact with SCP-615 in its anomalous state, which must be observed every week.
+
+SCP-615 is to be kept in place at all times, with no visible source of power or mechanical parts. Its containment must be passed off as anomalous, and all personnel interacting with the object must wear gloves or undergarments.
+
+Questions Committed By Anomalous Minds Are To Be Resolved If Containment Is Triggered, In Incident Mode.
+
+Any question asked about the object is to be asked directly to the researcher, with the link to a document attached to the inquiry. Questions are to be asked by an independent third party.
+
+Description: SCP-615 is a bronze sculpture of a humanoid figure, standing approximately eight (8) meters tall. The surface of the statue is lined with graphite, and the figure is carved out of bronze. Its feet are created of polished bronze, with a crudely-drawn depiction of a human foot on the left side, a horse's foot on the right side, and numerous models of figures representing various types of arms and armor.
+
+When SCP-615 is moved, a significant amount of metal (approximately 3cm2) in the form of a reflector, which has been shown to cause a perceived 0.6% drop in SCP-615's anomalous state, will make contact with the surface of the statue, causing a net 'scattering' effect. This is not material, as it is not 'attached' to the sculpture.
+
+The sculpture appears to move randomly, but pieces of it can be moved independently if the sculpture is out of the range of control. The sculpture is essentially able to move at a distance of 80m or more up into the atmosphere, or down under the ice sheet of the Niagara Falls in the northern states. SCP-615 moves at approx to 0.35x10^5c. The amount of energy consumed by the sculpture can be explained by assuming that:
+
+•The sculpture moves at a rate of 0.35x10c per minute for two minutes.
+•The sculpture moves at the same rate of 0.035x10c per minute for one minute.
+•The sculpture moves at this rate when it is moving slightly more than 1m, with a subsequent 0.3m/s acceleration in speed.
+•The sculpture moves at 0.3m/s when it is moving a full 70m away from the ground. A completely solid solid surface is reason for containment, and lowering SCP-615 from 30m at the surface to a 10m radius has been shown to reduce the risk of its triggering an SCP-615-II event.
+•If SCP-615 is lowered to another 15m away from the ground, then the weight of the sculpture will shift, until the reversal of direction occurs.
+•As the sculpture moves itself into position, a massive part of the spherical area will be displaced downwards. The remainder of the sculpture will be drawn in a circle around the sculpture and then this conti­tri­gonal area will be rotated, becoming con­spiral with the curve of the sculpture.
+
+SCP-615's anomalous effects continue regardless of any injuries or damages it has suffered, and have been shown to occur regardless of what happened to the sculpture in the situation, including being thrown onto a shelf by a falling object. The following can be inferred from observations made:
+
+•In the event that the sculpture is damaged and the control point is down, the air of the sculpture will begin to 'heat' up, causing the earth to shift into a liquid and shimmering surface.
+•If the control point is moved in the direction of the sculpture, the sculpture will be pulled into the centre of a rotating, shifting area.
+
+Following the effects of this change, SCP-615 is safe to run into in any direction. Should the control point be located at the center of the sculpture, any disturbance of the sculpture is to be considered an SCP-615-II event.
+
+Addenda:
+
+Test Log-SCP-615-1
+Show
+Hide
+
+Test #: 514-001
+Subject: Materials
+Description: A steel plate was constructed upon a scale, and held in place by adhesive strainer.
+Results: The object moved towards the controls.
+Notes: The effect was sustained after approximately 60 minutes.
+Results: An immense amount of molten metal was produced during the containment breach.
+Notes: Even though it was not within SCP-615, it was taken out of the containment.
+
+Results: Failing to capture the sculpture falls in an SCP-615-II event.
+Notes: This is an extremely high number

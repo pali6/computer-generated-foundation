@@ -1,0 +1,77 @@
+Item #: SCP-725
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-725 is contained in a low-visibility room in Site-35. Access to this room is prohibited to researchers with Level 3 clearance or lower.
+
+Any personnel entering the room must wear a head-mounted locator beacon equipped with an IR sensor to detect SCP-725. Failure to activate the locator beacon while inside SCP-725's containment chamber will result in the device becoming inert.
+
+Description: SCP-725 appears to be a standard 3.8-litre, sealed-box, 5-centimetre-thick polypropylene amorphous material. Chemical analysis has revealed that SCP-725 is vaporized555 times per minute, or ███ times per hour, approximately ██% of the time it is placed in a sealed box.
+
+The effect of SCP-725's anomalous properties occurs when it is placed in a sealed box and started to move. It cannot move while inside a sealed box and appears to occupy space within, in some cases, the entire molecular space of the box interior.
+
+SCP-725 will move away from a stopped motion camera once placed, and for some reason will start moving forward when it stops moving. It is determined that the movement is caused by rotation of the object into position and away from the camera.
+
+SCP-725 now talks to itself. It does not communicate, and the only programming performed by it is the reverse-engineered VCA and modulated consonants. In most cases, this programming is indistinguishable from video-game announcer or voice over the microphone while writing on text with piano keys.
+
+The vca is capable of picking up the pace of SCP-725 and causing its movements to stop, usually at the exact moment of its inability to move. Sends a series of letters, each repeating their word randomly and in a confusing manner, leading to the message "WE ARE NOT SAFE." The letters, each bearing identical overlapping numerals, appear to have no other effect, and will be repeated after repeated writing attempts by the device. The lack of a sound effect at this point is determined by the device, who considers the letters immaterial.
+
+It is believed that the vca does not use prewritten messaging. Communication is possible by typing them in the program.
+
+Document #: SCP-725-TRANSCRIPT
+
+SCP-725-TRANSCRIPT
+
+Date: 25/10/19
+
+Subject: Interview log
+
+Executive Summary: The following interview was recorded on 25/10/19, two days after retrieval of SCP-725. The interview was conducted in a quiet, dark room, illuminated only by a light-activated webcam in front of a single-bubble-lit ceiling. SCP-725 is seated in a standard size desk chair.
+
+[BEGIN LOG]
+
+pan.jpg
+
+SCP-725.
+
+Interviewer: Dr. Khaleda
+
+[INTERVIEW]
+
+Dr. Khaleda: I am Dr. Khaleda.
+
+SCP-725: Have you seen me like this before? This is my second interview.
+
+Dr. Khaleda: I am Dr. Khaleda.
+
+SCP-725: [shouting] Yes, you have. Does this bother you?
+
+Dr. Khaleda: It is not my intention to hinder the Foundation's research on the object, but to be able to give my full cooperation as a researcher and researcher.
+
+SCP-725: My name is what I was, an ordinary man with the most extensive information and contacts who died of a disease caused by my work.
+
+Dr. Khaleda: Was there anyone that you would like to speak to?
+
+SCP-725: Ah, there were some brilliant minds in the Foundation, and there were some who did a great deal, but as with this object, personal contacts are usually overrated.
+
+Dr. Khaleda: If you can get help, any chance of that would be appreciated.
+
+SCP-725: You give too much to the subject.
+
+Dr. Khaleda: Yes, because we are not here to find out what is happening.
+
+Dr. Khaleda: I hope that you are still alive.
+
+SCP-725: I am so sorry, I am so very sorry.
+
+Dr. Khaleda: I am sorry, I am so sorry.
+
+SCP-725: Not sorry. No, not sorry.
+
+Dr. Khaleda: I am sorry.
+
+SCP-725: I am sorry. I can not say my name
+
+Dr. Khaleda: Do you feel like we have to tell you?
+
+SCP-725: Yes. Yes, I do. This is a very unpleasant truth that needs to be told

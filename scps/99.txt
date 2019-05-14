@@ -1,0 +1,10 @@
+Item #: SCP-99
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-99 is to be kept in a secure storage vault in Site-19. All testing with SCP-99 is to be conducted in special containment chambers. In the event that SCP-99 is removed from containment, the automated system "Protect" will be triggered, and containment measures will be enacted to prevent its escape.
+
+Description: SCP-99 is a multi-purpose magnetic hexagon, measuring 1.2cm in diameter, that can be inserted into any suitable material. It is able to be placed in any suitable material, which will cause it to dissolve whatever materials are placed within its field of view. This behavior is unique amongst all hexagons, as it manifests without warning, leading to confusion, and sometimes physical and spatial distortion.
+In addition, SCP-99 will also "teleport" to the locations where SCP-99 is visible to all observers. This phenomenon will continue for 64 seconds until SCP-99 is removed, at which point the effect will end.
+
+Teleportation occurs when SCP-99 is placed beneath any surface within its field of view. Its effect can be activated only by touching the surface of the hexagon.

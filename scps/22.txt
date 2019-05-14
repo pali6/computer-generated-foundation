@@ -1,0 +1,64 @@
+Item #: SCP-22
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-22 is to be contained in a high-security cell at Site-19. Access to SCP-22 is strictly forbidden to Foundation personnel, and requires the prior approval of at least three Level 5 personnel. Any personnel attempting to access SCP-22 are to be escorted to the door of the containment room and given Class-B Amnestics.
+
+Description: SCP-22 is a 6-inch paper folded eraser with a black stain from which it is identifiable as a red marker. Since its initial containment, it has been able to be removed for examination.
+
+SCP-22 is capable of immediate removal of data on non-anomalous items and objects, and direct physical removal by any materials. It is a blackened eraser and the color of the pencil indicates traces of damage, but is otherwise intact. Data removed is not affected or changed in any way, including the fact that the contents of the erased object's display tray were not in such a way.
+
+The dismay of the Foundation staff who found SCP-22 on the floor of their containment cell is considerable. It should not be removed, nor should anyone else who has already retrieved data on this crucial item.
+
+Experimental Specification: A test is to be conducted to determine the causes of the eraser's anomalous effects. The test is to consist of three stages.
+
+Stage 1: General examination of objects
+
+Subject: D-363760, a Foundation research assistant for ██.██, a Foundation lab specializing in anomalous objects, oracles, and other similar objects.
+
+D-363760 is to wear a Foundation Explorer's Explorer jacket and watch the entire experiment from the tested area. The examination room is to be provided with a metal tray containing a standard standard Foundation Explorer jacket and a standard Foundation Explorer watch.
+
+Stage 2: Declassification to Euclid
+
+Subject: D-3660 wearing a standard Foundation Explorer jacket.
+
+The following items are in the test chamber in the designated test area. Please note that no Foundation artifacts are for examination.
+
+SCP-2561:
+
+•Three standard copies of Eye-Witness File XXX (ORTNLEX/VILLEIC/LTE-1974-2561). SCP-2561 is the only known copy of this file.
+•Two standard copies of Eye-Witness File XXX (ORTNLEX/VILLEX/LTE-1974-2561)
+•One standard copy of Eye-Witness File XXX (ORTNLEX/VILLEX/LTE-1974-2561)
+
+SCP-2661:
+
+•One standard copy of Eye-Witness File XXX (ORTNLEX/VILLEX/LTE-1974-2561)
+•One standard copy of Eye-Witness File XXX (ORTNLEX/VILLEX/LTE-1974-2561)
+
+SCP-2461:
+
+•Two standard copies of Eye-Witness File XXX (ORTNLEX/VILLEX/LTE-1974-2561)
+•One standard copy of Eye-Witness File XXX (ORTNLEX/VILLEX/LTE-1974-2561)
+
+SCP-2261:
+
+•One standard copy of Eye-Witness File XXI (ORTNLEX/VILLEX/LTE-1974-2561)
+•One standard copy of Eye-Witness File XXI (ORTNLEX/VILLEX/LTE-1974-2561)
+
+SCP-3761:
+
+•One standard copy of Eye-Witness File XXIII (ORTNLEX/VILLEX/LTE-1974-2561)
+•One standard copy of Eye-Witness File XXIII (ORTNLEX/VILLEX/LTE-1974-2561)
+
+SCP-2265:
+
+•Two standard copies of Eye-Witness File XXV (ORTNLEX/VILLEX/LTE-1974-2561)
+•One standard copy of Eye-Witness File XXVI (ORTNLEX/VILLEX/LTE-1974-2561)
+•One standard copy of Eye-Witness File XXVII (ORTNLEX/VILLEX/LTE-1974-2561)
+
+SCP-22666:
+
+•Three standard copies of Eye-Witness File XXV (ORTNLEX/VILLEx/LTE-1974-2561)
+•One standard copy of Eye-Witness File XXVI (ORTNLEX/VILLEx/LTE-1974-2561)
+
+██/22/1998-██/██/████:

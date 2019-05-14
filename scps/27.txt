@@ -1,0 +1,69 @@
+Item #: SCP-27
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-27 is to be archived and decrypted at Site 32. SCP-27's location is to be kept in a secure area at Site-32, with all accessible knowledge and information being covertly withheld from the public until a permanent plan is completed.
+
+Description: SCP-27 appears to be a collection of nucleotides, nucleotides^1 of various natural materials. It is currently unknown how the nucleotides are aligned and, if they are, how the organism's DNA is shifted into the nucleotides it contains.
+
+SCP-27 is able to express the nucleotides from its genome into nucleotides from nucleotides from material. This is detectable through the sequence and location of nucleotides, which are animatogenic, and associated with mutations in the DNA strand of the organism.
+
++ShowSCP-27DNAforfunction
+-hide
+
+A sample of the nucleotides sent to Site-32 are shown below.
+
+•01:1 portion of nucleotides from SCP-27
+•01:2 portion of nucleotides from SCP-27
+•01:3 portion of nucleotides from SCP-27
+•01:4 portion of nucleotides from SCP-27
+•01:5 portion of nucleotides sent to Site-32
+•01:6 portion of nucleotides sent to Site-32
+•01:7 portion of nucleotides sent to Site-32
+•01:8 portion of nucleotides sent to Site-32
+•01:9 portion of nucleotides sent to Site-32
+•01:10 portion of nucleotides sent to Site-32
+•01:11 portion of nucleotides sent to Site-32
+•01:12 portion of nucleotides sent to Site-32
+•01:13 portion of nucleotides sent to Site-32
+•01:14 portion of nucleotides sent to Site-32
+•01:15 portion of nucleotides sent to Site-32
+•01:16 portion of nucleotides sent to Site-32
+•01:17 portion of nucleotides sent to Site-32
+•01:18 portion of nucleotides sent to Site-32
+•01:19 portion of nucleotides sent to Site-32
+•01:20 portion of nucleotides sent to Site-32
+•01:21 portion of nucleotides sent to Site-32
+•01:23 portion of nucleotides sent to Site-32
+•01:24 portion of nucleotides sent to Site-32
+•01:27 portion of nucleotides sent to Site-32
+•01:28 portion of nucleotides sent to Site-32
+•01:29 portion of nucleotides sent to Site-32
+•01:30 portion of nucleotides sent to Site-32
+•01:31 portion of nucleotides sent to Site-32
+•01:32 portion of nucleotides sent to Site-32
+•01:33 portion of nucleotides sent to Site-32
+•01:34 portion of nucleotides sent to Site-32
+•01:35 portion of nucleotides sent to Site-32
+•01:36 portion of nucleotides sent to Site-32
+•01:37 portion of nucleotides sent to Site-32
+•01:38 portion of nucleotides sent to Site-32
+•01:39 portion of nucleotides sent to Site-32
+•01:40 portion of nucleotides sent to Site-32
+•01:42 portion of nucleotides sent to Site-32
+•01:43 portion of nucleotides sent to Site-32
+•01:44 portion of nucleotides sent to Site-32
+•01:46 portion of nucleotides sent to Site-32
+•01:48 portion of nucleotides sent to Site-32
+•01:50 portion of nucleotides sent to Site-32
+•01:52 portion of nucleotides sent to Site-32
+•01:54 portion of nucleotides sent to Site-32
+•01:55 portion of nucleotides sent to Site-32
+•01:56 portion of nucleotides sent to Site-32
+•01:58 portion of nucleotides sent to Site-32
+•01:59 portion of nucleotides sent to Site-32
+•02:00 portion of nucleotides sent to Site-32
+•02:01 portion of nucleotides sent to Site-32
+•02:02 portion of nucleotides sent to Site-32
+•02:06 portion of nucleotides sent to Site-32
+•02:07 portion of nucle

@@ -1,0 +1,19 @@
+Item #: SCP-493
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-493 is stored in a standard Safe-level containment locker at Site-32. Access to the object is limited to personnel with Level 2/493 clearance. Testing performed on the object is prohibited without approval by D-classes.
+
+Description: SCP-493 is a small ceramic globe constructed solely of silver, depicting a large 3m x 3m. The object is neither altered nor evacuated. Any person interacting with the object during its lifetime, and therefore able to interact with SCP-493, will experience an anesthetic induced event. This event will be similar to ethanol withdrawal due to the unknown solvent. There is no known method of reversing this effect.
+
+SCP-493 was originally found at the ██████████ ██ Industrial Site in ██████, ██████. When the assessment of the site was renewed, SCP-493 was immediately taken with SCP-003. As of ██/██/2002, SCP-493 and SCP-003 are to be kept in the facility's locker at all times.
+
+Upon entering the locker, a humanoid male body (SCP-493-1) will manifest within approximately 2m of SCP-493. The body of SCP-493-1 is designed for life extension and use in agricultural purposes. SCP-493-1 has been observed to require approximately 115kg of food daily. In the past, SCP-493-1 has been observed to consume the same amount of food it is consuming.
+
+Within 30 minutes, body of SCP-493-1 will emit a loud "bouquet" and provide nutritional aid to the body of SCP-493-1. Some of SCP-493-1 will extend into the chest, upper abdomen, liver and spine. SCP-493-1 appears to provide high levels of [REDACTED]. Based on the caloric intake and duration of ingestion, SCP-493-1 is the most likely source of the AIC event.
+
+Although SCP-493-1 is non-anomalous, they will only present an anomalous effect if [REDACTED] consumed. Body consumes the [REDACTED] within 5 minutes of being activated. No subject within 3 days of exposure to SCP-493-1 has reported the symptoms of the AIC event.
+
+The toy maker that made SCP-493 was considered liable for the anomalous event, but no charges were filed.
+
+derivative-exile tale

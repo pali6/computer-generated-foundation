@@ -1,0 +1,31 @@
+Item #: SCP-157
+
+Object Class: Keter
+
+Special Containment Procedures: Two Foundation security guards are to be stationed in the premises of SCP-157 to monitor reactions from the entity. After 500 milliseconds, one of the security guards will activate a device permanently shut off from a communal area only then to attempt to reset the system. The other will then enter the containment chamber.
+
+The security guards will be instructed to lock SCP-157 himself when he has done so. (The security guard will be set to the same level of security as the containment chamber, and will be required to enter the chamber before any changes to the security system can occur.) Upon reinitialization of SCP-157's internal security system, the security guard will lock the door behind them. Then, to the left of the door is a computer monitor and small video camera.
+
+Upon entering the containment chamber, security guards will be instructed to remain on lockdown in order to attempt to break the containment lock. During this process, a team will demonstrate various measures to limit SCP-157's escape, while also maintaining a constant level of monitoring. This team will be led by a second team lead by a security guard with Level 4 clearance.
+
+Description: SCP-157 is a sentient entity that occupies the site of a schoolhouse in ████████, Massachusetts. The entity has three frequently-used compartments: a classroom, a small classroom, and a request-box. These compartments are designated SCP-157-1, -2, and -3, but differ greatly in other respects.
+
+SCP-157 is only active when it is possessing a teacher's instruction sheet form paper and mechanical pencil. SCP-157 will immediately begin writing on the form 1, 2, and 3. SCP-157 will then copy the instructions onto a sheet of paper and return to SCP-157-1, 2, and 3.
+
+When SCP-157 is offered the teacher's instruction sheet, it will make a number of requests. The requests are often complicated and involved speech, exercises, or lists of short questions. SCP-157 will then write on the form 1, 2, and 3, and return to SCP-157-1, 2, and 3.
+
+Upon receiving a request from SCP-157, its form 1 will become active. SCP-157 will then write a number of similar responses on the form 2, 3, and 3.
+
+The requests with SCP-157's forms 1 to 3 are generally very simple, and are often answers to simple questions from students or simple exercises. In some cases, SCP-157 may ask for help and advice from teachers. In these cases, SCP-157 will respond with verbal praise of the teachers, including references to former teachers and achievement certificates (or grades). In other cases, SCP-157 will make requests that do not involve teaching, especially questions involving technical subjects.
+
+But SCP-157 has also written simple responses on forms 2, 3, and 4. These responses are often the same as forms 1 to 3, and are also often covered with smiling heart images or similar images.
+
+Each form begins with the same number of words describing SCP-157. The words are usually of a nature of easy reading. The remaining words are largely nonsensical, and often contain questions such as "How did you learn to use these forms?" and "What are you studying in that class?"
+
+After a set number of words, SCP-157 will move to the self-insertion form. The form will scan the form and insert the instructions from the teacher's instruction sheet. After that, the self-insertion form will move back to the classroom.
+
+SCP-157 has been observed to fax two-page answers at a time. These answers include short, often simple, questions: from how to add new syllables and other formularies to how to decipher instructions on basic math (such as fractions, runes, and quadrangles), or anything else. Tests have shown that SCP-157 answers these simple questions will not differ from answers that would be produced by the instruction sheet.
+
+SCP-157's forms 2 to 4 contain a number of stars or symbols similar to those of the sun and moon, and depict tremendous ritual use and sacrifices. While they occur in the form of simple collages of instructions, they tend to take an unusual form when the moon both rises and sets. The supposed purpose of these sacrifices consists of placing the large stones (large enough to hold the moon), and then the small spheres (small enough to hold the moon) atop the temple which will be used as a focal point for SCP-157 rituals.
+
+SCP-157's forms 5 to 7 are marked "Performances of The Myers Briggs test" and contain lists of teachers' instructions and observations. These answers usually include questions such as whether a student is capable of solving the test, whether a teacher has ever taught anyone, and whether a teacher's favor

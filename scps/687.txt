@@ -1,0 +1,55 @@
+Item #: SCP-687
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-687 is currently contained at Site-16, in a standard research and containment cell. The direct majority of Foundation research and containment of extraterrestrial anomalies is focused on bugs, which account for approximately 50% of the major containment breaches. To limit the chances of future anomalous activity, all experiments involving testing SCP-687 must be monitored at all times.
+
+Description: SCP-687 is a miniature telescope that has a flash drive slot, a single power input on the longer end, and a circular drive on the outer end. SCP-687 requires only 1 key to function. SCP-687 does not show signs of anomalous properties, and is disabled by any means currently available. The drive is powered and sealed by the door it is inside.
+
+SCP-687 can be used to magnify any object detected by it. To make this possible, SCP-687 can beep loudly when the blurriness is desired. However, this does not trigger any anomalous effects. SCP-687 does not display any effect of being magnified, except in cases where blurring the object in question is desirable.
+
+SCP-687 was discovered during a routine (somewhat unsuccessful in retrospect) investigation of a small livestock barn that had somehow taken up residence in Site-16. When the lights in the area were put on, a vague outline of a globe covered the entire front of the barn. In the center of it was a white orb, projected the light of the lens directly into the aperture.
+
+The telescope was locked from the outside; however, this was not a sign of abnormal activity. Dr. █████ was left alone in the room for several minutes. SCP-687 was pulled from the confines of the room after the lights came on. Incident log failed to report any anomalous properties.
+
+SCP-687 was recovered following a raid on a temporary house of interest. When preparations were made to seek out an alternative property, SCP-687 was gone, and the house was evacuated. Interview log does not reveal where SCP-687 was kept at the time.
+
+Addendum I: On ██/██/19██, prior to the current activation of Containment Protocol I (See Expunged), SCP-687 was destroyed.
+
+Addendum II: On ███/██/19██, previous methods of deactivation are now unnecessary, and SCP-687 was completely sealed. During this time the light was set to motion continuously until 7:30 PM, at which point all SCP-687 blurring was removed, and it was posited as an extra dimension outside the main universe. Its purpose, if any, was not lost, and SCP-687's existence remained known by the local institutions. Resources have been reallocated to a multitude of anomalous objects, and containment protocols have been revised accordingly.
+
+Following these changes, SCP-687 reappeared in ██████, in an interdimensional space destroying the property of all humans in the area.
+
+Footnotes
+1. For an exact unit measurement, see the table for Kingston, Henry. J. Literal Imperial: Comparing Human Lifetimes. London:
+
+Item Class Description
+SCP-682: The most common of the Seven Deadly Sins.
+
+SCP-693: Theo mali.
+
+SCP-764: The dweller in the house of kaktus.
+
+SCP-914: The chimaera.
+
+5. SCP-692 may or may not qualify as a member of any one of the Solitary Animal species. The following has been proven false, as it appears to have been created at any point before any other species of birds or animals are capable of creating a new instance of SCP-692.
+
+6. No, this is not a typo.
+
+7. Interdimensional space doesn't have to be circular or have legs.
+
+8. The black orb is, in fact, a sphere. It doesn't currently show any negation.
+
+9. SCP-697 is the most common type of divination available to Foundation personnel. It came about accidentally.
+
+10. This is administration for any other type of divination.
+
+11. SCP-698 is the most common method of contacting the Manna Source.
+
+12. The Manna Source is the part of the Manna Triad that the shells are made of.
+
+13. "The Bothersome of the Seven Servants", as they are referred to.
+
+14. "The Yaduvins, The Children of Siddiq."
+
+15. Erect and partially lost in three separate observatories, Arduin, Tokel, and Atzak. Years later the once-eighth ring of the Manna Source was discovered in an attempt to explore the more of the ring's legs. No records or evidence

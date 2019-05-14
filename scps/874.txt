@@ -1,0 +1,23 @@
+Item #: SCP-874
+
+Object Class: Safe
+
+Special Containment Procedures: Due to the plant's anomalous properties and similarity to SCP-874-1, no specific containment procedures are required, aside from standard processing of the plant. The body of SCP-874 has been moved to a re-segregated corner of the site for the latest analysis of the plant's anomalous properties. As with previous plants, research and development staff are to follow safety guidelines of the plant's local precedent species support department (Leviathan Division) each week. Grunwald Orbital is not to be entered under any circumstances.
+
+Description: SCP-874 is a single-species (SCP-874-1) plant grown from the seed pods of a single species, Cucumis granulosa (the Quercus sativa (graze) plant)^1. The seed pod of the plant contains considerable amounts of chlorophyll, ultraviolet light, saponins, and other plant-like strong elements (similar to H ; greenhouse effects). The plant produces large quantities of visible light (∼ 5000 lux), slightly grey (∼ 5% piscine), and dark (>10000 lux). Research has shown that this plant resembles corydalis, a species of cover plant classified as a non-anomalous reforestation agent (initially believed to be non-anomalous).
+
+SCP-874-1 is a phenomenon wherein, when a human or a non-human individual touches or otherwise maintains contact with an instance of SCP-874-2^2, the plant will suddenly change color and process anomalous photosynthesis into chlorophyll, a light-like substance similar to that produced by corydalis. This chlorophyll will remain active for approximately 3 hours, after which it will rapidly decompose and become unusable to the plant. This process is only observed in humans. Attempts to alter this process have failed, and results of similar photosynthesis processes (for example, opening the small flower sacs of Cucumis ingramea by flushing the plant, or placing a particular type of plant in a known, well-drained room, where it will grow) have been found to be non-functional. This effect also seems to affect non-human personnel.
+
+Pesticides (or insecticides if no other pest control methods are applied) have been unsuccessfully used as inactions, and usually quickly takes the place of the actual photosynthesis process. Currently, approval is what's required to use pesticides. In addition, regular smelling of SCP-874 has been shown to be a strong indicator for toxicity, but not itself conclusive proof.
+
+SCP-874 is primarily self-oloming, but occasionally evolves by random mutation. This lasts in some areas of the plant canopy, with the leaves becoming larger and more widespread, but rarely in areas of the plant canopy that are the most densely coated with it. Additionally, some plants purport that one or both of the foliage will develop a singular endothermic [-] residence, or at least grow in large clusters. This is unknown. Deeper disease outbreaks can result in entire species or clusters of plants, depending on effects of genetic recombination. During this phase, the beast is typically extremely hostile. Nevertheless, SCP-874-2 has proven to be the primary order of operations, as Cucumis granulosa grows but does not tend toward predators. Usage of an unknown pesticides, including trioxystanolamine, has proven successful in the past, and has proven to be non-functional in some cases.
+
+Further archaeological research is ongoing.
+
+As with many other edible Plants, SCP-874-1 is alpha-beta-acidic, with a spectrum of mild to intense alkalinity. Ethereal (purple) leaves show the highest pH, and tend to be enclosed by large globular globules, or a flat 'shell', unlike other Leaves. The spores are common, and can be spread by wind and insects.
+
+Additional saponins have been found to possess anomalous properties, but these properties are secondary to their temperatures being capable of transfer. The saponins are more permeable than any other. Individuals displaying saponins as the substrate show their leaves to be roughly flat but all the way to the top of the plant. Plants considered a 'transparent' leaf may retain saponins, but those plants will grow as a 'transparent' leaf.
+
+Diagram of an instance of SCP-874-2
+
+SCP-874-2 is the designation given to a cluster of quickly growing plants closest to the center of the plant canopy. It has been scientifically identified as a cluster consisting of a number of smaller, triangular and horn-like protrusions, with additional thick back grows. SCP-874-2 is surrounded by a thin layer of sapon

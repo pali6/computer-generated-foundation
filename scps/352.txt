@@ -1,0 +1,65 @@
+Item #: SCP-352
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-352 is to be kept with a minimum of 1 staff member at all times. It is not to be removed during the Testing Procedure.
+
+Description: SCP-352 is a 55' long white pine (Punahum erythrum). It is several meters in length and averages ~2.7cm in width. The block of pine is approximately 44.5mm wide. Three light-colored centers are visible in the center of the block, distinguished from each other by coloration, and the edges are smooth, with no visible marks. Six small light-colored dots are visible at the centers.
+
+SCP-352 is normal-colored in coloration to date, though it is consistent with SCP-552. The blocks extend up to ~2 and ~8 meters long respectively, each being tied with a small knot. These ends are of similar coloration to SCP-552. In addition there appeared to have been a "Threading" section on SCP-552-2
+
+SCP-352 does not display any anomalous properties.
+
+SCP-352 does not display any anomalous properties.
+
+SCP-352 has the following special properties:
+
+•It is a uniform representation of all objects that can appear within the same location, regardless of whether or not the object was there before it worked.
+•The object does not require a more specific location in the same timeframe as it is currently in to appear.
+•The object does not require a path or structure to appear in.
+•The object does not require a focal point, such as a tree
+•The object does not require a place to live or an environment to appear in.
+•The object does not require acceptable distance between any two objects in order to be present.
+•The object does not require a close enough focal point to appear in.
+
+SCP-352 has some properties that differ from other objects of the same or similar style, such as the fact that only objects of the same or similar style exist. These differences are not inconsistent with the general behavior of objects.
+
+The following are some of the main properties of SCP-352. In the case of SCP-352 you may find material that is completely inconsistent with what a pen colour or a fancy necklace might provide. If you're interested in the complete list, I recommend taking a look at the below document.
+
+•Every object of the same style or type can appear on any specified surface, regardless of size.
+•SCP-352 does not exhibit any anomalous properties.
+•The object appears on anything within ~2 meters.
+•SCP-352 contains a small indicator on itself. While being invisible, the object does not achieve the properties of the object it is on.
+•SCP-352 is unaffected by damage. If an object is damaged to the point where SCP-352 is not visible, it will remain unaffected while the object or objects around it are affected.
+•Improvements will be made to the product made by SCP-352 no less than 50%.
+•SCP-352's found on objects and surfaces that have been completely destroyed, have not been replaced, or have been removed are unable to vanish, another object of the same style or type will appear on it at the next possible opportunity. However, if no equipment is present, lingering objects of the same style will be unaffected.
+•The object will never disappear.
+•The object will always appear on the next object of the same style as it is being owned.
+•The object will disappear if the next object that is being interacted with disappears.
+•The object will always appear on a valid surface.
+•The object is capable of existence.
+•The object will never disappear. A time loop upon disappearance will not occur, and no feedback from SCP-352 will be present.
+
+SCP-352 was initially identified as ██████ ████, and SCP-352 was discovered by an employee of ███████. See Incident Report 352-A for more information.
+
+Timeline Logs:
+
+Event Log 352-A
+
+Date: ██/██/20██ Pre-Test Report
+
+Event #: 352-A
+
+Subject: SCP-352
+
+Event Description: For ██ days, SCP-352 was not shown to other people. Afterwards, SCP-352 was shown to the next object of it's own type.
+
+The object of choice was returned to its own level.
+
+Date: ██/██/█ SCP-352 was placed in an empty room, in the middle of a room, and there was a wall-sized section of wall. SCP-352's object is sighted on the wall, and all other objects are unaffected.
+
+Duration: ██ hours, 7 minutes
+
+Event #: 352-B
+
+Subject: SCP-

@@ -1,0 +1,43 @@
+Item #: SCP-2
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-2 is to be contained in a standard forkshooter locker at Site-88, in standard, locked Safe-Class containment lock. Access to SCP-2 via neutralization of SCP-4890-1 is restricted to Level-3 personnel.
+
+Should the Foundation discover armed units attempting to undertake a breach of containment, it is to be treated as a matter of National Security Threat Level 4 Clearance.
+
+Description:
+SCP-2 is a portable computer of unknown date of origin. Its construction and layout are consistent with a construction tool of the 1st century design, despite the relatively large number of anomalies present.
+
+SCP-2 is equipped with a standard modular desktop machine with a 1:1 floppy disk drive and regularly receives updates from its user. The computer display has not been demonstrated to be fully functional, and will only display SCP-2's operating system.
+
+As far as any of the Foundation's knowledge of SCP-2 is known, SCP-2 has been captured and secured via anomalous means by D-class personnel. SCP-2 has displayed no unusual behavior, and has been declared Neutralized. Special Containment Protocol was enacted to prevent the spread of SCP-2's effect.
+
+Description 2:
+SCP-2 is a desktop computer which, according to the machine's label, is an ancient antique computer.
+
+SCP-2's matter of fact voice prompts contain the following words:
+
+"I've looked through all the documentation. You're joking. You're a computer."
+
+The machine reads as follows:
+
+Diskette Version: 4, File: Info: Tableau.xd
+
+A WORD OF DEBUG
+
+DESCRIPTION
+
+DESCRIPTION
+
+DESCRIPTION
+
+DESCRIPTION
+
+DESCRIPTION
+
+DESCRIPTION
+
+SEARCH
+
+Page

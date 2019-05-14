@@ -1,0 +1,25 @@
+Item #: SCP-986
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-986's interior is to be searched as per standard Foundation protocols for SCP-808. Remaining perimeter security armored personnel and lead researchers are to attend the site and ensure the area is thoroughly scrubbed once a week. Any intentionally constructed door or window should be audited for damage. Should any damage be found, termination of SCP-682 is to be considered definitively ruled on by Site-19's termination protocol.
+
+Description: SCP-986 is a single-story flat constructed on █████████ ██████ of the same model as the building's tenants^3. SCP-986 appears both to be a normal home but upon investigation to uniformly display the observed effects. The anomalous effects, as well as the complex adhesives used to form the interior, are currently unknown. SCP-986 is partly composed of a sesame seed-rich flesh, with identical pore-like substance to the one found in the seed. In the center of the parcel is an open video camera constructed of an elliptical shape approximately three meters in diameter built into the corner of SCP-986. The camera displays anomalous post-interior effects upon turning on. These effects are almost completely controlled by a combination of noise reduction, distortion, and the effects of distortion. Dissolution of portions in both media is possible, but these operations are almost invariably unsuccessful.
+
+SCP-986 is also inhabited by several anomalous organisms. The majority are similar in appearance, in structure, anemic and dactyloptery; many individuals, despite being entirely nonanomalous, appear to be decaying. At this point development of anomalous flora and fauna is almost certainly pathological and/or unhygienic; these organisms require no sustenance, but may prove susceptible to insect infestation.
+
+Unable to sufficiently sustain the beneficial effects and keep it off of the corpses of their hosts, many individuals remain alive, but exhibit catatonic and deluded states upon waking from unconsciousness. During the period of this coma state, they will propagate previously existing anomalous forms of infestation upon their hosts; the following list indicates certain instances of infestation which have been attempted in the affected hosts and which have proven successful.
+
+•Female adult (adult) host will regularly consume affected host after the time it normally takes for the subject to have fallen asleep. After the first couple of days the typical pattern of infestation will spread out from center of mass until all hosts are infested.
+•Heteropters will resort to distribution of spores over the exterior of a predisposed host before being able to separate the hosts and spread it over a wider swath. Despite their exceptional size, they pose no significant threat to human life or limb.
+•All human birth abnormalities will be present when the host brain is not. The stage of the disease can be delayed significantly by infected individuals infecting multiple hosts, which generally strikes first in the central nervous system. With the mid-term stage of the disease, the affected host can be overcome with adult stage antibodies, but remains susceptible to the infection back-up.
+
+Infected hosts will retain all prior memories of their lives prior to entering the topsy-turvy stage of the disease. These memories, however, are twenty-sevenfold less accurate, and often contain false or erroneous information. Based on interviews, it is clear that infection is most likely the cause of this issue.
+
+Upon the stage of the disease, the affected host will develop a linear infestation, causing the host to eventually become a half-human, multidimensional specimen of the aforementioned fungi. In the mid-term stage, the patient will surface sporadically and excrete a variety of spores. Despite being nonanomalous, these spores are still highly infectious.
+
+Upon the later stages of the infection, infected hosts will become genetically identical in physical features, significantly augmenting their intellectual abilities. These additions are often short-sighted, simplistic in tone, and inaccurate containing of information. Current adaptive biological wards attempt to catalog the affected hosts and isolate instances of the infection for study. This, however, tends to be very costly and time consuming, so observation and study are to be subordinated to research projects.
+
+Certain instances of the infection appear to be an unavoidable consequence of having been exposed to foreign DNA; samples taken from infected hosts up to the mid-term stage can contain a multitude of distinct human races. It is unknown what the original genome structure of the infected hosts is supposed to be, though it is theorized that it is based upon varying genetic diversity from each host. There is no known way to mitigate the severity of the infection, or to precisely prevent the hosts from evolving additional physiophilic and symbiotic properties.
+
+SCP-986 was discovered in the early-to-mid-20th century in ████████, CA during a family charity raid that buried a

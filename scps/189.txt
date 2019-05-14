@@ -1,0 +1,16 @@
+Item #: SCP-189
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-189 is not to be removed from containment facilities and is to not be stored, stored, or subjected to testing. Foundation personnel tasked with testing it are to be reprimanded.
+
+Description: SCP-189 is a spherical object with a diameter of 2.37 meters. Its anomalous properties have been described as "immersive" and "nearly impossible to study beneath Foundation containment procedures". In its anomalous state, SCP-189's surface affects the way in which objects are viewed.
+
+If viewed at a distance of less than 75 meters, SCP-189 is unable to produce its anomalous effect. If viewed at a distance greater than 75 meters, however, the anomalous effect will manifest in a 1% level reduction of the retina.^1 Testing has shown that the anomaly disappears if a distance of at least 75 meters is traveled by SCP-189's effect.
+
+Addendum 189-A: In light of SCP-189's anomalous properties, it has been placed within a 10km radius of Site-██. The object is to be kept within this radius to prevent accidental containment breach.
+
+Footnotes
+1. Environmental quality control monitors have shown that the area of effect extends out to the maximum distance receiver sensors can detect.
+2. Site-██ is located on the northeastern coast of the Central American coast of Panama.
+biological _cc euclid extraterrestrial loop loop scp

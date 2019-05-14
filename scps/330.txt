@@ -1,0 +1,28 @@
+Item #: SCP-330
+
+Object Class: Keter
+
+Special Containment Procedures: The site has been declared a Containment Area. Foundation Web crawlers are to monitor the Internet for new pages and the usage of known SCP objects.
+
+In the event that a page or piece of text is identified as having been posted on a popular internet website, Foundation computer forensics services are to monitor that site and those individuals responsible for its distribution. This is to target individuals and groups deemed to have posted anomalous material, and while not "likely" or "highly likely" to have written SCP material, the possibilities of anomalous content are always present. Additional personnel should identify if a given page or piece of text is currently submitted to the mainlist of the Foundation database.
+
+Description: SCP-330 (wiki) is a collection of collected posts and text of anomalous content. Most instances of anomalous content that have been reproduced by Foundation Web crawlers unique to SCP-330 were written by D-class personnel. Targeted individuals who have read SCP-330 outside of Foundation containment generally are unable to identify SCP-330 instances, and New instances cannot be identified.
+
+SCP-330 instances are classified based on the characteristics of their original posting, with the letters SCP or SCP-330 being classified as instances of SCP-330-1. While instances of SCP-330-1 may be written and transmitted through email, computer files or some other method of transmission, it is impossible to determine the exact nature of these instances through experimentation. SCP-330-1 instances may only be identified through the random street corners and static captured by Foundation Web crawlers.
+
+Some SCP-330-1 instances have been reproduced by Foundation Web crawlers of value to SCP-330, such as SCP-329, SCP-330. Foundation researchers, managers, and human resources have conducted a repeatable program of investigation, with the intent of finding and capturing a single instance of SCP-330-1, resulting in the neutralization of SCP-330-1.
+
+In the event of an SCP-330-1 instance being captured, proper containment must be instituted within three (3) days of capture. No malicious or maliciously crafted SCP-330-1 instances may be present without the authority of the Ethics Committee of the Foundation.
+
+SCP-330 has been observed to not produce new instances of SCP-330-1, but instead induce a number of previously existing instances of SCP-330-1 to scatter and bubble. As of writing, this phenomenon has reached an apex of 39 SCP-330-1 instances in the Foundation hierarchy.
+
+SCP-330 was discovered in Palo Alto, California on ██/█/20██. Foundation agents finding it were unable to modify containment protocols. This was the only successful capture of a SCP-330-1 instance — originally dubbed SCP-330-2 — which resulted in the already defunct Foundation being disbanded as a result.
+
+A Foundation agent was able to identify some paragraphs of SCP-330-1 instances, most notably the various posts on ███████ ████████ ████ ████ ██ ████. The images displayed began to rapidly decay over the course of a few days, indicating that the current state of Site-44 was the source of the phenomenon. SCP-330 was recovered in a standard Foundation-issue library at ███████████, ████, █████ ████. Furthermore, SCP-330 was found in a local ███ █████ ██████ ████████ ████ ████████ ████ ████ ████ ███ ████ ████ ████ ███ ███ ████ Laboratory, only to be recovered by Foundation agents at █████████ █ ███ ████ ██ ████ ███ Tomorrow.
+
+On ██/██/20██, two Foundation agents were dispatched to ████████ ████ ████ to retrieve D-class personnel and SCP-330 instances. SCP-330 was brought to the Site-44 terminal while the Foundation agent and SCP-330-2 were able to see it online. SCP-330 was still in containment at the time of recovery. It was recovered in ████████ █████ ████ which it had been stored in. SCP-330 was found having been posted by █ ████ ██ ██████ ██████████ ████.
+
+Addendum-03: The following testimonies are given to demonstrate the ability of SCP-330 to use SCP objects and SCP personnel. Be advised, all of SCP-330's instances will display attached data, and will be able to utilize it, no matter their beliefs. The intent of the encounters is not to discourage Foundation Foundation personnel to use SCP objects or SCP personnel, but to reevaluate and reconsider the normal use of SCP-330.
+
++ShowInterviewswithSCP-330-1
+–

@@ -1,0 +1,85 @@
+Item #: SCP-128
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-128 is to be kept in a 5-by-5-cm by 5-by-5-cm plastic container. When located, a camera is to be trained on SCP-128 and provided with enough power to track SCP-128. In the event that SCP-128 is offered up of itself in its natural state, a synopsis of the events leading to that state is to be recorded by Foundation agents and uploaded to the Site Director's information center. In the event that SCP-128 is offered up on its own after a protracted period of time, the event is to be recorded and submitted to Foundation HQ for review. The review of the events and subsequent events is to take place at least once a year and, subject to approval by the Site Director, is to take place out of personal and Foundation funds, with all decisions to be requested by O5 Command.
+
+The following are containment procedures for SCP-128 and its properties:
+
+•SCP-128 and its contents are to be kept in a standard storage unit at Site-51. Foundation staff with Level 3 security clearance are permitted to access the containment unit by request.
+•Money is to be made available to Foundation staff using the Foundation's inventory of SCP-128 and their corresponding SCP numbers.
+
+When SCP-128 is offered up in its natural state, the events leading to that state are to be recorded by SCP-128's current containment unit and uploaded to the Site Director's information center. In the event that SCP-128 is offered up on its own after a protracted period of time, the event is to be recorded and submitted to Foundation HQ for review. The review of the events and subsequent events is to take place at least once a year and, subject to approval by the Site Director, is to take place out of personal and Foundation funds, with all decisions to be requested by O5 Command.
+
+In the event that SCP-128 is offered up from outside its containment unit for the purposes of testing, containment units will be activated. When the testing units' testing conditions are met, anomalous property surrounding SCP-128 is to be appropriately tagged with the appropriate Keter containment. At this point, SCP-128 is to be returned to its containment unit.
+
+All instances of SCP-128's anomalous properties are to be tracked by a tracking form supplied to Foundation Personnel. Every 3 months, a document containing the details of SCP-128's anomalous affections, including the occasions SCP-128 was offered up and the times the events leading to that state have occurred, will be uploaded to the Site Director's information center. All members of O5 Command are to review this document in the Event Log, and should note that the containment unit with SCP-128 is not to be located more than 3 meters away from SCP-128.
+
+SCP-128 will only emerge at the start of a new year, in which the Site Director's event report is to be declassified.
+
+Description: SCP-128 is a computer program of unknown origin, currently bypassing Foundation databases to emit recordings and other anomalous effects. Its programming form appears to be the latest version of Adobe Acrobat Reader, operated by Adobe. Recording reveals no anomalous effects in any of the tests performed in SCP-128.
+
+The Program appears to be completely free of all controls and restrictions, replaced by a table of actions.
+
+Program Open Enter
+Browse HTML
+Browse Also
+aaab.mp3 ?r^
+aac .
+
+Baseline CHECKLIST Immediate action Actions
+Select a Language Standard Input and Outputs
+Input/Output Keyword / Input/Output Order / Input/Output Order
+1.F:f
+press {$action}
+If this input is a link, clicking it will open a dialog box. Enter your key/output.
+1.F:f
+2.f:f
+3.f:f
+
+Next Action
+Have you checked the box?
+
+1.F:f
+input (close)
+2.f:f
+3.f:f
+
+Select a time and date.
+
+1.f:f
+input (close)
+2.f :f
+3.f:f
+
+Please enter a time and date.
+
+1.f:f
+input (close)
+2.f:f
+3.f :f
+
+Please enter a detailed action for the input.
+
+1.f:f
+input (close)
+
+[[/BASE]]
+
+[[/CODE]]
+
+[[/BASE]]
+
+[[/TEXT]]
+[[/BASE]]
+
+[[/CODE]]
+
+[[/BASE]]
+[[/TEXT]]
+
+Create.
+
+Please enter a new file.
+
+1.F:f

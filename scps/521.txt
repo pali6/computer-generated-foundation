@@ -1,0 +1,75 @@
+Item #: SCP-521
+
+Object Class: Euclid
+
+Special Containment Procedures: All content is presented as explanations for a series of techniques directed towards obtaining SCP-521. A full manual is to be available for download in the Containment Wing of Site-62.
+
+Description: SCP-521 is the collective designation for a set of techniques designed to forcibly compel the release of subjects from their containers.
+
+SCP-521-1 are a series of techniques originally developed by Dr. █████████ ██████████. These methods prevent their subjects from producing exit through left or right thalamus. Any subject held in SCP-521-1 will frequently become mentally unstable and begin to use means of persuasion and persuasion to force their counterparts into releasing their subject’s container.
+
++ShowSCP-521-1
+-HideSCP-521-1
+
+SCP-521-1 are attempts to prevent containment of SCP-521-1. As of this time, no method of containment has been developed on SCP-521-1, nor any program to prevent their use is available.
+
+Addendum-0: Detecting SCP-521-1
+
+SCP-521-1 are objects which contain SCP-521-1. They are usually contained in a zinc or copper container with a metal flap. SCP-521-1 are usually the only substance that their containment chamber can fit in, and are quite harsh on other substances. SCP-521-1 are quite sensitive if exposed to temperature above approximately 1031C.
+
+SCP-521-1 are not affected by temperature once inside.
+
+SCP-521-1 only have properties when contained by another subject.
+
+SCP-521-1 will release their subject if the value in its container is significantly higher than the maximum value of its drop. This applies regardless of the item that it is contained with, and does not apply if the same item is contained with something else.
+
+SCP-521-1 will not release its subjects at any time when they are in the possession of their original owner.
+
+Mobile Task Force Tau-1 ("Motherless Walkers") has been alerted to the presence of SCP-521-1 in the care of a Foundation-owned ███████ ███████ ████ ████.
+
+Addendum-101: Picture taken of SCP-521-A
+
+Picture, credited to ████ ███████ ███████ ████████.
+
++Show6/521-1
+-Hide6/521-1
+
+SCP-521-2: I thought you liked them.
+
+SCP-521-3: Yes, I did.
+
+SCP-521-4: That’s true, we also like them.
+
+SCP-521-5: I would. I think the object needs more of our attention.
+
+SCP-521-6: I remember you say that you made her a few times, but I don’t remember her name.
+
+SCP-521-1: No, I don’t.
+
+SCP-521-1: Why don’t you keep on referring to it as “Motherless Walkers”?
+
+SCP-521-2: Why?
+
+SCP-521-3: It’s not. It’s not.
+
+SCP-521-1: She is exactly what she is meant to be.
+
+SCP-521-2: I think she would have preferred that.
+
+SCP-521-1: It’s not your choice. It’s not yours. What you have is a front for something that does ours things. We will sacrifice ourselves to make ourselves less vulnerable. We will discover why you can’t even use a sword to kill a creature.
+
+SCP-521-1: It’s an artifact. I never will be the same.
+
+SCP-521-4: Uh, I just wanted to say that my knives have not been broken.
+
+SCP-521-1: You’re right. I’ve tried.
+
+Foundation Liberty Network
+
++ShowTheCaravan
+-HideTheCaravan
+
+The Foundation-owned Liberty Network is a network of Foundation-owned private research organizations dedicated to the observation, control, and extensions of anomalous phenomena. The Foundation Network utilizes Foundation personnel and assets that translate into anomalous characteristics, thus providing the capacity to increase the capabilities of Foundation-owned organizations.
+
+The Foundation Network is led by a series of Manchurian operatives responsible for the use of anomalous items for the benefit of the Foundation, with an affiliated network of Foundation-affiliated organizations.
+

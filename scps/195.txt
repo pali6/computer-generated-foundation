@@ -1,0 +1,25 @@
+Item #: SCP-195
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-195 should be kept in standard storage in Site-64's anomalous item wing. It should be kept in a locked and labeled storage vault or in a Vault-17, but is not to be used for non-hazardous purposes. For safety purposes, SCP-195 is supersedent of its containment chamber, new biohazard containment protocols have been implemented and the first-ever containment breach is considered to be imminent.
+
+Except for testing purposes, all tests involving SCP-195 are to be performed at Site-64's person-in-charge-of-research. Staff is allowed to request additional information about SCP-195 only for a full review of the categories of safe and anomalous materials.
+
+In the event that SCP-195 presents a viable containment proof-of-concept, random members of staff should either investigate or avoid the procedure.
+
+Description: SCP-195 is a silicone flask, measuring approximately 2.8cm x 3.8cm x 0.8cm. When poured into a glass tube, SCP-195 will fill the second and first container. When mixed with non-anomalous liquid, it will fill the third container without opening. The behavior when poured into a sealed container is consistent with SCP-195's containment chamber.
+
+When built and opened, SCP-195 will transfer a certain amount of weight to the room inside. This amount will gradually increase with use, in proportion to the amount of liquid on the room inside. Any material placed inside of SCP-195 after opening the first container will be transferred to the next designated container. Three of the four unusable five dozen SCP-195 containers are windows, best suited for SCP-195's purpose of being a containment chamber. Two of them are breaches, pushing SCP-195 to open any or all of them at any given time.
+
+This process is known as "back-to-basics". The process requires little time, compared to other one-way procedures. The process takes between 1 minutes and 3 minutes depending on the amount of liquid being used, and usually ends with D-class "recovering".
+
+Note: I'll put it here. I'm testing this. I'm sure, after some testing, it's just a test. Do not use this for your life.
+
+Note: I'll leave that up to you. If you're concerned, contact your supervisor for instructions.
+
+— D-class-1, former Site-76 researcher
+
+Footnotes
+1. This refers to human subjects in containment.
+_cc container liquid safe scp spacetime toy

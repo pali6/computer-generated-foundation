@@ -1,0 +1,21 @@
+Item #: SCP-231
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-231 is stored in Storage Unit B of Site-███. Access to SCP-231 and SCP-241 is currently restricted to Archives and Internal Affairs.
+
+Description: SCP-231 is a large, sentient mass of meat and bone. It walks and acts like a normal nonanomalous human, while detaching itself from visible physical matter. It appears to be composed of flesh and bone, and is able to be moved using natural appendages. The concrete, glass and steel in its body exhibits sufficient corrosion and decay to allow movement of SCP-231. For this reason, SCP-231 is classified as Keter-class anomaly.
+
+SCP-231-A is a small wooden box containing a large quantity of SCP-231. It is one of the most thoroughly tested objects in containment. It is made from walnut, which has been tested to lead to a permanent mutagen state, and from partial vivariums.
+
+SCP-231-B is a six-channel dishwasher. It is a blue-green plastic container with a stainless steel interlocking lid, that can be powered by the front panel. Additionally, it includes a hand-warmer. Each time the dishwasher cycles, the lid automatically shuts, regardless of the time elapsed on the battery.
+
+SCP-231-B is connected to the outside of SCP-231-B by a small switch. Immediately upon opening the lid, SCP-231-B will be replaced with a single large syringe, which can then be fed to SCP-231-A. When the permanent mutagen status is achieved, SCP-231-B will initiate an emergency procedure.
+
+When SCP-231-A processes physical matter as it would be affected by the mutagen, it will develop internal bleeding. Once the process has completed, it will disassemble the internal components of SCP-231-B, and begin removing the effects of the mutagen itself. This process takes approximately 30 seconds. Once SCP-231-B has done its cleaning, it will then remove the mutagen from SCP-231-A.
+
+Upon opening SCP-231-A, SCP-231-B will be found to contain several instances of SCP-231-A. These instances are believed to be nonanomalous, with the exception of the box containing SCP-231-A.
+
+Affected objects can be put back into packaging and are provided to SCP-231-B. SCP-231-B will then contain a replacement object, resulting in a score of four different mutagenic objects.
+
+level4 information augmentation humanoid in-progress keter scp skeletal

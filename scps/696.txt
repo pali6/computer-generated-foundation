@@ -1,0 +1,26 @@
+Item #: SCP-696
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-696 is to be stored in a standard species containment locker. Testing should only be conducted with approved personnel. Testing on SCP-696 will be carried out remotely.
+
+Description: SCP-696 is a 1,500ml bottle of Red Wine which is imprinted with the label "Red Wine by The Grape". Upon opening the upper lip, the bottle begins to emit a blue glow. The bottle produces no other anomalous properties.
+
+Once opened by an adult human, SCP-696 will overload the cell's internal temperature and provide the natural taste of red wine, through the mouth. The person who consumes SCP-696 will deny any other cognitohazardous effects, and will enter a neurochemical compulsion trance. This trance lasts for approximately 45 minutes and is believed to last between 8 and 12 minutes.
+
+Once the individual who consumes SCP-696 enters a trance, a domed flame will grow surrounding the subject. This flame, referred to as "the flame", grows in strength as the subject is consumed, and its size increases proportionally to the amount of wine consumed. The flame appears to be excreted from the subject's mouth.
+
+The flame consumes the subject until no more wine remains, is consumed, and the subject leaves the swarm. Within 5 seconds after the flame is consumed, the flame vanishes entirely, and the subject will enter a trance. The flame is thought to be formed from the mass of the person who consumed SCP-696, and consumes the wine completely.
+
+The effect is only reversed after the subject dies.
+
+Addendum: The majority of the anomalous property of SCP-696 was first discovered in the 1960s, as non-visceral rewards or punishments were administered to those who consumed this anomalous foodstuff.
+
+Footnotes
+1. It was initially believed that the flame was a natural feature of SCP-696, however it was later identified as a relatively new phenomenon.
+2. The use of iris-light-based wards by medics can be found in Document 554-c of the Foundation Wound Collection.
+3. The immediate effect of the flame not being directed at the subject's face nor the mouth is indistinguishable from the effect of the flame, and will likely not be reproduced by the subject.
+
+ SCP-695 | SCP-696 | SCP-707 
+
+alive cognitohazard compulsion k-class-scenario memory-affecting safe scp self-repairing

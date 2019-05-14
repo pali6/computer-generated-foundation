@@ -1,0 +1,19 @@
+Item #: SCP-84
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-84 is to be stored in a standard Safe-class storage locker in Site-██. All personnel handling SCP-84 should wear protective gloves at all times, and be equipped with a Class-C oxide field-glass respirator when entering the enclosed area. All terminals installed within subject’s eye area are to be worn by at least one (1) Level 5 researcher. This researcher will then guide the subject’s and SCP-84-2’s movements by guiding them through the enclosed area. Since SCP-84's effects are still not fully understood, O5 Command has authorized the testing of this effect on subjects less than 21 years of age, though direct experimentation with SCP-84 is not required.
+
+Description: SCP-84 is the collective term for both of its anomalous effects. SCP-84 takes the form of a miniature fluorescent light bulb placed on the ceiling of its containment unit and when touched by a human subject will activate its anomalous capabilities. Although this effect has been observed on any level of SCP-84’s containment unit, it has not yet been observed in levels below containment in general. At time of writing SCP-84 has not been observed to activate its mystical abilities without direct input from another source, and only activates its anomalous abilities when touched by a human subject.
+
+When SCP-84 is placed within a Level 4 containment cell, SCP-84-2 will immediately begin to observe and respond to the individual who first placed the Foundation’s deadliest weapon within its containment unit. A large group of individuals known to have been affected by SCP-84-1 and who have been known to have been identified as operatives within the Foundation will spontaneously activate SCP-84's anomalous abilities when approached by SCP-84-1. Due to SCP-84’s destruction capabilities, SCP-84-2’s ability is to be used if SCP-84-1 is aware of its presence and it states that they have activated SCP-84’s abilities within a containment unit, or if SCP-84 has participated in and approved of its effects.
+
+Any individual who has a humanoid subject within a 5 meter radius around SCP-84 will immediately begin to activate SCP-84’s anomalous abilities. The resulting SCP-84-2 overrides all established anomalous abilities within the surrounding area, and has been noted to create improved containment procedures, among other things. In addition, SCP-84-1 is aware of SCP-84's anomalous capabilities regardless of the level of difficulty of containment.
+
+SCP-84 has been observed to activate the anomalous abilities of any human subject within its containment unit, and will only activate these abilities when placed within a Level 4 containment cell. Any individual's anomalous abilities activate when placed within a cell larger than a 5 meter radius around SCP-84.
+
+An uncountable number of humans managed to escape out of their containment units before containment guards killed them.
+
+ SCP-83 | SCP-84 | SCP-85 
+
+autonomous _cc euclid humanoid scp

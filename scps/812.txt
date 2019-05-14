@@ -1,0 +1,21 @@
+Item #: SCP-812
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-812 is to be kept in a standard anomalous object storage locker at Site-137. Personnel are to keep SCP-812[1]
+
+Description: SCP-812 is a 3.5 Liter mechanical vacuum. It is equipped with a single lockbox. It measures ten centimeters in length and twenty centimeters in width, however the ████ brand disc style grip has been designed to prevent loss of each turn. SCP-812 was found abandoned in the middle of ████ Point, a temperate region located in the Scottish Highlands.
+
+When opened, SCP-812 hides an amnesticized D-Class, designated Crim123 in the following entries:
+
+198 - █████████
+
+317 - █████ ██████████
+
+301 - ████████ ██████████ ███████
+
+Collected by Crim123 ex-NLS/D.2.████ Mag
+
+ SCP-811 | SCP-812 | SCP-813 
+
+autonomous biological euclid humanoid location sapient scp sentient
